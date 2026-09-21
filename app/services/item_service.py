@@ -12,10 +12,13 @@ def search_item(name: str):
     request_start = time.perf_counter()
 
     response = requests.get(
-        f"{API_BASE}/db/search",
-        params={"q": name},
-        timeout=30
-    )
+    f"{API_BASE}/db/search",
+    params={"q": name},
+    headers={
+        "User-Agent": "Mozilla/5.0"
+    },
+    timeout=30
+)
 
     print(
         f"search_item request [{name}]: "

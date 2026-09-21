@@ -25,4 +25,3 @@ def home(request: Request):
         request=request,
         name="index.html"
     )
-

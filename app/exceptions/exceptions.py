@@ -1,0 +1,2 @@
+class InvalidInventoryCSV(Exception):
+    pass

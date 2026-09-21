@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Vendinator 2000</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body>
+
+    <h1>VEND MASTER 69</h1>
+
+    <div class="layout">
+
+        <div class="input-section">
+
+            <h2>Inventory</h2>
+
+            <textarea
+                id="inventoryInput"
+                placeholder="Apple,20&#10;Buckler,5&#10;Hat,2"
+            ></textarea>
+
+            <br>
+
+            <button
+                id="search-button"
+                onclick="confirmInventory()"
+            >
+                Search
+            </button>
+
+        </div>
+
+
+        <div class="items-section">
+
+            <h2>Items</h2>
+
+            <div class="results-box">
+
+                <div id="results"></div>
+
+                <button
+                    id="pricecheck-button"
+                    class="pricecheck-button"
+                    onclick="pricecheck()"
+                >
+                    Pricecheck
+                </button>
+
+            </div>
+
+        </div>
+
+
+        <div class="results-section">
+
+            <h2>Results</h2>
+
+            <div class="price-adjustment">
+
+                <label for="price-adjustment">
+                    Price adjustment:
+                </label>
+
+                <input
+                    type="range"
+                    id="price-adjustment"
+                    min="80"
+                    max="120"
+                    value="100"
+                    step="1"
+                >
+
+                <span id="price-adjustment-value">
+                    100%
+                </span>
+
+            </div>
+
+            <div class="results-box">
+
+                <div id="calculationResults"></div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <script
+        type="module"
+        src="/static/js/app.js"
+    ></script>
+
+</body>
+
+</html>

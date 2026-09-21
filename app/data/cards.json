@@ -1,0 +1,5017 @@
+{
+    "4001": {
+        "name": "Poring Card",
+        "prefix": "Lucky",
+        "suffix": null
+    },
+    "4002": {
+        "name": "Fabre Card",
+        "prefix": "Vital",
+        "suffix": null
+    },
+    "4003": {
+        "name": "Pupa Card",
+        "prefix": "Hard",
+        "suffix": null
+    },
+    "4004": {
+        "name": "Drops Card",
+        "prefix": "Dexterous",
+        "suffix": null
+    },
+    "4005": {
+        "name": "Santa Poring Card",
+        "prefix": "Hallowed",
+        "suffix": null
+    },
+    "4006": {
+        "name": "Lunatic Card",
+        "prefix": "Lucky",
+        "suffix": null
+    },
+    "4007": {
+        "name": "Pecopeco Egg Card",
+        "prefix": "Beholder",
+        "suffix": null
+    },
+    "4008": {
+        "name": "Picky Card",
+        "prefix": "Extra",
+        "suffix": null
+    },
+    "4009": {
+        "name": "Chonchon Card",
+        "prefix": "Light",
+        "suffix": null
+    },
+    "4010": {
+        "name": "Willow Card",
+        "prefix": "Wise",
+        "suffix": null
+    },
+    "4011": {
+        "name": "Picky Egg Card",
+        "prefix": "Dynamic",
+        "suffix": null
+    },
+    "4012": {
+        "name": "Thiefbug Egg Card",
+        "prefix": "Rigid",
+        "suffix": null
+    },
+    "4013": {
+        "name": "Andre Egg Card",
+        "prefix": "Excellent",
+        "suffix": null
+    },
+    "4014": {
+        "name": "Roda Frog Card",
+        "prefix": null,
+        "suffix": "of Champion"
+    },
+    "4015": {
+        "name": "Condor Card",
+        "prefix": "Quick",
+        "suffix": null
+    },
+    "4016": {
+        "name": "Thief Bug Card",
+        "prefix": "Speedy",
+        "suffix": null
+    },
+    "4017": {
+        "name": "Savage Bebe Card",
+        "prefix": "Stun",
+        "suffix": null
+    },
+    "4018": {
+        "name": "Andre Larva Card",
+        "prefix": "Smart",
+        "suffix": null
+    },
+    "4019": {
+        "name": "Hornet Card",
+        "prefix": "Martyr",
+        "suffix": null
+    },
+    "4020": {
+        "name": "Familiar Card",
+        "prefix": "Blink",
+        "suffix": null
+    },
+    "4021": {
+        "name": "Rocker Card",
+        "prefix": "Skillful",
+        "suffix": null
+    },
+    "4022": {
+        "name": "Spore Card",
+        "prefix": null,
+        "suffix": "of Spore"
+    },
+    "4023": {
+        "name": "Baby Desert Wolf Card",
+        "prefix": null,
+        "suffix": "of Desert"
+    },
+    "4024": {
+        "name": "Plankton Card",
+        "prefix": "Drowsy",
+        "suffix": null
+    },
+    "4025": {
+        "name": "Skeleton Card",
+        "prefix": "Keen",
+        "suffix": null
+    },
+    "4026": {
+        "name": "Female Thiefbug Card",
+        "prefix": "Shrewd",
+        "suffix": null
+    },
+    "4027": {
+        "name": "Kukre Card",
+        "prefix": "Athletic",
+        "suffix": null
+    },
+    "4028": {
+        "name": "Tarou Card",
+        "prefix": "Double-forced",
+        "suffix": null
+    },
+    "4029": {
+        "name": "Wolf Card",
+        "prefix": "Wolverine",
+        "suffix": null
+    },
+    "4030": {
+        "name": "Mandragora Card",
+        "prefix": "Windy",
+        "suffix": null
+    },
+    "4031": {
+        "name": "Pecopeco Card",
+        "prefix": null,
+        "suffix": "of Mars"
+    },
+    "4032": {
+        "name": "Ambernite Card",
+        "prefix": null,
+        "suffix": "of Athena"
+    },
+    "4033": {
+        "name": "Poporing Card",
+        "prefix": "Detoxication",
+        "suffix": null
+    },
+    "4034": {
+        "name": "Wormtail Card",
+        "prefix": "Clever",
+        "suffix": null
+    },
+    "4035": {
+        "name": "Hydra Card",
+        "prefix": "Bloody",
+        "suffix": null
+    },
+    "4036": {
+        "name": "Muka Card",
+        "prefix": "Robust",
+        "suffix": null
+    },
+    "4037": {
+        "name": "Snake Card",
+        "prefix": "Untouchable",
+        "suffix": null
+    },
+    "4038": {
+        "name": "Zombie Card",
+        "prefix": "Healthy",
+        "suffix": null
+    },
+    "4039": {
+        "name": "Stainer Card",
+        "prefix": null,
+        "suffix": "of Aristotle"
+    },
+    "4040": {
+        "name": "Creamy Card",
+        "prefix": "Teleport",
+        "suffix": null
+    },
+    "4041": {
+        "name": "Coco Card",
+        "prefix": null,
+        "suffix": "of Sandman"
+    },
+    "4042": {
+        "name": "Steel Chonchon Card",
+        "prefix": null,
+        "suffix": "of Heman"
+    },
+    "4043": {
+        "name": "Andre Card",
+        "prefix": "Hurricane",
+        "suffix": null
+    },
+    "4044": {
+        "name": "Smokie Card",
+        "prefix": "Hiding",
+        "suffix": null
+    },
+    "4045": {
+        "name": "Horn Card",
+        "prefix": "Heavy",
+        "suffix": null
+    },
+    "4046": {
+        "name": "Martin Card",
+        "prefix": null,
+        "suffix": "of Cleric"
+    },
+    "4047": {
+        "name": "Ghostring Card",
+        "prefix": "Ghost",
+        "suffix": null
+    },
+    "4048": {
+        "name": "Poison Spore Card",
+        "prefix": "Poison",
+        "suffix": null
+    },
+    "4049": {
+        "name": "Vadon Card",
+        "prefix": "Flammable",
+        "suffix": null
+    },
+    "4050": {
+        "name": "Male Thiefbug Card",
+        "prefix": null,
+        "suffix": "of Hermes"
+    },
+    "4051": {
+        "name": "Yoyo Card",
+        "prefix": null,
+        "suffix": "of Flash"
+    },
+    "4052": {
+        "name": "Elder Willow Card",
+        "prefix": "Erudite",
+        "suffix": null
+    },
+    "4053": {
+        "name": "Vitata Card",
+        "prefix": "Healing",
+        "suffix": null
+    },
+    "4054": {
+        "name": "Angelring Card",
+        "prefix": "Holy",
+        "suffix": null
+    },
+    "4055": {
+        "name": "Marina Card",
+        "prefix": "Ice",
+        "suffix": null
+    },
+    "4056": {
+        "name": "Dustiness Card",
+        "prefix": null,
+        "suffix": "of Warmth"
+    },
+    "4057": {
+        "name": "Metaller Card",
+        "prefix": "Silence",
+        "suffix": null
+    },
+    "4058": {
+        "name": "Thara Frog Card",
+        "prefix": "Cranial",
+        "suffix": null
+    },
+    "4059": {
+        "name": "Soldier Andre Card",
+        "prefix": null,
+        "suffix": "of Cadi"
+    },
+    "4060": {
+        "name": "Goblin Card",
+        "prefix": "Clamorous",
+        "suffix": null
+    },
+    "4061": {
+        "name": "Cornutus Card",
+        "prefix": "Immortal",
+        "suffix": null
+    },
+    "4062": {
+        "name": "Anacondaq Card",
+        "prefix": "Envenom",
+        "suffix": null
+    },
+    "4063": {
+        "name": "Caramel Card",
+        "prefix": "Insecticide",
+        "suffix": null
+    },
+    "4064": {
+        "name": "Zerom Card",
+        "prefix": "Nimble",
+        "suffix": null
+    },
+    "4065": {
+        "name": "Kaho Card",
+        "prefix": "Underneath",
+        "suffix": null
+    },
+    "4066": {
+        "name": "Orc Warrior Card",
+        "prefix": "Brutal",
+        "suffix": null
+    },
+    "4067": {
+        "name": "Megalodon Card",
+        "prefix": "Atomic",
+        "suffix": null
+    },
+    "4068": {
+        "name": "Scorpion Card",
+        "prefix": "Chemical",
+        "suffix": null
+    },
+    "4069": {
+        "name": "Drainliar Card",
+        "prefix": "Saharic",
+        "suffix": null
+    },
+    "4070": {
+        "name": "Eggyra Card",
+        "prefix": null,
+        "suffix": "of Witch"
+    },
+    "4071": {
+        "name": "Orc Zombie Card",
+        "prefix": "Angelic",
+        "suffix": null
+    },
+    "4072": {
+        "name": "Golem Card",
+        "prefix": "Solid",
+        "suffix": null
+    },
+    "4073": {
+        "name": "Pirate Skel Card",
+        "prefix": "Discount",
+        "suffix": null
+    },
+    "4074": {
+        "name": "Bigfoot Card",
+        "prefix": null,
+        "suffix": "of Gargantua"
+    },
+    "4075": {
+        "name": "Argos Card",
+        "prefix": "Hypnotic",
+        "suffix": null
+    },
+    "4076": {
+        "name": "Magnolia Card",
+        "prefix": "Cursing",
+        "suffix": null
+    },
+    "4077": {
+        "name": "Phen Card",
+        "prefix": null,
+        "suffix": "Under a Cast"
+    },
+    "4078": {
+        "name": "Savage Card",
+        "prefix": null,
+        "suffix": "of Recovery"
+    },
+    "4079": {
+        "name": "Mantis Card",
+        "prefix": null,
+        "suffix": "of Mustle"
+    },
+    "4080": {
+        "name": "Flora Card",
+        "prefix": "Fisher",
+        "suffix": null
+    },
+    "4081": {
+        "name": "Hode Card",
+        "prefix": "Glorious",
+        "suffix": null
+    },
+    "4082": {
+        "name": "Desert Wolf Card",
+        "prefix": "Gigantic",
+        "suffix": null
+    },
+    "4083": {
+        "name": "Rafflesia Card",
+        "prefix": "Homer's",
+        "suffix": null
+    },
+    "4084": {
+        "name": "Marine Sphere Card",
+        "prefix": "Blast",
+        "suffix": null
+    },
+    "4085": {
+        "name": "Orc Skeleton Card",
+        "prefix": "Damned",
+        "suffix": null
+    },
+    "4086": {
+        "name": "Soldier Skeleton Card",
+        "prefix": "Critical",
+        "suffix": null
+    },
+    "4087": {
+        "name": "Giearth Card",
+        "prefix": "Order",
+        "suffix": null
+    },
+    "4088": {
+        "name": "Frilldora Card",
+        "prefix": "Guard",
+        "suffix": null
+    },
+    "4089": {
+        "name": "Swordfish Card",
+        "prefix": "Aqua",
+        "suffix": null
+    },
+    "4090": {
+        "name": "Munak Card",
+        "prefix": "Amulet",
+        "suffix": null
+    },
+    "4091": {
+        "name": "Kobold Card",
+        "prefix": null,
+        "suffix": "of Counter"
+    },
+    "4092": {
+        "name": "Skel Worker Card",
+        "prefix": "Boned",
+        "suffix": null
+    },
+    "4093": {
+        "name": "Obeaune Card",
+        "prefix": "Cure",
+        "suffix": null
+    },
+    "4094": {
+        "name": "Archer Skeleton Card",
+        "prefix": "Kingbird",
+        "suffix": null
+    },
+    "4095": {
+        "name": "Marse Card",
+        "prefix": "Genie's",
+        "suffix": null
+    },
+    "4096": {
+        "name": "Zenorc Card",
+        "prefix": "Venomer's",
+        "suffix": null
+    },
+    "4097": {
+        "name": "Matyr Card",
+        "prefix": "Green",
+        "suffix": null
+    },
+    "4098": {
+        "name": "Dokebi Card",
+        "prefix": null,
+        "suffix": "of Zephyrus"
+    },
+    "4099": {
+        "name": "Pasana Card",
+        "prefix": null,
+        "suffix": "of Ifrit"
+    },
+    "4100": {
+        "name": "Sohee Card",
+        "prefix": "Soul-Enchanted",
+        "suffix": null
+    },
+    "4101": {
+        "name": "Sandman Card",
+        "prefix": null,
+        "suffix": "of Gnome"
+    },
+    "4102": {
+        "name": "Whisper Card",
+        "prefix": "Mocking",
+        "suffix": null
+    },
+    "4103": {
+        "name": "Horong Card",
+        "prefix": "Clairvoyant",
+        "suffix": null
+    },
+    "4104": {
+        "name": "Requiem Card",
+        "prefix": "Chaos",
+        "suffix": null
+    },
+    "4105": {
+        "name": "Marc Card",
+        "prefix": "Unfrozen",
+        "suffix": null
+    },
+    "4106": {
+        "name": "Mummy Card",
+        "prefix": "Ancient",
+        "suffix": null
+    },
+    "4107": {
+        "name": "Verit Card",
+        "prefix": "Fledged",
+        "suffix": null
+    },
+    "4108": {
+        "name": "Myst Card",
+        "prefix": "Innoxious",
+        "suffix": null
+    },
+    "4109": {
+        "name": "Jakk Card",
+        "prefix": "Flameguard",
+        "suffix": null
+    },
+    "4110": {
+        "name": "Ghoul Card",
+        "prefix": "Viper's",
+        "suffix": null
+    },
+    "4111": {
+        "name": "Strouf Card",
+        "prefix": "Decussate",
+        "suffix": null
+    },
+    "4112": {
+        "name": "Marduk Card",
+        "prefix": "Peerless",
+        "suffix": null
+    },
+    "4113": {
+        "name": "Marionette Card",
+        "prefix": null,
+        "suffix": "of Ghost"
+    },
+    "4114": {
+        "name": "Argiope Card",
+        "prefix": "Poisoning",
+        "suffix": null
+    },
+    "4115": {
+        "name": "Hunter Fly Card",
+        "prefix": "Malicious",
+        "suffix": null
+    },
+    "4116": {
+        "name": "Isis Card",
+        "prefix": "Divine",
+        "suffix": null
+    },
+    "4117": {
+        "name": "Sidewinder Card",
+        "prefix": "Hybrid",
+        "suffix": null
+    },
+    "4118": {
+        "name": "Earth Petite Card",
+        "prefix": "Dragoon",
+        "suffix": null
+    },
+    "4119": {
+        "name": "Bathory Card",
+        "prefix": "Evil",
+        "suffix": null
+    },
+    "4120": {
+        "name": "Sky Petite Card",
+        "prefix": null,
+        "suffix": "of Dragoon"
+    },
+    "4121": {
+        "name": "Phreeoni Card",
+        "prefix": "Perfect",
+        "suffix": null
+    },
+    "4122": {
+        "name": "Deviruchi Card",
+        "prefix": "Adurate",
+        "suffix": null
+    },
+    "4123": {
+        "name": "Eddga Card",
+        "prefix": "Bearer's",
+        "suffix": null
+    },
+    "4124": {
+        "name": "Medusa Card",
+        "prefix": "Plasterer's",
+        "suffix": null
+    },
+    "4125": {
+        "name": "Deviace Card",
+        "prefix": "Aqua",
+        "suffix": null
+    },
+    "4126": {
+        "name": "Minorous Card",
+        "prefix": "Titan",
+        "suffix": null
+    },
+    "4127": {
+        "name": "Nightmare Card",
+        "prefix": "Insomniac",
+        "suffix": null
+    },
+    "4128": {
+        "name": "Golden Thiefbug Card",
+        "prefix": null,
+        "suffix": "of Deaf"
+    },
+    "4129": {
+        "name": "Baphomet Junior Card",
+        "prefix": null,
+        "suffix": "of Rogue"
+    },
+    "4130": {
+        "name": "Scorpion King Card",
+        "prefix": "Divine",
+        "suffix": null
+    },
+    "4131": {
+        "name": "Moonlight Flower Card",
+        "prefix": "Hasty",
+        "suffix": null
+    },
+    "4132": {
+        "name": "Mistress Card",
+        "prefix": null,
+        "suffix": "of Gemstone"
+    },
+    "4133": {
+        "name": "Raydric Card",
+        "prefix": "Immune",
+        "suffix": null
+    },
+    "4134": {
+        "name": "Dracula Card",
+        "prefix": "Spiritual",
+        "suffix": null
+    },
+    "4135": {
+        "name": "Orc Lord Card",
+        "prefix": "Mirror",
+        "suffix": null
+    },
+    "4136": {
+        "name": "Khalitzburg Card",
+        "prefix": null,
+        "suffix": "from Hell"
+    },
+    "4137": {
+        "name": "Drake Card",
+        "prefix": null,
+        "suffix": "of Infinity"
+    },
+    "4138": {
+        "name": "Anubis Card",
+        "prefix": "Satanic",
+        "suffix": null
+    },
+    "4139": {
+        "name": "Joker Card",
+        "prefix": null,
+        "suffix": "of Moonlight"
+    },
+    "4140": {
+        "name": "Abysmal Knight Card",
+        "prefix": "Liberation",
+        "suffix": null
+    },
+    "4141": {
+        "name": "Evil Druid Card",
+        "prefix": "Deadly",
+        "suffix": null
+    },
+    "4142": {
+        "name": "Doppelganger Card",
+        "prefix": null,
+        "suffix": "of Berserk"
+    },
+    "4143": {
+        "name": "Orc Hero Card",
+        "prefix": "Neutral",
+        "suffix": null
+    },
+    "4144": {
+        "name": "Osiris Card",
+        "prefix": null,
+        "suffix": "of Eternity"
+    },
+    "4145": {
+        "name": "Berzebub Card",
+        "prefix": null,
+        "suffix": "of Bigmouth"
+    },
+    "4146": {
+        "name": "Maya Card",
+        "prefix": "Reflect",
+        "suffix": null
+    },
+    "4147": {
+        "name": "Baphomet Card",
+        "prefix": "Scythelike",
+        "suffix": null
+    },
+    "4148": {
+        "name": "Pharaoh Card",
+        "prefix": null,
+        "suffix": "of Kirin"
+    },
+    "4149": {
+        "name": "Gargoyle Card",
+        "prefix": null,
+        "suffix": "of Clear Sky"
+    },
+    "4150": {
+        "name": "Goat Card",
+        "prefix": null,
+        "suffix": "of Resist Spell Power"
+    },
+    "4151": {
+        "name": "Gajomart Card",
+        "prefix": null,
+        "suffix": "of Nature Destroyer"
+    },
+    "4152": {
+        "name": "Galapago Card",
+        "prefix": "Juicy",
+        "suffix": null
+    },
+    "4153": {
+        "name": "Crab Card",
+        "prefix": "Cancer",
+        "suffix": null
+    },
+    "4154": {
+        "name": "Dumpling Kid Card",
+        "prefix": null,
+        "suffix": "of Candy Smell"
+    },
+    "4155": {
+        "name": "Goblin Leader Card",
+        "prefix": "Fatal Goblin",
+        "suffix": null
+    },
+    "4156": {
+        "name": "Goblin Steamrider Card",
+        "prefix": "Fatal Frame",
+        "suffix": null
+    },
+    "4157": {
+        "name": "Goblin Archer Card",
+        "prefix": "Hard Hit",
+        "suffix": null
+    },
+    "4158": {
+        "name": "Sky Deleter Card",
+        "prefix": null,
+        "suffix": "of Slaughter"
+    },
+    "4159": {
+        "name": "Nine Tail Card",
+        "prefix": "High Level",
+        "suffix": null
+    },
+    "4160": {
+        "name": "Firelock Soldier Card",
+        "prefix": "High Level",
+        "suffix": null
+    },
+    "4161": {
+        "name": "Grand Peco Card",
+        "prefix": "Anti-Magic",
+        "suffix": null
+    },
+    "4162": {
+        "name": "Grizzly Card",
+        "prefix": null,
+        "suffix": "of Blind"
+    },
+    "4163": {
+        "name": "Gryphon Card",
+        "prefix": "Wild",
+        "suffix": null
+    },
+    "4164": {
+        "name": "Gullinbursti Card",
+        "prefix": "Fisherman's",
+        "suffix": null
+    },
+    "4165": {
+        "name": "Gig Card",
+        "prefix": "Insect Soul Gain",
+        "suffix": null
+    },
+    "4166": {
+        "name": "Nightmare Terror Card",
+        "prefix": null,
+        "suffix": "of Jinx"
+    },
+    "4167": {
+        "name": "Nereid Card",
+        "prefix": "Beast Soul Gain",
+        "suffix": null
+    },
+    "4168": {
+        "name": "Dark Lord Card",
+        "prefix": null,
+        "suffix": "of Doom"
+    },
+    "4169": {
+        "name": "Dark Illusion Card",
+        "prefix": null,
+        "suffix": "of Spell Master"
+    },
+    "4170": {
+        "name": "Dark Frame Card",
+        "prefix": null,
+        "suffix": "of Hardening"
+    },
+    "4171": {
+        "name": "Dark Priest Card",
+        "prefix": "Soul Drain",
+        "suffix": null
+    },
+    "4172": {
+        "name": "The Paper Card",
+        "prefix": "Slash",
+        "suffix": null
+    },
+    "4173": {
+        "name": "Demon Fungus Card",
+        "prefix": null,
+        "suffix": "of Hypnotism"
+    },
+    "4174": {
+        "name": "Devilring Card",
+        "prefix": "Deviant",
+        "suffix": null
+    },
+    "4175": {
+        "name": "Poisonous Toad Card",
+        "prefix": "Pushing",
+        "suffix": null
+    },
+    "4176": {
+        "name": "Dullahan Card",
+        "prefix": "Fatal Serpent",
+        "suffix": null
+    },
+    "4177": {
+        "name": "Dryad Card",
+        "prefix": null,
+        "suffix": "of Green Stone"
+    },
+    "4178": {
+        "name": "Dragon Tail Card",
+        "prefix": null,
+        "suffix": "of Bow Master"
+    },
+    "4179": {
+        "name": "Dragonfly Card",
+        "prefix": null,
+        "suffix": "of Highlight"
+    },
+    "4180": {
+        "name": "Driller Card",
+        "prefix": "Dragonic Soul Gain",
+        "suffix": null
+    },
+    "4181": {
+        "name": "Disguise Card",
+        "prefix": null,
+        "suffix": "of Silence"
+    },
+    "4182": {
+        "name": "Diabolic Card",
+        "prefix": "Demonic Soul Gain",
+        "suffix": null
+    },
+    "4183": {
+        "name": "Wandering Wolf Card",
+        "prefix": "Werewolf",
+        "suffix": null
+    },
+    "4184": {
+        "name": "Lava Golem Card",
+        "prefix": "Break",
+        "suffix": null
+    },
+    "4185": {
+        "name": "Rideword Card",
+        "prefix": null,
+        "suffix": "of Wisdom"
+    },
+    "4186": {
+        "name": "Raggler Card",
+        "prefix": "Strenuous",
+        "suffix": null
+    },
+    "4187": {
+        "name": "Raydric Archer Card",
+        "prefix": null,
+        "suffix": "of Gloomy Night"
+    },
+    "4188": {
+        "name": "Leib Olmai Card",
+        "prefix": null,
+        "suffix": "of Red Stone"
+    },
+    "4189": {
+        "name": "Wraith Dead Card",
+        "prefix": "of Misfortune",
+        "suffix": null
+    },
+    "4190": {
+        "name": "Wraith Card",
+        "prefix": null,
+        "suffix": "of Laugh Maker"
+    },
+    "4191": {
+        "name": "Loli Ruri Card",
+        "prefix": null,
+        "suffix": "of Life Stream"
+    },
+    "4192": {
+        "name": "Rotar Zairo Card",
+        "prefix": "Fatal Pisces",
+        "suffix": null
+    },
+    "4193": {
+        "name": "Lude Card",
+        "prefix": null,
+        "suffix": "of Patience"
+    },
+    "4194": {
+        "name": "Rybio Card",
+        "prefix": null,
+        "suffix": "of Stun"
+    },
+    "4195": {
+        "name": "Leaf Cat Card",
+        "prefix": null,
+        "suffix": "of Blue Stone"
+    },
+    "4196": {
+        "name": "Marin Card",
+        "prefix": null,
+        "suffix": "of Jellopy"
+    },
+    "4197": {
+        "name": "Mastering Card",
+        "prefix": "High Luck",
+        "suffix": null
+    },
+    "4198": {
+        "name": "Maya Purple Card",
+        "prefix": null,
+        "suffix": "of True Sight"
+    },
+    "4199": {
+        "name": "Merman Card",
+        "prefix": null,
+        "suffix": "of Dash"
+    },
+    "4200": {
+        "name": "Megalith Card",
+        "prefix": null,
+        "suffix": "of Resist Spell Power"
+    },
+    "4201": {
+        "name": "Majoruros Card",
+        "prefix": "Binding Stun",
+        "suffix": null
+    },
+    "4202": {
+        "name": "Mao Guai Card",
+        "prefix": "Exorcism",
+        "suffix": null
+    },
+    "4203": {
+        "name": "Mutant Dragonoid Card",
+        "prefix": "Burning",
+        "suffix": null
+    },
+    "4204": {
+        "name": "Mini Demon Card",
+        "prefix": "Poacher's",
+        "suffix": null
+    },
+    "4205": {
+        "name": "Mimic Card",
+        "prefix": null,
+        "suffix": "of Blue Cubic"
+    },
+    "4206": {
+        "name": "Myst Case Card",
+        "prefix": "Cubic",
+        "suffix": null
+    },
+    "4207": {
+        "name": "Mysteltainn Card",
+        "prefix": "Anti-Small",
+        "suffix": null
+    },
+    "4208": {
+        "name": "Miyabi Doll Card",
+        "prefix": null,
+        "suffix": "of Full-energy"
+    },
+    "4209": {
+        "name": "Violy Card",
+        "prefix": null,
+        "suffix": "of Crack"
+    },
+    "4210": {
+        "name": "Wanderer Card",
+        "prefix": "Pressure",
+        "suffix": null
+    },
+    "4211": {
+        "name": "Vocal Card",
+        "prefix": "Expert",
+        "suffix": null
+    },
+    "4212": {
+        "name": "Bongun Card",
+        "prefix": "Knock-Back",
+        "suffix": null
+    },
+    "4213": {
+        "name": "Brilight Card",
+        "prefix": "of Silence",
+        "suffix": null
+    },
+    "4214": {
+        "name": "Bloody Murderer Card",
+        "prefix": "Man Eater",
+        "suffix": null
+    },
+    "4215": {
+        "name": "Blazzer Card",
+        "prefix": null,
+        "suffix": "of Food"
+    },
+    "4216": {
+        "name": "Sasquatch Card",
+        "prefix": null,
+        "suffix": "of Freeze"
+    },
+    "4217": {
+        "name": "Enchanted Peach Tree Card",
+        "prefix": "Auto Healing",
+        "suffix": null
+    },
+    "4218": {
+        "name": "Succubus Card",
+        "prefix": "Nightmare",
+        "suffix": null
+    },
+    "4219": {
+        "name": "Sage Worm Card",
+        "prefix": null,
+        "suffix": "of Magic Stone"
+    },
+    "4220": {
+        "name": "Solider Card",
+        "prefix": "Faithful",
+        "suffix": null
+    },
+    "4221": {
+        "name": "Skeleton General Card",
+        "prefix": "Insect Collector's",
+        "suffix": null
+    },
+    "4222": {
+        "name": "Skel Prisoner Card",
+        "prefix": null,
+        "suffix": "of Sleep"
+    },
+    "4223": {
+        "name": "Stalactic Golem Card",
+        "prefix": null,
+        "suffix": "of Sturdiness"
+    },
+    "4224": {
+        "name": "Stem Worm Card",
+        "prefix": null,
+        "suffix": "of Rainy Day"
+    },
+    "4225": {
+        "name": "Stone Shooter Card",
+        "prefix": "Shooting",
+        "suffix": null
+    },
+    "4226": {
+        "name": "Sting Card",
+        "prefix": "High Level",
+        "suffix": null
+    },
+    "4227": {
+        "name": "Spring Rabbit Card",
+        "prefix": null,
+        "suffix": "of Meat Smell"
+    },
+    "4228": {
+        "name": "Sleeper Card",
+        "prefix": null,
+        "suffix": "of Siesta"
+    },
+    "4229": {
+        "name": "Tower Keeper Card",
+        "prefix": "Faster",
+        "suffix": null
+    },
+    "4230": {
+        "name": "Shinobi Card",
+        "prefix": null,
+        "suffix": "of Coward"
+    },
+    "4231": {
+        "name": "Mi Gao Card",
+        "prefix": "Charging",
+        "suffix": null
+    },
+    "4232": {
+        "name": "Hermit Plant Card",
+        "prefix": "Refresh",
+        "suffix": null
+    },
+    "4233": {
+        "name": "Baby Leopard Card",
+        "prefix": "Petit Luck",
+        "suffix": null
+    },
+    "4234": {
+        "name": "Anolian Card",
+        "prefix": null,
+        "suffix": "of Stainless Mirror"
+    },
+    "4235": {
+        "name": "Christmas Cookie Card",
+        "prefix": "Fallen Angel's",
+        "suffix": null
+    },
+    "4236": {
+        "name": "Amon Ra Card",
+        "prefix": null,
+        "suffix": "of Protection"
+    },
+    "4237": {
+        "name": "Owl Duke Card",
+        "prefix": null,
+        "suffix": "of God's Wrath"
+    },
+    "4238": {
+        "name": "Owl Baron Card",
+        "prefix": null,
+        "suffix": "of Double Power"
+    },
+    "4239": {
+        "name": "Iron Fist Card",
+        "prefix": "Veteran Hunter's",
+        "suffix": null
+    },
+    "4240": {
+        "name": "Arclouze Card",
+        "prefix": null,
+        "suffix": "of Resist Spell Power"
+    },
+    "4241": {
+        "name": "Arc Angelring Card",
+        "prefix": "Two Lucky Seven",
+        "suffix": null
+    },
+    "4242": {
+        "name": "Apocalipse Card",
+        "prefix": "High Level",
+        "suffix": null
+    },
+    "4243": {
+        "name": "Antonio Card",
+        "prefix": null,
+        "suffix": "of Escape"
+    },
+    "4244": {
+        "name": "Alarm Card",
+        "prefix": null,
+        "suffix": "of Seeker"
+    },
+    "4245": {
+        "name": "Am Mut Card",
+        "prefix": "Assassin's",
+        "suffix": null
+    },
+    "4246": {
+        "name": "Assaulter Card",
+        "prefix": "Kill",
+        "suffix": null
+    },
+    "4247": {
+        "name": "Aster Card",
+        "prefix": "Starfish",
+        "suffix": null
+    },
+    "4248": {
+        "name": "Ancient Mummy Card",
+        "prefix": "Shining Cross",
+        "suffix": null
+    },
+    "4249": {
+        "name": "Ancient Worm Card",
+        "prefix": "Exorcist's",
+        "suffix": null
+    },
+    "4250": {
+        "name": "Executioner Card",
+        "prefix": "Anti-Large",
+        "suffix": null
+    },
+    "4251": {
+        "name": "Elder Card",
+        "prefix": "Invade",
+        "suffix": null
+    },
+    "4252": {
+        "name": "Alligator Card",
+        "prefix": null,
+        "suffix": "of Four Leaf Clover"
+    },
+    "4253": {
+        "name": "Alice Card",
+        "prefix": null,
+        "suffix": "of Royal Guard"
+    },
+    "4254": {
+        "name": "Ogretooth Card",
+        "prefix": "Anti-Medium",
+        "suffix": null
+    },
+    "4255": {
+        "name": "Orc Lady Card",
+        "prefix": "Smash",
+        "suffix": null
+    },
+    "4256": {
+        "name": "Orc Archer Card",
+        "prefix": "Desired",
+        "suffix": null
+    },
+    "4257": {
+        "name": "Wild Rose Card",
+        "prefix": "Wing",
+        "suffix": null
+    },
+    "4258": {
+        "name": "Evil Nymph Card",
+        "prefix": "Prodigy",
+        "suffix": null
+    },
+    "4259": {
+        "name": "Wooden Golem Card",
+        "prefix": null,
+        "suffix": "of Nature"
+    },
+    "4260": {
+        "name": "Wootan Shooter Card",
+        "prefix": "Confusion Guard",
+        "suffix": null
+    },
+    "4261": {
+        "name": "Wootan Fighter Card",
+        "prefix": "Smoldering",
+        "suffix": null
+    },
+    "4262": {
+        "name": "Cloud Hermit Card",
+        "prefix": null,
+        "suffix": "of Cloudy Day"
+    },
+    "4263": {
+        "name": "Incantation Samurai Card",
+        "prefix": "Bloodlust",
+        "suffix": null
+    },
+    "4264": {
+        "name": "Wind Ghost Card",
+        "prefix": "Thunderbolt",
+        "suffix": null
+    },
+    "4265": {
+        "name": "Jing Guai Card",
+        "prefix": null,
+        "suffix": "of Dawn"
+    },
+    "4266": {
+        "name": "Eclipse Card",
+        "prefix": "Resist Magic",
+        "suffix": null
+    },
+    "4267": {
+        "name": "Explosion Card",
+        "prefix": "Dragon Slayer's",
+        "suffix": null
+    },
+    "4268": {
+        "name": "Injustice Card",
+        "prefix": "Extending",
+        "suffix": null
+    },
+    "4269": {
+        "name": "Incubus Card",
+        "prefix": null,
+        "suffix": "of Nightmare"
+    },
+    "4270": {
+        "name": "Giant Spider Card",
+        "prefix": null,
+        "suffix": "of Venom"
+    },
+    "4271": {
+        "name": "Giant Hornet Card",
+        "prefix": null,
+        "suffix": "of Yellow Stone"
+    },
+    "4272": {
+        "name": "Zhu Po Long Card",
+        "prefix": "Swift",
+        "suffix": null
+    },
+    "4273": {
+        "name": "Shell Fish Card",
+        "prefix": "Shell",
+        "suffix": null
+    },
+    "4274": {
+        "name": "Zombie Master Card",
+        "prefix": "Undead Soul Gain",
+        "suffix": null
+    },
+    "4275": {
+        "name": "Zombie Prisoner Card",
+        "prefix": "Undead Slayer's",
+        "suffix": null
+    },
+    "4276": {
+        "name": "Lord of The Dead Card",
+        "prefix": "Crisis",
+        "suffix": null
+    },
+    "4277": {
+        "name": "Zealotus Card",
+        "prefix": null,
+        "suffix": "of Shooting Master"
+    },
+    "4278": {
+        "name": "Gibbet Card",
+        "prefix": null,
+        "suffix": "of Resist Spell Power"
+    },
+    "4279": {
+        "name": "Earth Deleter Card",
+        "prefix": null,
+        "suffix": "of Soul Collector"
+    },
+    "4280": {
+        "name": "Geographer Card",
+        "prefix": "of Great Blessing",
+        "suffix": null
+    },
+    "4281": {
+        "name": "Zipper Bear Card",
+        "prefix": "Hard Working",
+        "suffix": null
+    },
+    "4282": {
+        "name": "Tengu Card",
+        "prefix": null,
+        "suffix": "of Potion"
+    },
+    "4283": {
+        "name": "Greatest General Card",
+        "prefix": "Mana Sphere",
+        "suffix": null
+    },
+    "4284": {
+        "name": "Chepet Card",
+        "prefix": "Gentle Touch",
+        "suffix": null
+    },
+    "4285": {
+        "name": "Choco Card",
+        "prefix": "Casted by Elf",
+        "suffix": null
+    },
+    "4286": {
+        "name": "Karakasa Card",
+        "prefix": null,
+        "suffix": "of Panic"
+    },
+    "4287": {
+        "name": "Kapha Card",
+        "prefix": null,
+        "suffix": "of Resist Spell Power"
+    },
+    "4288": {
+        "name": "Carat Card",
+        "prefix": "High Level",
+        "suffix": null
+    },
+    "4289": {
+        "name": "Caterpillar Card",
+        "prefix": "Plant Soul Gain",
+        "suffix": null
+    },
+    "4290": {
+        "name": "Cat O' Nine Tails Card",
+        "prefix": "Reflect",
+        "suffix": null
+    },
+    "4291": {
+        "name": "Kobold Leader Card",
+        "prefix": "Fatal Kobold",
+        "suffix": null
+    },
+    "4292": {
+        "name": "Kobold Archer Card",
+        "prefix": "Fatal Plant",
+        "suffix": null
+    },
+    "4293": {
+        "name": "Cookie Card",
+        "prefix": "Chance",
+        "suffix": null
+    },
+    "4294": {
+        "name": "Quve Card",
+        "prefix": "Sneaky",
+        "suffix": null
+    },
+    "4295": {
+        "name": "Kraben Card",
+        "prefix": null,
+        "suffix": "of Blackout"
+    },
+    "4296": {
+        "name": "Cramp Card",
+        "prefix": "Greed",
+        "suffix": null
+    },
+    "4297": {
+        "name": "Cruiser Card",
+        "prefix": "Poaching",
+        "suffix": null
+    },
+    "4298": {
+        "name": "Creamy Fear Card",
+        "prefix": null,
+        "suffix": "of Chaos"
+    },
+    "4299": {
+        "name": "Clock Card",
+        "prefix": "Guardian",
+        "suffix": null
+    },
+    "4300": {
+        "name": "Chimera Card",
+        "prefix": null,
+        "suffix": "of Poison Charge"
+    },
+    "4301": {
+        "name": "Killer Mantis Card",
+        "prefix": null,
+        "suffix": "of Bleeding"
+    },
+    "4302": {
+        "name": "Tao Gunka Card",
+        "prefix": null,
+        "suffix": "of High Risk"
+    },
+    "4303": {
+        "name": "Giant Whisper Card",
+        "prefix": "Mystic",
+        "suffix": null
+    },
+    "4304": {
+        "name": "Tamruan Card",
+        "prefix": null,
+        "suffix": "of Shield Master"
+    },
+    "4305": {
+        "name": "Turtle General Card",
+        "prefix": "Explosive",
+        "suffix": null
+    },
+    "4306": {
+        "name": "Toad Card",
+        "prefix": null,
+        "suffix": "of King"
+    },
+    "4307": {
+        "name": "Beetle King Card",
+        "prefix": "Seaforce Soul Gain",
+        "suffix": null
+    },
+    "4308": {
+        "name": "Tri Joint Card",
+        "prefix": "Force Drain",
+        "suffix": null
+    },
+    "4309": {
+        "name": "Parasite Card",
+        "prefix": "Hard Covering",
+        "suffix": null
+    },
+    "4310": {
+        "name": "Panzer Goblin Card",
+        "prefix": "Fatal Evil",
+        "suffix": null
+    },
+    "4311": {
+        "name": "Permeter Card",
+        "prefix": "Anti Evil Power",
+        "suffix": null
+    },
+    "4312": {
+        "name": "Fur Seal Card",
+        "prefix": "Spirit",
+        "suffix": null
+    },
+    "4313": {
+        "name": "Punk Card",
+        "prefix": null,
+        "suffix": "of Bog"
+    },
+    "4314": {
+        "name": "Penomena Card",
+        "prefix": "Frame Guard",
+        "suffix": null
+    },
+    "4315": {
+        "name": "Pest Card",
+        "prefix": null,
+        "suffix": "of Stone Curse"
+    },
+    "4316": {
+        "name": "False Angel Card",
+        "prefix": "Angelic Soul Gain",
+        "suffix": null
+    },
+    "4317": {
+        "name": "Mobster Card",
+        "prefix": "Aural",
+        "suffix": null
+    },
+    "4318": {
+        "name": "Stormy Knight Card",
+        "prefix": "Storm-Bringer",
+        "suffix": null
+    },
+    "4319": {
+        "name": "Freezer Card",
+        "prefix": null,
+        "suffix": "of Sword Master"
+    },
+    "4320": {
+        "name": "Bloody Knight Card",
+        "prefix": "Meteoric",
+        "suffix": null
+    },
+    "4321": {
+        "name": "Hylozoist Card",
+        "prefix": null,
+        "suffix": "of Polymorph"
+    },
+    "4322": {
+        "name": "High Orc Card",
+        "prefix": null,
+        "suffix": "of Retaliation"
+    },
+    "4323": {
+        "name": "Hatii Bebe Card",
+        "prefix": "Frost",
+        "suffix": null
+    },
+    "4324": {
+        "name": "Hatii Card",
+        "prefix": "Arctic",
+        "suffix": null
+    },
+    "4325": {
+        "name": "Harpy Card",
+        "prefix": "Vicious",
+        "suffix": null
+    },
+    "4326": {
+        "name": "Sea-Otter Card",
+        "prefix": null,
+        "suffix": "of Fish Smell"
+    },
+    "4327": {
+        "name": "Bloody Butterfly Card",
+        "prefix": "Spell Flow",
+        "suffix": null
+    },
+    "4328": {
+        "name": "Yao Jun Card",
+        "prefix": "Hyper",
+        "suffix": null
+    },
+    "4329": {
+        "name": "Phendark Card",
+        "prefix": "Soul Gain",
+        "suffix": null
+    },
+    "4330": {
+        "name": "Dark Snake Lord Card",
+        "prefix": "Curse Lift",
+        "suffix": null
+    },
+    "4331": {
+        "name": "Heater Card",
+        "prefix": null,
+        "suffix": "of Evade"
+    },
+    "4332": {
+        "name": "Waste Stove Card",
+        "prefix": null,
+        "suffix": "of Talent"
+    },
+    "4333": {
+        "name": "Venomous Card",
+        "prefix": null,
+        "suffix": "of Chaotic Venom"
+    },
+    "4334": {
+        "name": "Noxious Card",
+        "prefix": "Anti-Sniping",
+        "suffix": null
+    },
+    "4335": {
+        "name": "Pitman Card",
+        "prefix": "Gnome",
+        "suffix": null
+    },
+    "4336": {
+        "name": "Ungoliant Card",
+        "prefix": "Cracking",
+        "suffix": null
+    },
+    "4337": {
+        "name": "Porcellio Card",
+        "prefix": null,
+        "suffix": "of Wild Cat"
+    },
+    "4338": {
+        "name": "Obsidian Card",
+        "prefix": null,
+        "suffix": "of Vital Switching"
+    },
+    "4339": {
+        "name": "Mineral Card",
+        "prefix": null,
+        "suffix": "of Stone Wall"
+    },
+    "4340": {
+        "name": "Teddy Bear Card",
+        "prefix": null,
+        "suffix": "of Requiem"
+    },
+    "4341": {
+        "name": "Metaling Card",
+        "prefix": "Disarm",
+        "suffix": null
+    },
+    "4342": {
+        "name": "RSX-0806 Card",
+        "prefix": "Mammoth",
+        "suffix": null
+    },
+    "4343": {
+        "name": "Holden Card",
+        "prefix": null,
+        "suffix": "of Creator"
+    },
+    "4344": {
+        "name": "Anopheles Card",
+        "prefix": null,
+        "suffix": "of Value"
+    },
+    "4345": {
+        "name": "Hill Wind Card",
+        "prefix": "Sylph",
+        "suffix": null
+    },
+    "4346": {
+        "name": "Egnigem Cenia Card",
+        "prefix": null,
+        "suffix": "of Power Switching"
+    },
+    "4347": {
+        "name": "Armeyer Dinze Card",
+        "prefix": "Stamina",
+        "suffix": null
+    },
+    "4348": {
+        "name": "Wickebine Tres Card",
+        "prefix": "Gangster",
+        "suffix": null
+    },
+    "4349": {
+        "name": "Errende Ebecee Card",
+        "prefix": "Anti Arrow",
+        "suffix": null
+    },
+    "4350": {
+        "name": "Laurell Weinder Card",
+        "prefix": "Undine",
+        "suffix": null
+    },
+    "4351": {
+        "name": "Kavach Icarus Card",
+        "prefix": "Low Level",
+        "suffix": null
+    },
+    "4352": {
+        "name": "Boss Egnigem Card",
+        "prefix": null,
+        "suffix": "of Regeneration"
+    },
+    "4353": {
+        "name": "Remover Card",
+        "prefix": null,
+        "suffix": "of Rejuvenation"
+    },
+    "4354": {
+        "name": "Gemini-S58 Card",
+        "prefix": null,
+        "suffix": "of Stability"
+    },
+    "4355": {
+        "name": "Gremlin Card",
+        "prefix": "Healthy",
+        "suffix": null
+    },
+    "4356": {
+        "name": "Beholder Card",
+        "prefix": "Magic Cancel",
+        "suffix": null
+    },
+    "4357": {
+        "name": "Lord Knight Card",
+        "prefix": null,
+        "suffix": "of Fury"
+    },
+    "4358": {
+        "name": "Seyren Windsor Card",
+        "prefix": "Lost-Power",
+        "suffix": null
+    },
+    "4359": {
+        "name": "Assassin Cross Card",
+        "prefix": null,
+        "suffix": "of Shadow"
+    },
+    "4360": {
+        "name": "Eremes Guile Card",
+        "prefix": "Assassin",
+        "suffix": null
+    },
+    "4361": {
+        "name": "Mastersmith Card",
+        "prefix": null,
+        "suffix": "of Holgren"
+    },
+    "4362": {
+        "name": "Howard Alt-Eisen Card",
+        "prefix": "Hit",
+        "suffix": null
+    },
+    "4363": {
+        "name": "High Priest Card",
+        "prefix": "Protection",
+        "suffix": null
+    },
+    "4364": {
+        "name": "Margaretha Sorin Card",
+        "prefix": null,
+        "suffix": "of Magic Sealing"
+    },
+    "4365": {
+        "name": "High Wizard Card",
+        "prefix": null,
+        "suffix": "of Tempest"
+    },
+    "4366": {
+        "name": "Kathryne Keyron Card",
+        "prefix": null,
+        "suffix": "of Caster"
+    },
+    "4367": {
+        "name": "Sniper Card",
+        "prefix": null,
+        "suffix": "of Squeezing"
+    },
+    "4368": {
+        "name": "Cecil Damon Card",
+        "prefix": "Rapid",
+        "suffix": null
+    },
+    "4369": {
+        "name": "Venatu Card",
+        "prefix": null,
+        "suffix": "of Luck Switching"
+    },
+    "4370": {
+        "name": "Dimik Card",
+        "prefix": "Weaken",
+        "suffix": null
+    },
+    "4371": {
+        "name": "Archdam Card",
+        "prefix": null,
+        "suffix": "of Paladin"
+    },
+    "4372": {
+        "name": "White Lady Card",
+        "prefix": "Life Stream",
+        "suffix": null
+    },
+    "4373": {
+        "name": "Green Maiden Card",
+        "prefix": "Cursed",
+        "suffix": null
+    },
+    "4374": {
+        "name": "Vesper Card",
+        "prefix": null,
+        "suffix": "of Vision"
+    },
+    "4375": {
+        "name": "Orc Baby Card",
+        "prefix": "Extra High Level",
+        "suffix": null
+    },
+    "4376": {
+        "name": "Lady Tanee Card",
+        "prefix": "Mana Pool",
+        "suffix": null
+    },
+    "4377": {
+        "name": "Grove Card",
+        "prefix": null,
+        "suffix": "of Sweety"
+    },
+    "4378": {
+        "name": "Gold Acidus Card",
+        "prefix": "Low Level",
+        "suffix": null
+    },
+    "4379": {
+        "name": "Blue Acidus Card",
+        "prefix": "Low Level",
+        "suffix": null
+    },
+    "4380": {
+        "name": "Red Ferus Card",
+        "prefix": "Salamander",
+        "suffix": null
+    },
+    "4381": {
+        "name": "Green Ferus Card",
+        "prefix": null,
+        "suffix": "of Wanderer"
+    },
+    "4382": {
+        "name": "Yellow Novus Card",
+        "prefix": null,
+        "suffix": "of Scholar"
+    },
+    "4383": {
+        "name": "Red Novus Card",
+        "prefix": "Chaotic",
+        "suffix": null
+    },
+    "4384": {
+        "name": "Hydrolancer Card",
+        "prefix": "Magic Eater",
+        "suffix": null
+    },
+    "4385": {
+        "name": "Dragon Egg Card",
+        "prefix": "Drink",
+        "suffix": null
+    },
+    "4386": {
+        "name": "Detardeurus Card",
+        "prefix": null,
+        "suffix": "of Magic Shelter"
+    },
+    "4387": {
+        "name": "Ancient Mimic Card",
+        "prefix": null,
+        "suffix": "of Agility Switching"
+    },
+    "4388": {
+        "name": "Death Word Card",
+        "prefix": "Soul",
+        "suffix": null
+    },
+    "4389": {
+        "name": "Plasma Card",
+        "prefix": "Elemental",
+        "suffix": null
+    },
+    "4390": {
+        "name": "Breeze Card",
+        "prefix": "Bleeding",
+        "suffix": null
+    },
+    "4391": {
+        "name": "Baroness of Retribution Card",
+        "prefix": "Snack",
+        "suffix": null
+    },
+    "4392": {
+        "name": "Dame of Sentinel Card",
+        "prefix": null,
+        "suffix": "of Dexterity Switching"
+    },
+    "4393": {
+        "name": "Mistress of Shelter Card",
+        "prefix": null,
+        "suffix": "of Intelligence Switching"
+    },
+    "4394": {
+        "name": "Lady Solace Card",
+        "prefix": "Divine Cross",
+        "suffix": null
+    },
+    "4395": {
+        "name": "Maero of Thanatos Card",
+        "prefix": "Slug",
+        "suffix": null
+    },
+    "4396": {
+        "name": "Odium of Thanatos Card",
+        "prefix": "Dull",
+        "suffix": null
+    },
+    "4397": {
+        "name": "Despero of Thanatos Card",
+        "prefix": "Thickheaded",
+        "suffix": null
+    },
+    "4398": {
+        "name": "Dolor of Thanatos Card",
+        "prefix": "Darkness",
+        "suffix": null
+    },
+    "4399": {
+        "name": "Memory of Thanatos Card",
+        "prefix": "Penetration",
+        "suffix": null
+    },
+    "4400": {
+        "name": "Aliza Card",
+        "prefix": null,
+        "suffix": "of Temptation"
+    },
+    "4401": {
+        "name": "Alicel Card",
+        "prefix": "Swift",
+        "suffix": null
+    },
+    "4402": {
+        "name": "Aliot Card",
+        "prefix": "Strange",
+        "suffix": null
+    },
+    "4403": {
+        "name": "Kiel-D-01 Card",
+        "prefix": null,
+        "suffix": "of Reload"
+    },
+    "4404": {
+        "name": "Skogul Card",
+        "prefix": null,
+        "suffix": "of Chaotic Bleeding"
+    },
+    "4405": {
+        "name": "Frus Card",
+        "prefix": null,
+        "suffix": "of Magic Mirror"
+    },
+    "4406": {
+        "name": "Skeggiold Card",
+        "prefix": "Twinkle",
+        "suffix": null
+    },
+    "4407": {
+        "name": "Randgris Card",
+        "prefix": null,
+        "suffix": "of Elimination"
+    },
+    "4408": {
+        "name": "Gloom Under Night Card",
+        "prefix": "Abyss",
+        "suffix": null
+    },
+    "4409": {
+        "name": "Agav Card",
+        "prefix": "Panic",
+        "suffix": null
+    },
+    "4410": {
+        "name": "Echio Card",
+        "prefix": "Madness",
+        "suffix": null
+    },
+    "4411": {
+        "name": "Vanberk Card",
+        "prefix": "Arta's",
+        "suffix": null
+    },
+    "4412": {
+        "name": "Isilla Card",
+        "prefix": "Aria",
+        "suffix": null
+    },
+    "4413": {
+        "name": "Hodremlin Card",
+        "prefix": "Resistance",
+        "suffix": null
+    },
+    "4414": {
+        "name": "Seeker Card",
+        "prefix": "Gorgon's",
+        "suffix": null
+    },
+    "4415": {
+        "name": "Snowier Card",
+        "prefix": "Sweet",
+        "suffix": null
+    },
+    "4416": {
+        "name": "Siroma Card",
+        "prefix": null,
+        "suffix": "of Yana"
+    },
+    "4417": {
+        "name": "Ice Titan Card",
+        "prefix": null,
+        "suffix": "of Flow"
+    },
+    "4418": {
+        "name": "Gazeti Card",
+        "prefix": null,
+        "suffix": "of Hail"
+    },
+    "4419": {
+        "name": "Ktullanux Card",
+        "prefix": "Jack Frost's",
+        "suffix": null
+    },
+    "4420": {
+        "name": "Muscipular Card",
+        "prefix": null,
+        "suffix": "of Comfort"
+    },
+    "4421": {
+        "name": "Drosera Card",
+        "prefix": "Chain Hook",
+        "suffix": null
+    },
+    "4422": {
+        "name": "Roween Card",
+        "prefix": "Breeze",
+        "suffix": null
+    },
+    "4423": {
+        "name": "Galion Card",
+        "prefix": null,
+        "suffix": "of Sharkia"
+    },
+    "4424": {
+        "name": "Stapo Card",
+        "prefix": "Stony",
+        "suffix": null
+    },
+    "4425": {
+        "name": "Atroce Card",
+        "prefix": "Beast",
+        "suffix": null
+    },
+    "4426": {
+        "name": "Byorgue Card",
+        "prefix": "Exceeding",
+        "suffix": null
+    },
+    "4427": {
+        "name": "Sword Guardian Card",
+        "prefix": "Force",
+        "suffix": null
+    },
+    "4428": {
+        "name": "Bow Guardian Card",
+        "prefix": "Shaft",
+        "suffix": null
+    },
+    "4429": {
+        "name": "Salamander Card",
+        "prefix": "Nessus",
+        "suffix": null
+    },
+    "4430": {
+        "name": "Ifrit Card",
+        "prefix": null,
+        "suffix": "of Inferno"
+    },
+    "4431": {
+        "name": "Kasa Card",
+        "prefix": "Stygian",
+        "suffix": null
+    },
+    "4432": {
+        "name": "Magmaring Card",
+        "prefix": "Scorching",
+        "suffix": null
+    },
+    "4433": {
+        "name": "Imp Card",
+        "prefix": null,
+        "suffix": "of Ignis"
+    },
+    "4434": {
+        "name": "Knocker Card",
+        "prefix": "Miner's",
+        "suffix": null
+    },
+    "4435": {
+        "name": "Zombie Slaughter Card",
+        "prefix": "Outrageous",
+        "suffix": null
+    },
+    "4436": {
+        "name": "Ragged Zombie Card",
+        "prefix": "Lunatic",
+        "suffix": null
+    },
+    "4437": {
+        "name": "Hell Poodle Card",
+        "prefix": "Rabid",
+        "suffix": null
+    },
+    "4438": {
+        "name": "Banshee Card",
+        "prefix": "Mental",
+        "suffix": null
+    },
+    "4439": {
+        "name": "Flame Skull Card",
+        "prefix": null,
+        "suffix": "of Anathema"
+    },
+    "4440": {
+        "name": "Necromancer Card",
+        "prefix": "Ignore",
+        "suffix": null
+    },
+    "4441": {
+        "name": "Fallen Bishop Card",
+        "prefix": "Arrogant",
+        "suffix": null
+    },
+    "4442": {
+        "name": "Tatacho Card",
+        "prefix": null,
+        "suffix": "of Basis"
+    },
+    "4443": {
+        "name": "Aqua Elemental Card",
+        "prefix": null,
+        "suffix": "of Saharic"
+    },
+    "4444": {
+        "name": "Draco Card",
+        "prefix": null,
+        "suffix": "of Underneath"
+    },
+    "4445": {
+        "name": "Luciola Vespa Card",
+        "prefix": null,
+        "suffix": "of Windy"
+    },
+    "4446": {
+        "name": "Enhanced Skeleton Card",
+        "prefix": "Sharpen",
+        "suffix": null
+    },
+    "4447": {
+        "name": "Centipede Card",
+        "prefix": null,
+        "suffix": "of Envenom"
+    },
+    "4448": {
+        "name": "Cornus Card",
+        "prefix": null,
+        "suffix": "of Damned"
+    },
+    "4449": {
+        "name": "Dark Shadow Card",
+        "prefix": null,
+        "suffix": "of Hallowed"
+    },
+    "4450": {
+        "name": "Banshee Master Card",
+        "prefix": "Surplus",
+        "suffix": null
+    },
+    "4451": {
+        "name": "Entweihen Crothen Card",
+        "prefix": null,
+        "suffix": "of Excess"
+    },
+    "4452": {
+        "name": "Centipede Larva Card",
+        "prefix": "Magical",
+        "suffix": null
+    },
+    "4453": {
+        "name": "Hillslion Card",
+        "prefix": "Violent",
+        "suffix": null
+    },
+    "4454": {
+        "name": "Fake Valkyrie Card",
+        "prefix": "Sorry",
+        "suffix": null
+    },
+    "4455": {
+        "name": "Fake Valkyrie Card",
+        "prefix": "Love",
+        "suffix": null
+    },
+    "4456": {
+        "name": "Nidhoggur Shadow Card",
+        "prefix": "Spell Master",
+        "suffix": null
+    },
+    "4457": {
+        "name": "Naght Seiger Card",
+        "prefix": "Psychic",
+        "suffix": null
+    },
+    "4458": {
+        "name": "Duneyrr Card",
+        "prefix": null,
+        "suffix": "of Illusion"
+    },
+    "4459": {
+        "name": "Rata Card",
+        "prefix": null,
+        "suffix": "of Fast"
+    },
+    "4460": {
+        "name": "Rhyncho Card",
+        "prefix": null,
+        "suffix": "of Healing"
+    },
+    "4461": {
+        "name": "Phylla Card",
+        "prefix": null,
+        "suffix": "of Sharp"
+    },
+    "4462": {
+        "name": "Hardrock Mammoth Card",
+        "prefix": "Prime Defense",
+        "suffix": null
+    },
+    "4463": {
+        "name": "Tendrillion Card",
+        "prefix": "Prime Attack",
+        "suffix": null
+    },
+    "4464": {
+        "name": "Aunoe Card",
+        "prefix": "Fatal",
+        "suffix": null
+    },
+    "4465": {
+        "name": "Fanat Card",
+        "prefix": "Sweep",
+        "suffix": null
+    },
+    "4466": {
+        "name": "Beholder Master Card",
+        "prefix": "Straight Shooting",
+        "suffix": null
+    },
+    "4467": {
+        "name": "Heavy Metalring Card",
+        "prefix": "Heavy",
+        "suffix": null
+    },
+    "4468": {
+        "name": "Dark Pinguicula Card",
+        "prefix": "Pollution",
+        "suffix": null
+    },
+    "4469": {
+        "name": "Naga Card",
+        "prefix": "Marine",
+        "suffix": null
+    },
+    "4470": {
+        "name": "Nepenthes Card",
+        "prefix": "Botany",
+        "suffix": null
+    },
+    "4471": {
+        "name": "Draco Egg Card",
+        "prefix": "Draco",
+        "suffix": null
+    },
+    "4472": {
+        "name": "Bradium Golem Card",
+        "prefix": "Carnivore",
+        "suffix": null
+    },
+    "4473": {
+        "name": "Ancient Tree Card",
+        "prefix": "Undead",
+        "suffix": null
+    },
+    "4474": {
+        "name": "Zakudam Card",
+        "prefix": "Mortal",
+        "suffix": null
+    },
+    "4475": {
+        "name": "Cobalt Mineral Card",
+        "prefix": "Intangible",
+        "suffix": null
+    },
+    "4476": {
+        "name": "Pinguicula Card",
+        "prefix": "Entomic",
+        "suffix": null
+    },
+    "4477": {
+        "name": "Hell Apocalypse Card",
+        "prefix": "Demonic",
+        "suffix": null
+    },
+    "4478": {
+        "name": "Val'khiri Card",
+        "prefix": "Tell me",
+        "suffix": null
+    },
+    "4479": {
+        "name": "Val'khiri Card",
+        "prefix": "Why did you",
+        "suffix": null
+    },
+    "4480": {
+        "name": "Sealed Kiel Card",
+        "prefix": "of Half Reload",
+        "suffix": null
+    },
+    "4481": {
+        "name": "Sealed Ktullanux Card",
+        "prefix": "Half Jack Frost",
+        "suffix": null
+    },
+    "4482": {
+        "name": "Sealed B Ygnizem Card",
+        "prefix": null,
+        "suffix": "of Half Regeneration"
+    },
+    "4483": {
+        "name": "Sealed Dracula Card",
+        "prefix": "Half Spiritual",
+        "suffix": null
+    },
+    "4484": {
+        "name": "Sealed Mistress Card",
+        "prefix": null,
+        "suffix": "of Half Gemstone"
+    },
+    "4485": {
+        "name": "Sealed Gloom Card",
+        "prefix": "Half Abyss",
+        "suffix": null
+    },
+    "4486": {
+        "name": "Sealed Berzebub Card",
+        "prefix": null,
+        "suffix": "of Half Bigmouth"
+    },
+    "4487": {
+        "name": "Sealed Ifrit Card",
+        "prefix": "Half Inferno",
+        "suffix": null
+    },
+    "4488": {
+        "name": "Sealed Dark Lord Card",
+        "prefix": null,
+        "suffix": "of Half Doom"
+    },
+    "4489": {
+        "name": "Sealed Pharaoh Card",
+        "prefix": null,
+        "suffix": "of Half Kirin"
+    },
+    "4490": {
+        "name": "Sealed Moonlight Flower Card",
+        "prefix": "Half Hasty",
+        "suffix": null
+    },
+    "4491": {
+        "name": "Sealed Sniper Card",
+        "prefix": null,
+        "suffix": "of Half Squeezing"
+    },
+    "4492": {
+        "name": "Sealed Orc Hero Card",
+        "prefix": "Half Neutral",
+        "suffix": null
+    },
+    "4493": {
+        "name": "Sealed Tao Gunka Card",
+        "prefix": "Half High Risk",
+        "suffix": null
+    },
+    "4494": {
+        "name": "Sealed Turtle General Card",
+        "prefix": "Half Explosive",
+        "suffix": null
+    },
+    "4495": {
+        "name": "Sealed Amon Ra Card",
+        "prefix": null,
+        "suffix": "of Half Protection"
+    },
+    "4496": {
+        "name": "Sealed Drake Card",
+        "prefix": null,
+        "suffix": "of Half Infinity"
+    },
+    "4497": {
+        "name": "Sealed Stormy Knight Card",
+        "prefix": "Half Storm-Bringer",
+        "suffix": null
+    },
+    "4498": {
+        "name": "Sealed Lady Tanee Card",
+        "prefix": "Half Mana Pool",
+        "suffix": null
+    },
+    "4499": {
+        "name": "Sealed Incantation Samurai Card",
+        "prefix": "Half Bloodlust",
+        "suffix": null
+    },
+    "4500": {
+        "name": "Sealed Orc Lord Card",
+        "prefix": "Half Mirror",
+        "suffix": null
+    },
+    "4501": {
+        "name": "Sealed High Priest Card",
+        "prefix": "Half Protection",
+        "suffix": null
+    },
+    "4502": {
+        "name": "Sealed MasterSmith Card",
+        "prefix": null,
+        "suffix": "Half Holgren"
+    },
+    "4503": {
+        "name": "Sealed Vesper Card",
+        "prefix": null,
+        "suffix": "of Half Vision"
+    },
+    "4504": {
+        "name": "Sealed Eddga Card",
+        "prefix": "Half Bearer's",
+        "suffix": null
+    },
+    "4505": {
+        "name": "Scaraba Card",
+        "prefix": null,
+        "suffix": "of Mad Witch"
+    },
+    "4506": {
+        "name": "Dolomedes Card",
+        "prefix": null,
+        "suffix": "of Archer"
+    },
+    "4507": {
+        "name": "Queen Scaraba Card",
+        "prefix": "Scaraba",
+        "suffix": null
+    },
+    "4508": {
+        "name": "Gold Scaraba Card",
+        "prefix": null,
+        "suffix": "of Mad Berserker"
+    },
+    "4509": {
+        "name": "Gold Queen Scaraba Card",
+        "prefix": "Insectproof",
+        "suffix": null
+    },
+    "4510": {
+        "name": "Miming Card",
+        "prefix": "Black-out",
+        "suffix": null
+    },
+    "4511": {
+        "name": "Little Fatum Card",
+        "prefix": "Silentium",
+        "suffix": null
+    },
+    "4512": {
+        "name": "Parus Card",
+        "prefix": null,
+        "suffix": "of Acolyte"
+    },
+    "4513": {
+        "name": "Angra Mantis Card",
+        "prefix": null,
+        "suffix": "of Thief"
+    },
+    "4514": {
+        "name": "Pom Spider Card",
+        "prefix": "Exorcism",
+        "suffix": null
+    },
+    "4515": {
+        "name": "Rafflesia Alnoldi Card",
+        "prefix": "Flora",
+        "suffix": null
+    },
+    "4516": {
+        "name": "Comodo Card",
+        "prefix": null,
+        "suffix": "of Stone Wall"
+    },
+    "4517": {
+        "name": "Cendrawasih Card",
+        "prefix": null,
+        "suffix": "of Magician"
+    },
+    "4518": {
+        "name": "Banaspaty Card",
+        "prefix": "Burning",
+        "suffix": null
+    },
+    "4519": {
+        "name": "Butoijo Card",
+        "prefix": "Seraphim",
+        "suffix": null
+    },
+    "4520": {
+        "name": "Leak Card",
+        "prefix": "Screaming",
+        "suffix": null
+    },
+    "4521": {
+        "name": "Sedora Card",
+        "prefix": "Mortal Blow",
+        "suffix": null
+    },
+    "4522": {
+        "name": "Sropho Card",
+        "prefix": "Cold",
+        "suffix": null
+    },
+    "4523": {
+        "name": "Pot Dofle Card",
+        "prefix": "Aquarius",
+        "suffix": null
+    },
+    "4524": {
+        "name": "King Dramoh Card",
+        "prefix": null,
+        "suffix": "of Swordman"
+    },
+    "4525": {
+        "name": "Kraken Card",
+        "prefix": "Sweeping",
+        "suffix": null
+    },
+    "4526": {
+        "name": "Weird Coelacanth Card",
+        "prefix": null,
+        "suffix": "of Magic Defense"
+    },
+    "4527": {
+        "name": "Dark Coelacanth Card",
+        "prefix": null,
+        "suffix": "of Defense"
+    },
+    "4528": {
+        "name": "Mutant Coelacanth Card",
+        "prefix": "Mental Power",
+        "suffix": null
+    },
+    "4529": {
+        "name": "Violent Coelacanth Card",
+        "prefix": "Strength",
+        "suffix": null
+    },
+    "4530": {
+        "name": "Siorava Card",
+        "prefix": null,
+        "suffix": "of Merchant"
+    },
+    "4531": {
+        "name": "Red Eruma Card",
+        "prefix": "Under Curse",
+        "suffix": null
+    },
+    "4532": {
+        "name": "Wild Rider Card",
+        "prefix": "Sprinting",
+        "suffix": null
+    },
+    "4533": {
+        "name": "Octopus Card",
+        "prefix": "Blinding",
+        "suffix": null
+    },
+    "4534": {
+        "name": "Giant Octopus Card",
+        "prefix": "Water Bomb",
+        "suffix": null
+    },
+    "4536": {
+        "name": "Sealed Atroce Card",
+        "prefix": "Half Beast",
+        "suffix": null
+    },
+    "4537": {
+        "name": "Sealed Phreeoni Card",
+        "prefix": "Half Perfect",
+        "suffix": null
+    },
+    "4538": {
+        "name": "Sealed White Lady Card",
+        "prefix": "Half Life Stream",
+        "suffix": null
+    },
+    "4539": {
+        "name": "Sealed Fallen Bishop Card",
+        "prefix": "Half Arrogant",
+        "suffix": null
+    },
+    "4540": {
+        "name": "Sealed Lord of The Death Card",
+        "prefix": "Half Crisis",
+        "suffix": null
+    },
+    "4541": {
+        "name": "Sealed High Wizard Card",
+        "prefix": null,
+        "suffix": "of Half Tempest"
+    },
+    "4542": {
+        "name": "Sealed Detardeurus Card",
+        "prefix": null,
+        "suffix": "of Half Magic Shelter"
+    },
+    "4543": {
+        "name": "Sealed Hatii Card",
+        "prefix": "Half Arctic",
+        "suffix": null
+    },
+    "4544": {
+        "name": "Sealed Dark Snake Lord Card",
+        "prefix": "Half Curse Lift",
+        "suffix": null
+    },
+    "4545": {
+        "name": "Novice Poring Card",
+        "prefix": "Novice",
+        "suffix": null
+    },
+    "4546": {
+        "name": "Val'khiri Card",
+        "prefix": "Screwed",
+        "suffix": null
+    },
+    "4547": {
+        "name": "Enhanced Byorgue Card",
+        "prefix": "Half Exceeding",
+        "suffix": null
+    },
+    "4548": {
+        "name": "Enhanced Salamander Card",
+        "prefix": "Half Nessus",
+        "suffix": null
+    },
+    "4549": {
+        "name": "Upgrade Maya Purple Card",
+        "prefix": null,
+        "suffix": "of Half True Sight"
+    },
+    "4550": {
+        "name": "Upgrade Bow Guardian Card",
+        "prefix": "Half Shaft",
+        "suffix": null
+    },
+    "4556": {
+        "name": "Fenrir Card",
+        "prefix": "Power Ward",
+        "suffix": null
+    },
+    "4557": {
+        "name": "Weakened Fenrir Card",
+        "prefix": null,
+        "suffix": "of Spell Power"
+    },
+    "4559": {
+        "name": "Lord Morocc Card",
+        "prefix": "Blitz",
+        "suffix": null
+    },
+    "4560": {
+        "name": "Clown Card",
+        "prefix": null,
+        "suffix": "of Bragi"
+    },
+    "4561": {
+        "name": "Professor Card",
+        "prefix": null,
+        "suffix": "of Magic Protection"
+    },
+    "4562": {
+        "name": "Champion Card",
+        "prefix": null,
+        "suffix": "of Infiltration"
+    },
+    "4563": {
+        "name": "Creator Card",
+        "prefix": null,
+        "suffix": "of Hydrochloric Acid"
+    },
+    "4564": {
+        "name": "Stalker Card",
+        "prefix": null,
+        "suffix": "of Gentleman"
+    },
+    "4565": {
+        "name": "Paladin Card",
+        "prefix": null,
+        "suffix": "of Grand Cross"
+    },
+    "4566": {
+        "name": "Gypsy Card",
+        "prefix": null,
+        "suffix": "of Fortune"
+    },
+    "4567": {
+        "name": "Alphoccio Card",
+        "prefix": null,
+        "suffix": "of Bard"
+    },
+    "4568": {
+        "name": "Celia Card",
+        "prefix": null,
+        "suffix": "of Gnosis"
+    },
+    "4569": {
+        "name": "Chen Card",
+        "prefix": null,
+        "suffix": "of Origin"
+    },
+    "4570": {
+        "name": "Flamel Card",
+        "prefix": null,
+        "suffix": "of Fast Recovery"
+    },
+    "4571": {
+        "name": "Gertie Card",
+        "prefix": null,
+        "suffix": "of Bind"
+    },
+    "4572": {
+        "name": "Randel Card",
+        "prefix": null,
+        "suffix": "of Solidity"
+    },
+    "4573": {
+        "name": "Trentini Card",
+        "prefix": null,
+        "suffix": "of Dancer"
+    },
+    "4574": {
+        "name": "Daehyon Card",
+        "prefix": "Sword Master",
+        "suffix": null
+    },
+    "4575": {
+        "name": "Soheon Card",
+        "prefix": "Shortcut",
+        "suffix": null
+    },
+    "4576": {
+        "name": "Gioia Card",
+        "prefix": "Educe",
+        "suffix": null
+    },
+    "4577": {
+        "name": "Elvira Card",
+        "prefix": "Psychic",
+        "suffix": null
+    },
+    "4578": {
+        "name": "Pyuriel Card",
+        "prefix": "Fear",
+        "suffix": null
+    },
+    "4579": {
+        "name": "Warrior Lola Card",
+        "prefix": "Morning Star",
+        "suffix": null
+    },
+    "4580": {
+        "name": "Guardian Kades Card",
+        "prefix": null,
+        "suffix": "of Devilish"
+    },
+    "4581": {
+        "name": "Rudo Card",
+        "prefix": "Toilet",
+        "suffix": null
+    },
+    "4582": {
+        "name": "Bungisngis Card",
+        "prefix": "Stamina",
+        "suffix": null
+    },
+    "4583": {
+        "name": "Engkanto Card",
+        "prefix": null,
+        "suffix": "of Poison Grass"
+    },
+    "4584": {
+        "name": "Manananggal Card",
+        "prefix": "Vampiric",
+        "suffix": null
+    },
+    "4585": {
+        "name": "Mangkukulam Card",
+        "prefix": "Cursed",
+        "suffix": null
+    },
+    "4586": {
+        "name": "Tikbalang Card",
+        "prefix": null,
+        "suffix": "of Wind"
+    },
+    "4587": {
+        "name": "Tiyanak Card",
+        "prefix": "Slasher",
+        "suffix": null
+    },
+    "4588": {
+        "name": "Wakwak Card",
+        "prefix": null,
+        "suffix": "of Power"
+    },
+    "4589": {
+        "name": "Jejeling Card",
+        "prefix": null,
+        "suffix": "of Richness"
+    },
+    "4590": {
+        "name": "Bangungot Card",
+        "prefix": null,
+        "suffix": "of Helpless"
+    },
+    "4591": {
+        "name": "Bakonawa Card",
+        "prefix": null,
+        "suffix": "of Bloody"
+    },
+    "4592": {
+        "name": "Buwaya Card",
+        "prefix": null,
+        "suffix": "of Stone Curse"
+    },
+    "4593": {
+        "name": "Menblatt Card",
+        "prefix": null,
+        "suffix": "of Shooter"
+    },
+    "4594": {
+        "name": "Petal Card",
+        "prefix": null,
+        "suffix": "of Death Blow"
+    },
+    "4595": {
+        "name": "Cenere Card",
+        "prefix": null,
+        "suffix": "of Acid"
+    },
+    "4596": {
+        "name": "Antique Book Card",
+        "prefix": null,
+        "suffix": "of Intellectual"
+    },
+    "4597": {
+        "name": "Lichtern Blue Card",
+        "prefix": null,
+        "suffix": "of Water"
+    },
+    "4598": {
+        "name": "Lichtern Green Card",
+        "prefix": null,
+        "suffix": "of Telekinesis"
+    },
+    "4599": {
+        "name": "Lichtern Red Card",
+        "prefix": null,
+        "suffix": "of Fire"
+    },
+    "4600": {
+        "name": "Lichtern Yellow Card",
+        "prefix": null,
+        "suffix": "of Earth"
+    },
+    "4601": {
+        "name": "Amdarais Card",
+        "prefix": null,
+        "suffix": "of Explosion"
+    },
+    "4602": {
+        "name": "Realized Amdarais Card",
+        "prefix": null,
+        "suffix": "of Fury"
+    },
+    "4603": {
+        "name": "Corruption Root Card",
+        "prefix": "Evil Spirit",
+        "suffix": null
+    },
+    "4604": {
+        "name": "Realized Corruption Root Card",
+        "prefix": "Evil God",
+        "suffix": null
+    },
+    "4605": {
+        "name": "Agony of Royal Knight Card",
+        "prefix": null,
+        "suffix": "of Hunger"
+    },
+    "4606": {
+        "name": "Grudge of Royal Knight Card",
+        "prefix": null,
+        "suffix": "of Revenge"
+    },
+    "4607": {
+        "name": "Faithful Manager Card",
+        "prefix": "Librarian",
+        "suffix": null
+    },
+    "4608": {
+        "name": "White Knight Card",
+        "prefix": "Knight's",
+        "suffix": null
+    },
+    "4609": {
+        "name": "Khalitzburg Knight Card",
+        "prefix": "Knight's",
+        "suffix": null
+    },
+    "4610": {
+        "name": "Sarah Card",
+        "prefix": null,
+        "suffix": "of Bless"
+    },
+    "4623": {
+        "name": "11th Anniversary Card",
+        "prefix": "11th Anniversary",
+        "suffix": null
+    },
+    "4625": {
+        "name": "Timeholder Card",
+        "prefix": "Sage",
+        "suffix": null
+    },
+    "4626": {
+        "name": "Big Ben Card",
+        "prefix": "Echo",
+        "suffix": null
+    },
+    "4627": {
+        "name": "Big Bell Card",
+        "prefix": "Vibration",
+        "suffix": null
+    },
+    "4628": {
+        "name": "Neo Punk Card",
+        "prefix": null,
+        "suffix": "of Invisible Horror"
+    },
+    "4629": {
+        "name": "Arc Elder Card",
+        "prefix": "Sterile",
+        "suffix": null
+    },
+    "4630": {
+        "name": "Time Keeper Card",
+        "prefix": null,
+        "suffix": "of Time Keeper"
+    },
+    "4631": {
+        "name": "Owl Viscount Card",
+        "prefix": "Volant",
+        "suffix": null
+    },
+    "4632": {
+        "name": "Owl Marquees Card",
+        "prefix": "Current",
+        "suffix": null
+    },
+    "4633": {
+        "name": "Enhanced Archer Skeleton Card",
+        "prefix": "Queen Bird",
+        "suffix": null
+    },
+    "4634": {
+        "name": "Enhanced Soldier Skeleton Card",
+        "prefix": "Fatal",
+        "suffix": null
+    },
+    "4635": {
+        "name": "Enhanced Amdarais Card",
+        "prefix": "Solid",
+        "suffix": null
+    },
+    "4636": {
+        "name": "Bijou Card",
+        "prefix": null,
+        "suffix": "of Legion"
+    },
+    "4637": {
+        "name": "Immortal Corps Card",
+        "prefix": null,
+        "suffix": "of Drain"
+    },
+    "4638": {
+        "name": "Watcher Card",
+        "prefix": "Plaid",
+        "suffix": null
+    },
+    "4639": {
+        "name": "Taffy Card",
+        "prefix": null,
+        "suffix": "of Force"
+    },
+    "4640": {
+        "name": "Frozen Wolf Card",
+        "prefix": null,
+        "suffix": "of Intelligence"
+    },
+    "4641": {
+        "name": "Zombie Guard Card",
+        "prefix": null,
+        "suffix": "of Soul Gathering"
+    },
+    "4642": {
+        "name": "Infinite Toad Card",
+        "prefix": "Side Step",
+        "suffix": null
+    },
+    "4643": {
+        "name": "Infinite Wandering Wolf Card",
+        "prefix": "Strike",
+        "suffix": null
+    },
+    "4644": {
+        "name": "Infinite Vocal Card",
+        "prefix": "Magic Shield",
+        "suffix": null
+    },
+    "4645": {
+        "name": "Infinite Eclipse Card",
+        "prefix": "Physical",
+        "suffix": null
+    },
+    "4646": {
+        "name": "Infinite Chimera Card",
+        "prefix": "Chimera",
+        "suffix": null
+    },
+    "4647": {
+        "name": "Infinite Osiris Card",
+        "prefix": "Immortal",
+        "suffix": null
+    },
+    "4648": {
+        "name": "Infinite Eddga Card",
+        "prefix": "Provocation",
+        "suffix": null
+    },
+    "4649": {
+        "name": "Infinite Phreeoni Card",
+        "prefix": "Fatal Blow",
+        "suffix": null
+    },
+    "4650": {
+        "name": "Infinite Orc Hero Card",
+        "prefix": "Magic Stun",
+        "suffix": null
+    },
+    "4651": {
+        "name": "Infinite Tao Gunka Card",
+        "prefix": "Monarch",
+        "suffix": null
+    },
+    "4652": {
+        "name": "Nightmare Amon Ra Card",
+        "prefix": "Punishment",
+        "suffix": null
+    },
+    "4653": {
+        "name": "Nightmare Arclouse Card",
+        "prefix": "Immortal Beast",
+        "suffix": null
+    },
+    "4654": {
+        "name": "Nightmare Mimic Card",
+        "prefix": "Tomb Raider",
+        "suffix": null
+    },
+    "4655": {
+        "name": "Nightmare Minotaur Card",
+        "prefix": "Grave Keeper",
+        "suffix": null
+    },
+    "4656": {
+        "name": "Nightmare Mummy Card",
+        "prefix": "Hypnotist",
+        "suffix": null
+    },
+    "4657": {
+        "name": "Nightmare Ancient Mummy Card",
+        "prefix": "Flaming",
+        "suffix": null
+    },
+    "4658": {
+        "name": "Nightmare Verit Card",
+        "prefix": null,
+        "suffix": "of Magic"
+    },
+    "4659": {
+        "name": "Eggring Card",
+        "prefix": "Adventurer",
+        "suffix": null
+    },
+    "4660": {
+        "name": "Scout Basilisk Card",
+        "prefix": null,
+        "suffix": "of Will"
+    },
+    "4661": {
+        "name": "Charge Basilisk Card",
+        "prefix": null,
+        "suffix": "of Strength"
+    },
+    "4662": {
+        "name": "Big Eggring Card",
+        "prefix": "Trinity",
+        "suffix": null
+    },
+    "4663": {
+        "name": "Leaf Lunatic Card",
+        "prefix": "Pretty",
+        "suffix": null
+    },
+    "4664": {
+        "name": "Grass Fabre Card",
+        "prefix": "Pure",
+        "suffix": null
+    },
+    "4665": {
+        "name": "Wild Honet Card",
+        "prefix": "Honey",
+        "suffix": null
+    },
+    "4666": {
+        "name": "Sweet Roda Frog Card",
+        "prefix": "Sugar",
+        "suffix": null
+    },
+    "4667": {
+        "name": "Hunter Wolf Card",
+        "prefix": "Wake",
+        "suffix": null
+    },
+    "4668": {
+        "name": "Trance Spore Card",
+        "prefix": "Silky",
+        "suffix": null
+    },
+    "4669": {
+        "name": "Jungle Mandragora Card",
+        "prefix": "Gust",
+        "suffix": null
+    },
+    "4670": {
+        "name": "Fruit Pom Spider Card",
+        "prefix": "Blaze",
+        "suffix": null
+    },
+    "4671": {
+        "name": "Sorcerer Celia Card",
+        "prefix": null,
+        "suffix": "Sorcerer's"
+    },
+    "4672": {
+        "name": "Sura Chen Card",
+        "prefix": null,
+        "suffix": "Sura's"
+    },
+    "4673": {
+        "name": "Minstrel Alphoccio Card",
+        "prefix": null,
+        "suffix": "Minstrel's"
+    },
+    "4674": {
+        "name": "Guillotine Cross Eremes Card",
+        "prefix": null,
+        "suffix": "Guillotine Cross's"
+    },
+    "4675": {
+        "name": "Arcbishop Margaretha Card",
+        "prefix": null,
+        "suffix": "Archbishop's"
+    },
+    "4676": {
+        "name": "Ranger Cecil Card",
+        "prefix": null,
+        "suffix": "Ranger's"
+    },
+    "4677": {
+        "name": "Mechanic Howard Card",
+        "prefix": null,
+        "suffix": "Mechanic's"
+    },
+    "4678": {
+        "name": "Warlock Kathryne Card",
+        "prefix": null,
+        "suffix": "Warlock's"
+    },
+    "4679": {
+        "name": "Rune Knight Seyren Card",
+        "prefix": null,
+        "suffix": "Rune Knight's"
+    },
+    "4680": {
+        "name": "Royal Guard Randel Card",
+        "prefix": null,
+        "suffix": "Royal Guard's"
+    },
+    "4681": {
+        "name": "Geneticist Flamel Card",
+        "prefix": null,
+        "suffix": "Geneticist's"
+    },
+    "4682": {
+        "name": "Shadow Chaser Gertie Card",
+        "prefix": null,
+        "suffix": "Shadow Chaser's"
+    },
+    "4683": {
+        "name": "Wanderer Trentini Card",
+        "prefix": null,
+        "suffix": "Wanderer's"
+    },
+    "4684": {
+        "name": "True Eremes Guile Card",
+        "prefix": "Cross",
+        "suffix": null
+    },
+    "4685": {
+        "name": "True Margaretha Sorin Card",
+        "prefix": "Adoramus",
+        "suffix": null
+    },
+    "4686": {
+        "name": "True Kathryne Keyron Card",
+        "prefix": "Crimson",
+        "suffix": null
+    },
+    "4687": {
+        "name": "True Cecil Damon Card",
+        "prefix": "Cluster",
+        "suffix": null
+    },
+    "4688": {
+        "name": "True Howard Alt-Eisen Card",
+        "prefix": "Power Storm",
+        "suffix": null
+    },
+    "4689": {
+        "name": "True Seyren Windsor Card",
+        "prefix": "Ignition",
+        "suffix": null
+    },
+    "4690": {
+        "name": "True Randel Lawrence Card",
+        "prefix": "Drive",
+        "suffix": null
+    },
+    "4691": {
+        "name": "True Flamel Emure Card",
+        "prefix": "Neo Storm",
+        "suffix": null
+    },
+    "4692": {
+        "name": "True Celia Aldea Card",
+        "prefix": "Varetyr",
+        "suffix": null
+    },
+    "4693": {
+        "name": "True Chen Liu Card",
+        "prefix": "Rampage Blaster",
+        "suffix": null
+    },
+    "4694": {
+        "name": "True Gertie Wi Card",
+        "prefix": "Decoy",
+        "suffix": null
+    },
+    "4695": {
+        "name": "True Trentini Card",
+        "prefix": "Rainstorm",
+        "suffix": null
+    },
+    "4696": {
+        "name": "True Alphoccio Basil Card",
+        "prefix": "Sound Shock",
+        "suffix": null
+    },
+    "4697": {
+        "name": "Charleston Card",
+        "prefix": "Overload",
+        "suffix": null
+    },
+    "4698": {
+        "name": "Step Card",
+        "prefix": "Boomerang",
+        "suffix": null
+    },
+    "4699": {
+        "name": "Lock Step Card",
+        "prefix": "Dual Cannon",
+        "suffix": null
+    },
+    "8000": {
+        "name": "Assassin Fly Card",
+        "prefix": "Sanguine",
+        "suffix": null
+    },
+    "8001": {
+        "name": "Cave Viper Card",
+        "prefix": null,
+        "suffix": "of Premeditation"
+    },
+    "8089": {
+        "name": "Twinorc Card",
+        "prefix": "Antichemical",
+        "suffix": null
+    },
+    "8090": {
+        "name": "Indignant Soul Card",
+        "prefix": "Soulbreaking",
+        "suffix": null
+    },
+    "8091": {
+        "name": "Roper Card",
+        "prefix": "Herbicidal",
+        "suffix": null
+    },
+    "8092": {
+        "name": "Ghost Shroom Card",
+        "prefix": "Wraithguard",
+        "suffix": null
+    },
+    "8093": {
+        "name": "Miasmus Card",
+        "prefix": null,
+        "suffix": "of Scourging"
+    },
+    "8094": {
+        "name": "Frigid Lich Card",
+        "prefix": null,
+        "suffix": "of Rime"
+    },
+    "8095": {
+        "name": "Logi Card",
+        "prefix": null,
+        "suffix": "of Abaddon"
+    },
+    "8211": {
+        "name": "Protoring Card",
+        "prefix": null,
+        "suffix": "of Earthen Vitality"
+    },
+    "8212": {
+        "name": "Doughring Card",
+        "prefix": "Gluttonous",
+        "suffix": null
+    },
+    "8213": {
+        "name": "Jelring Card",
+        "prefix": "Bubble Bursting",
+        "suffix": null
+    },
+    "8214": {
+        "name": "Abomring Card",
+        "prefix": null,
+        "suffix": "of Porings"
+    },
+    "8216": {
+        "name": "Spectring Card",
+        "prefix": "Quicksilver",
+        "suffix": null
+    },
+    "8217": {
+        "name": "Conductring Card",
+        "prefix": null,
+        "suffix": "of Thor"
+    },
+    "8218": {
+        "name": "Corruptor Card",
+        "prefix": null,
+        "suffix": "of Transfusion"
+    },
+    "8219": {
+        "name": "King Poring Card",
+        "prefix": null,
+        "suffix": "of Greed"
+    },
+    "8233": {
+        "name": "Tomb Crawler Card",
+        "prefix": null,
+        "suffix": "of Triage"
+    },
+    "8234": {
+        "name": "Ancient Guard Card",
+        "prefix": null,
+        "suffix": "of Guards"
+    },
+    "8235": {
+        "name": "Kalec Card",
+        "prefix": null,
+        "suffix": "of Magical Fortitude"
+    },
+    "8236": {
+        "name": "Yser Card",
+        "prefix": null,
+        "suffix": "of Subterfuge"
+    },
+    "8237": {
+        "name": "Flame Beetle Card",
+        "prefix": "Deeply Discounted",
+        "suffix": null
+    },
+    "8238": {
+        "name": "Bonechewer Card",
+        "prefix": null,
+        "suffix": "of Brutality"
+    },
+    "8239": {
+        "name": "Shade of Payon Card",
+        "prefix": "Magic Missile",
+        "suffix": null
+    },
+    "8240": {
+        "name": "Puck Card",
+        "prefix": null,
+        "suffix": "of the Holy Dragon"
+    },
+    "8241": {
+        "name": "Dory Card",
+        "prefix": "Frostflare",
+        "suffix": null
+    },
+    "8242": {
+        "name": "Jabberwock Card",
+        "prefix": "Soul Tapping",
+        "suffix": null
+    },
+    "8243": {
+        "name": "Wolpertinger Card",
+        "prefix": "Earthen Gale",
+        "suffix": null
+    },
+    "8244": {
+        "name": "Moon Rabbit Card",
+        "prefix": null,
+        "suffix": "of Sanctuary"
+    },
+    "8245": {
+        "name": "Kodama Card",
+        "prefix": "Second Chance",
+        "suffix": null
+    },
+    "8246": {
+        "name": "Gyokuto Card",
+        "prefix": "Exorcising",
+        "suffix": null
+    },
+    "8247": {
+        "name": "Onigiring Card",
+        "prefix": "Bento Box",
+        "suffix": null
+    },
+    "8248": {
+        "name": "Lady Huo Card",
+        "prefix": "Clearcasting",
+        "suffix": null
+    },
+    "27000": {
+        "name": "Strange Decoration Tree Card",
+        "prefix": null,
+        "suffix": "of Sorrow"
+    },
+    "27001": {
+        "name": "Gift Wrapping Chief Card",
+        "prefix": null,
+        "suffix": "of Hatred"
+    },
+    "27002": {
+        "name": "Wrapped Box Card",
+        "prefix": null,
+        "suffix": "of Frustration"
+    },
+    "27003": {
+        "name": "Factory Security Guard Soul Card",
+        "prefix": null,
+        "suffix": "of Chill"
+    },
+    "27004": {
+        "name": "Ghost without Present Card",
+        "prefix": null,
+        "suffix": "of Wrath"
+    },
+    "27005": {
+        "name": "Unpacked Doll Card",
+        "prefix": null,
+        "suffix": "of Madness"
+    },
+    "27006": {
+        "name": "Abandoned Bear Doll Card",
+        "prefix": null,
+        "suffix": "of Despair"
+    },
+    "27007": {
+        "name": "Celine Kimi Card",
+        "prefix": null,
+        "suffix": "of Laugh"
+    },
+    "27008": {
+        "name": "Evil Eye of Amdarais Card",
+        "prefix": "Rogue",
+        "suffix": null
+    },
+    "27009": {
+        "name": "Slaughter Evil Eye Card",
+        "prefix": "Evil God",
+        "suffix": null
+    },
+    "27010": {
+        "name": "Grudge of White Knight Card",
+        "prefix": "Knight",
+        "suffix": null
+    },
+    "27011": {
+        "name": "Grudge of Khalitzburg Card",
+        "prefix": "Knight's",
+        "suffix": null
+    },
+    "27012": {
+        "name": "Kick Step Card",
+        "prefix": "Active Protection",
+        "suffix": null
+    },
+    "27013": {
+        "name": "Kick & Kick Card",
+        "prefix": "Vulcan",
+        "suffix": null
+    },
+    "27014": {
+        "name": "Green Cenere Card",
+        "prefix": "Mirage",
+        "suffix": null
+    },
+    "27015": {
+        "name": "Repair Robot Turbo Card",
+        "prefix": "Restore",
+        "suffix": null
+    },
+    "27016": {
+        "name": "Exploration Rover Turbo Card",
+        "prefix": "All Scan",
+        "suffix": null
+    },
+    "27017": {
+        "name": "Scrap Robot Card",
+        "prefix": "Temporary",
+        "suffix": null
+    },
+    "27018": {
+        "name": "GC109 Card",
+        "prefix": "Overclock",
+        "suffix": null
+    },
+    "27019": {
+        "name": "DR815 Card",
+        "prefix": "Debug",
+        "suffix": null
+    },
+    "27020": {
+        "name": "T W O Card",
+        "prefix": "System Error",
+        "suffix": null
+    },
+    "27021": {
+        "name": "[ECO]Bricking RX1 Alma Card",
+        "prefix": "Brick King",
+        "suffix": null
+    },
+    "27022": {
+        "name": "[ECO]Salamander Alma Card",
+        "prefix": null,
+        "suffix": "of Blaze Barrier"
+    },
+    "27023": {
+        "name": "[ECO]Momo Alma Card",
+        "prefix": "Milk Master",
+        "suffix": null
+    },
+    "27024": {
+        "name": "[ECO]Minnie Doe Alma Card",
+        "prefix": "Rabbit",
+        "suffix": null
+    },
+    "27025": {
+        "name": "Lord of The Dead Card",
+        "prefix": "Noble",
+        "suffix": null
+    },
+    "27026": {
+        "name": "Fire Condor Card",
+        "prefix": "Blazing",
+        "suffix": null
+    },
+    "27027": {
+        "name": "Fire Sandman Card",
+        "prefix": "Flaming",
+        "suffix": null
+    },
+    "27028": {
+        "name": "Fire Frilldora Card",
+        "prefix": "Searing",
+        "suffix": null
+    },
+    "27029": {
+        "name": "Fire Golem Card",
+        "prefix": "Flame Eater",
+        "suffix": null
+    },
+    "27030": {
+        "name": "Fulbuk Card",
+        "prefix": "Firebug",
+        "suffix": null
+    },
+    "27031": {
+        "name": "Labyrinth Baphomet card",
+        "prefix": "Extensive",
+        "suffix": null
+    },
+    "27032": {
+        "name": "Labyrinth Dracula Card",
+        "prefix": "Astral",
+        "suffix": null
+    },
+    "27033": {
+        "name": "Immortal Cursed Knight Card",
+        "prefix": "Madman's",
+        "suffix": null
+    },
+    "27034": {
+        "name": "Immortal Wind Ghost Card",
+        "prefix": "Gust",
+        "suffix": null
+    },
+    "27035": {
+        "name": "S.J Ernest Wolf Card",
+        "prefix": "Twisted",
+        "suffix": null
+    },
+    "27036": {
+        "name": "Powerful Skeleton Card",
+        "prefix": "Sharp",
+        "suffix": null
+    },
+    "27037": {
+        "name": "Powerful Archer Skeleton Card",
+        "prefix": "Queen Bird",
+        "suffix": null
+    },
+    "27038": {
+        "name": "Powerful Soldier Skeleton Card",
+        "prefix": "Spike",
+        "suffix": null
+    },
+    "27039": {
+        "name": "Powerful Amdarais Card",
+        "prefix": null,
+        "suffix": "of Big Runaway"
+    },
+    "27040": {
+        "name": "Bijou Card",
+        "prefix": "Brinicle",
+        "suffix": null
+    },
+    "27041": {
+        "name": "Immortal Corps Card",
+        "prefix": "High Tension",
+        "suffix": null
+    },
+    "27042": {
+        "name": "Watcher Card",
+        "prefix": null,
+        "suffix": "of Interrupt"
+    },
+    "27043": {
+        "name": "Tappy Card",
+        "prefix": null,
+        "suffix": "of Mudd Candy"
+    },
+    "27044": {
+        "name": "Frozen Wolf Card",
+        "prefix": null,
+        "suffix": "of Mudd Sherbet"
+    },
+    "27045": {
+        "name": "Zombie Guard Card",
+        "prefix": null,
+        "suffix": "of Soul Gathering"
+    },
+    "27050": {
+        "name": "Sky Petite & Penomena Card",
+        "prefix": "Dual Mirage",
+        "suffix": null
+    },
+    "27051": {
+        "name": "Anubis & Teddy Bear Card",
+        "prefix": "Dual Spiritual",
+        "suffix": null
+    },
+    "27052": {
+        "name": "Orc Warrior & Rafflesia Card",
+        "prefix": "Dual Whale",
+        "suffix": null
+    },
+    "27053": {
+        "name": "Arnoldi & Bigfoot Card",
+        "prefix": "Dual Jungle",
+        "suffix": null
+    },
+    "27054": {
+        "name": "Khalitzburg & Thara Frog Card",
+        "prefix": "Dual Genie",
+        "suffix": null
+    },
+    "27055": {
+        "name": "Celia(MVP) Card",
+        "prefix": "of Sorcerer",
+        "suffix": null
+    },
+    "27056": {
+        "name": "Sura Chen(MVP) Card",
+        "prefix": "of Sura",
+        "suffix": null
+    },
+    "27057": {
+        "name": "Minstrel Alphociio(MVP) Card",
+        "prefix": "of Minstrel",
+        "suffix": null
+    },
+    "27058": {
+        "name": "Guillotine Cross Eremes(MVP) Card",
+        "prefix": "of Guillotine Cross",
+        "suffix": null
+    },
+    "27059": {
+        "name": "Archbishop Margaretha(MVP) Card",
+        "prefix": "of Arc Bishop",
+        "suffix": null
+    },
+    "27060": {
+        "name": "Ranger Shecil(MVP) Card",
+        "prefix": "of Ranger",
+        "suffix": null
+    },
+    "27061": {
+        "name": "Mechanic Harword(MVP) Card",
+        "prefix": "of Mechanic",
+        "suffix": null
+    },
+    "27062": {
+        "name": "Warlock Katrinn(MVP) Card",
+        "prefix": "of Warlock",
+        "suffix": null
+    },
+    "27063": {
+        "name": "Rune Knight Seyren(MVP) Card",
+        "prefix": "of Rune Knight",
+        "suffix": null
+    },
+    "27064": {
+        "name": "Royal Guard Randel(MVP) Card",
+        "prefix": "of Royal guard",
+        "suffix": null
+    },
+    "27065": {
+        "name": "Geneticist Flamel(MVP) Card",
+        "prefix": "of Geneticist",
+        "suffix": null
+    },
+    "27066": {
+        "name": "Shadow Chaser Gertie(MVP) Card",
+        "prefix": "of Shadow Chaser",
+        "suffix": null
+    },
+    "27067": {
+        "name": "Wanderer Trentini(MVP) Card",
+        "prefix": "of Wanderer",
+        "suffix": null
+    },
+    "27068": {
+        "name": "Guillotine Cross Eremes Card",
+        "prefix": "Venom Pressure",
+        "suffix": null
+    },
+    "27069": {
+        "name": "Archbishop Margaretha Card",
+        "prefix": "Judex",
+        "suffix": null
+    },
+    "27070": {
+        "name": "Warlock Katrinn Card",
+        "prefix": "Comet",
+        "suffix": null
+    },
+    "27071": {
+        "name": "Ranger Shecil Card",
+        "prefix": "Cluster",
+        "suffix": null
+    },
+    "27072": {
+        "name": "Mechanic Harword Card",
+        "prefix": "Magma",
+        "suffix": null
+    },
+    "27073": {
+        "name": "Rune Knight Seyren Card",
+        "prefix": "Ignition",
+        "suffix": null
+    },
+    "27074": {
+        "name": "Royal Guard Randel Card",
+        "prefix": "Drive",
+        "suffix": null
+    },
+    "27075": {
+        "name": "Geneticist Flamel Card",
+        "prefix": "Crazy",
+        "suffix": null
+    },
+    "27076": {
+        "name": "Sorcerer Celia Card",
+        "prefix": "Cloud Kill",
+        "suffix": null
+    },
+    "27077": {
+        "name": "Sura Chen Card",
+        "prefix": "Lion's",
+        "suffix": null
+    },
+    "27078": {
+        "name": "Shadow Chaser Gertie Card",
+        "prefix": "Triangle",
+        "suffix": null
+    },
+    "27079": {
+        "name": "Wanderer Trentini Card",
+        "prefix": "Reverberation",
+        "suffix": null
+    },
+    "27080": {
+        "name": "Minstrel Alphoccio Card",
+        "prefix": "Vibration",
+        "suffix": null
+    },
+    "27081": {
+        "name": "Furious Moonlight Flower Card",
+        "prefix": "Moonlight",
+        "suffix": null
+    },
+    "27082": {
+        "name": "Furious Nine Tails Card",
+        "prefix": "Foxtail",
+        "suffix": null
+    },
+    "27083": {
+        "name": "Hollow Bongun Card",
+        "prefix": null,
+        "suffix": "of Growth"
+    },
+    "27084": {
+        "name": "Hollow Sohee Card",
+        "prefix": "Creepy",
+        "suffix": null
+    },
+    "27085": {
+        "name": "Hollow Munak Card",
+        "prefix": "Delicate",
+        "suffix": null
+    },
+    "27086": {
+        "name": "Hollow Archer Skeleton Card",
+        "prefix": "Shooter",
+        "suffix": null
+    },
+    "27087": {
+        "name": "Wizard of Veritas Card",
+        "prefix": "Truth",
+        "suffix": null
+    },
+    "27088": {
+        "name": "Furious Hero Card",
+        "prefix": null,
+        "suffix": "of Agitation"
+    },
+    "27089": {
+        "name": "T W O Card",
+        "prefix": "System Boost",
+        "suffix": null
+    },
+    "27090": {
+        "name": "DR815 Card",
+        "prefix": null,
+        "suffix": "of Mad Wizard"
+    },
+    "27091": {
+        "name": "GC109 Card",
+        "prefix": null,
+        "suffix": "of Mad Warrior"
+    },
+    "27092": {
+        "name": "Charleston No.3 Card",
+        "prefix": "Overclocking",
+        "suffix": null
+    },
+    "27093": {
+        "name": "Kick Step Card",
+        "prefix": null,
+        "suffix": "of Sniper"
+    },
+    "27094": {
+        "name": "Rock Step Card",
+        "prefix": null,
+        "suffix": "of physical"
+    },
+    "27095": {
+        "name": "Step Card",
+        "prefix": null,
+        "suffix": "of Mad Biscuit"
+    },
+    "27096": {
+        "name": "Kick and Kick Card",
+        "prefix": null,
+        "suffix": "of Expert"
+    },
+    "27097": {
+        "name": "Green Cenere Card",
+        "prefix": null,
+        "suffix": "of Angelman"
+    },
+    "27098": {
+        "name": "Repair Robot Turbo Card",
+        "prefix": "Punisher's",
+        "suffix": null
+    },
+    "27099": {
+        "name": "Exploration Rover Robot Card",
+        "prefix": "Judge's",
+        "suffix": null
+    },
+    "27100": {
+        "name": "Scrap Robot Card",
+        "prefix": null,
+        "suffix": "of Clap"
+    },
+    "27101": {
+        "name": "Sweet Nightmare Card",
+        "prefix": "Sorcery",
+        "suffix": null
+    },
+    "27102": {
+        "name": "Matt Drainliar Card",
+        "prefix": "Fire Immune",
+        "suffix": null
+    },
+    "27103": {
+        "name": "Living Dead Card",
+        "prefix": "Vigor",
+        "suffix": null
+    },
+    "27104": {
+        "name": "Furious Dracula Card",
+        "prefix": "Compassion",
+        "suffix": null
+    },
+    "27105": {
+        "name": "Bomi Card",
+        "prefix": "Sorrow",
+        "suffix": null
+    },
+    "27106": {
+        "name": "Awaken Pere Card",
+        "prefix": "Musician's",
+        "suffix": null
+    },
+    "27107": {
+        "name": "Playing Pere Card",
+        "prefix": "Dancing",
+        "suffix": null
+    },
+    "27108": {
+        "name": "Singing Pere Card",
+        "prefix": "Singing",
+        "suffix": null
+    },
+    "27109": {
+        "name": "Jitterbug Card",
+        "prefix": null,
+        "suffix": "of Jitterbug"
+    },
+    "27110": {
+        "name": "Furious Gazeti Card",
+        "prefix": "Quick",
+        "suffix": null
+    },
+    "27111": {
+        "name": "Furious Snowier Card",
+        "prefix": "Refreshing",
+        "suffix": null
+    },
+    "27112": {
+        "name": "Furious Ice Titan Card",
+        "prefix": "Sturdy",
+        "suffix": null
+    },
+    "27113": {
+        "name": "Awaken Ktullanux Card",
+        "prefix": "Frozen",
+        "suffix": null
+    },
+    "27114": {
+        "name": "Ominous Solider Card",
+        "prefix": "Solid",
+        "suffix": null
+    },
+    "27115": {
+        "name": "Ominous Permeter Card",
+        "prefix": "Wise",
+        "suffix": null
+    },
+    "27116": {
+        "name": "Ominous Heater Card",
+        "prefix": "Dual Critical",
+        "suffix": null
+    },
+    "27117": {
+        "name": "Ominous Assaulter Card",
+        "prefix": "Reduce",
+        "suffix": null
+    },
+    "27118": {
+        "name": "Ominous Freezer Card",
+        "prefix": null,
+        "suffix": "of Pierce"
+    },
+    "27119": {
+        "name": "Ominous Turtle General Card",
+        "prefix": null,
+        "suffix": "of Turtle Shell"
+    },
+    "27120": {
+        "name": "Iara Card",
+        "prefix": "Recovery",
+        "suffix": null
+    },
+    "27121": {
+        "name": "Piranha Card",
+        "prefix": "Serrasalmus",
+        "suffix": null
+    },
+    "27122": {
+        "name": "Curupira Card",
+        "prefix": "Tidal wave",
+        "suffix": null
+    },
+    "27123": {
+        "name": "Toucan Card",
+        "prefix": "Insect Collector's",
+        "suffix": null
+    },
+    "27124": {
+        "name": "Jaguar Card",
+        "prefix": "Hunter's",
+        "suffix": null
+    },
+    "27125": {
+        "name": "Headless Mule Card",
+        "prefix": "Aqua Benedict",
+        "suffix": null
+    },
+    "27126": {
+        "name": "Boitata Card",
+        "prefix": "Python",
+        "suffix": null
+    },
+    "27127": {
+        "name": "Ancient King Groza Card",
+        "prefix": null,
+        "suffix": "of Abyss"
+    },
+    "27128": {
+        "name": "Deep Ancient King Groza Card",
+        "prefix": "Ancient Blood",
+        "suffix": null
+    },
+    "27129": {
+        "name": "Justice Card",
+        "prefix": "Hundred",
+        "suffix": null
+    },
+    "27130": {
+        "name": "The Star Card",
+        "prefix": "Expansion",
+        "suffix": null
+    },
+    "27131": {
+        "name": "Temperance Card",
+        "prefix": "Arrow Storm",
+        "suffix": null
+    },
+    "27132": {
+        "name": "The Chariot Card",
+        "prefix": "Cannon",
+        "suffix": null
+    },
+    "27133": {
+        "name": "Death Card",
+        "prefix": "Rolling",
+        "suffix": null
+    },
+    "27134": {
+        "name": "The Hermit Card",
+        "prefix": "Adoramus",
+        "suffix": null
+    },
+    "27135": {
+        "name": "The Emperor Card",
+        "prefix": "Over Brand",
+        "suffix": null
+    },
+    "27136": {
+        "name": "The Moon Card",
+        "prefix": "Diamond Dust",
+        "suffix": null
+    },
+    "27137": {
+        "name": "The Lovers Card",
+        "prefix": "Rainstorm",
+        "suffix": null
+    },
+    "27138": {
+        "name": "The Hierophant Card",
+        "prefix": "Tornado",
+        "suffix": null
+    },
+    "27139": {
+        "name": "The Devil Card",
+        "prefix": "Bomb",
+        "suffix": null
+    },
+    "27140": {
+        "name": "Strength Card",
+        "prefix": null,
+        "suffix": "of heaven and earth"
+    },
+    "27141": {
+        "name": "Evil Card",
+        "prefix": "Volcanic",
+        "suffix": null
+    },
+    "27142": {
+        "name": "Heart Hunter Card",
+        "prefix": "Assault",
+        "suffix": null
+    },
+    "27143": {
+        "name": "Venom Kimera Card",
+        "prefix": null,
+        "suffix": "of Death Valley"
+    },
+    "27144": {
+        "name": "Matter Kimera Card",
+        "prefix": "Elemental",
+        "suffix": null
+    },
+    "27145": {
+        "name": "Human Kimera Card",
+        "prefix": null,
+        "suffix": "of Deep Impact"
+    },
+    "27146": {
+        "name": "Cutie Card",
+        "prefix": "Cutie",
+        "suffix": null
+    },
+    "27147": {
+        "name": "Humanoid Chimera Card",
+        "prefix": "Intensive",
+        "suffix": null
+    },
+    "27148": {
+        "name": "Material Chimera Card",
+        "prefix": "Deft",
+        "suffix": null
+    },
+    "27149": {
+        "name": "Heart Hunter Card",
+        "prefix": "Sniper",
+        "suffix": null
+    },
+    "27150": {
+        "name": "Venom Enchanted Chimera Card",
+        "prefix": null,
+        "suffix": "of High Level"
+    },
+    "27151": {
+        "name": "Evil Card",
+        "prefix": "of Freezing",
+        "suffix": null
+    },
+    "27152": {
+        "name": "Cutie Card",
+        "prefix": "Prompt",
+        "suffix": null
+    },
+    "27157": {
+        "name": "Wood Goblin Card",
+        "prefix": null,
+        "suffix": "of Aqua Wood"
+    },
+    "27158": {
+        "name": "Les Card",
+        "prefix": null,
+        "suffix": "of Windiness"
+    },
+    "27159": {
+        "name": "Uzhas Card",
+        "prefix": "Demon Hunter's",
+        "suffix": null
+    },
+    "27160": {
+        "name": "Vavayaga Card",
+        "prefix": "Dodge",
+        "suffix": null
+    },
+    "27161": {
+        "name": "Mavka Card",
+        "prefix": "Land Blast",
+        "suffix": null
+    },
+    "27162": {
+        "name": "Gopinich Card",
+        "prefix": "Soul Steal",
+        "suffix": null
+    },
+    "27163": {
+        "name": "Faceworm Card",
+        "prefix": null,
+        "suffix": "of Abranchia"
+    },
+    "27164": {
+        "name": "Faceworm Queen Card",
+        "prefix": "Koya",
+        "suffix": null
+    },
+    "27165": {
+        "name": "Dark Faceworm Card",
+        "prefix": null,
+        "suffix": "of Albion"
+    },
+    "27166": {
+        "name": "Faceworm Egg Card",
+        "prefix": "Prio",
+        "suffix": null
+    },
+    "27167": {
+        "name": "Faceworm Larva Card",
+        "prefix": "Glacial",
+        "suffix": null
+    },
+    "27168": {
+        "name": "Elder Irene Card",
+        "prefix": null,
+        "suffix": "of Padre"
+    },
+    "27169": {
+        "name": "Payon Soldier Card",
+        "prefix": "Infantry",
+        "suffix": null
+    },
+    "27170": {
+        "name": "Shotgun Buffalo Bandit Card",
+        "prefix": null,
+        "suffix": "of Dust"
+    },
+    "27171": {
+        "name": "Revolver Buffalo Bandit Card",
+        "prefix": null,
+        "suffix": "of Sunset"
+    },
+    "27172": {
+        "name": "Scimitar Buffalo Bandit Card",
+        "prefix": "Sharp Sword",
+        "suffix": null
+    },
+    "27173": {
+        "name": "Elite Shotgun Buffalo Bandit Card",
+        "prefix": "Dusty",
+        "suffix": null
+    },
+    "27174": {
+        "name": "Elite Revolver Buffalo Bandit Card",
+        "prefix": "Sunset",
+        "suffix": null
+    },
+    "27175": {
+        "name": "Elite Scimitar Buffalo Bandit Card",
+        "prefix": "Small Hunter",
+        "suffix": null
+    },
+    "27176": {
+        "name": "Brown Rat Card",
+        "prefix": null,
+        "suffix": "of Dirty"
+    },
+    "27177": {
+        "name": "Marsh Arclouse Card",
+        "prefix": null,
+        "suffix": "of Marsh"
+    },
+    "27178": {
+        "name": "Gaster Card",
+        "prefix": null,
+        "suffix": "of Zero Guard"
+    },
+    "27179": {
+        "name": "Coyote Card",
+        "prefix": null,
+        "suffix": "of Wild Fang"
+    },
+    "27180": {
+        "name": "Spider Tank Card",
+        "prefix": "Power Brake",
+        "suffix": null
+    },
+    "27181": {
+        "name": "Airship Raid Card",
+        "prefix": "Bane Band",
+        "suffix": null
+    },
+    "27182": {
+        "name": "Captain Ferlock Card",
+        "prefix": "Hammer Shooter",
+        "suffix": null
+    },
+    "27183": {
+        "name": "Gigantes Card",
+        "prefix": "Onslaught",
+        "suffix": null
+    },
+    "27184": {
+        "name": "Knight Sakray Card",
+        "prefix": "Salvation",
+        "suffix": null
+    },
+    "27185": {
+        "name": "Round Rider Card",
+        "prefix": "Funnel",
+        "suffix": null
+    },
+    "27186": {
+        "name": "Side Rider Card",
+        "prefix": null,
+        "suffix": "of Bluff"
+    },
+    "27187": {
+        "name": "Blade Rider Card",
+        "prefix": null,
+        "suffix": "of frame"
+    },
+    "27188": {
+        "name": "Top Round Rider Card",
+        "prefix": "Trigger Happy",
+        "suffix": null
+    },
+    "27189": {
+        "name": "Top Side Rider Card",
+        "prefix": "Speedster",
+        "suffix": null
+    },
+    "27190": {
+        "name": "Coyote Card",
+        "prefix": null,
+        "suffix": "of Ice Barrier"
+    },
+    "27191": {
+        "name": "Gaster card",
+        "prefix": null,
+        "suffix": "of Mist Guard"
+    },
+    "27192": {
+        "name": "Top Blade Rider Card",
+        "prefix": "Force of Mind",
+        "suffix": null
+    },
+    "27194": {
+        "name": "Canibaclouse Card",
+        "prefix": "Magic Boost",
+        "suffix": null
+    },
+    "27195": {
+        "name": "Plasma Rat Card",
+        "prefix": "Power Boost",
+        "suffix": null
+    },
+    "27196": {
+        "name": "Nihil M. Heine Card",
+        "prefix": "Heine",
+        "suffix": null
+    },
+    "27197": {
+        "name": "Agnes Lugenburg Card",
+        "prefix": "Lugenburg",
+        "suffix": null
+    },
+    "27198": {
+        "name": "Juergen Wigner Card",
+        "prefix": "Wigner",
+        "suffix": null
+    },
+    "27199": {
+        "name": "Spica Nerius Card",
+        "prefix": "Nerius",
+        "suffix": null
+    },
+    "27200": {
+        "name": "Nihil Card",
+        "prefix": "Nihil",
+        "suffix": null
+    },
+    "27201": {
+        "name": "Agnes Card",
+        "prefix": "Agnes",
+        "suffix": null
+    },
+    "27202": {
+        "name": "Juergen Card",
+        "prefix": "Jurgen",
+        "suffix": null
+    },
+    "27203": {
+        "name": "Spica Card",
+        "prefix": "Spica",
+        "suffix": null
+    },
+    "27209": {
+        "name": "Sealed Queen Scaraba Card",
+        "prefix": "Half Scaraba",
+        "suffix": null
+    },
+    "27211": {
+        "name": "Sealed Baphomet Card",
+        "prefix": "Half Scythelike",
+        "suffix": null
+    },
+    "27212": {
+        "name": "Sealed Maya Card",
+        "prefix": "Half Reflect",
+        "suffix": null
+    },
+    "27213": {
+        "name": "Sealed Clown Card",
+        "prefix": null,
+        "suffix": "of Half Bragi"
+    },
+    "27214": {
+        "name": "Sealed Professor Card",
+        "prefix": null,
+        "suffix": "of Half Magic Protection"
+    },
+    "27215": {
+        "name": "Sealed Champion Card",
+        "prefix": null,
+        "suffix": "of Half Infiltration"
+    },
+    "27216": {
+        "name": "Sealed Creator Card",
+        "prefix": null,
+        "suffix": "of Half Hydrochloric Acid"
+    },
+    "27217": {
+        "name": "Sealed Stalker Card",
+        "prefix": null,
+        "suffix": "of Half Gentleman"
+    },
+    "27218": {
+        "name": "Sealed Paladin Card",
+        "prefix": null,
+        "suffix": "of Half Grand Cross"
+    },
+    "27219": {
+        "name": "Sealed Gypsy Card",
+        "prefix": null,
+        "suffix": "of Half Fortune"
+    },
+    "27220": {
+        "name": "Sealed General Daehyon Card",
+        "prefix": "Half Sword Master",
+        "suffix": null
+    },
+    "27221": {
+        "name": "Sealed Gioia Card",
+        "prefix": "Half Educe",
+        "suffix": null
+    },
+    "27222": {
+        "name": "Sealed Fallen Pyuriel Card",
+        "prefix": "Half Fear",
+        "suffix": null
+    },
+    "27224": {
+        "name": "Sealed Guardian Kades Card",
+        "prefix": null,
+        "suffix": "of Half Devilish"
+    },
+    "27225": {
+        "name": "Sealed Time Holder Card",
+        "prefix": "Half Sage",
+        "suffix": null
+    },
+    "27237": {
+        "name": "Face Worm Queen Card",
+        "prefix": "Transformation",
+        "suffix": null
+    },
+    "27238": {
+        "name": "Face Worm Card",
+        "prefix": "Unpetrified",
+        "suffix": null
+    },
+    "27239": {
+        "name": "Dark Face Worm Card",
+        "prefix": null,
+        "suffix": "of Wind Barrier"
+    },
+    "27240": {
+        "name": "Face Worm Egg Card",
+        "prefix": "Habitation",
+        "suffix": null
+    },
+    "27241": {
+        "name": "Face Worm Larva Card",
+        "prefix": "Jet",
+        "suffix": null
+    },
+    "27242": {
+        "name": "Great Elder Irene Card",
+        "prefix": null,
+        "suffix": "of Elder"
+    },
+    "27243": {
+        "name": "Payon Soldier & Payon Patrol Card",
+        "prefix": null,
+        "suffix": "of Soldier"
+    },
+    "27244": {
+        "name": "Pere & Kiss Me Pere Card",
+        "prefix": "Sing",
+        "suffix": null
+    },
+    "27245": {
+        "name": "Sing Pere & Swing Pere Card",
+        "prefix": "Perform",
+        "suffix": null
+    },
+    "27246": {
+        "name": "Jitterbug Card",
+        "prefix": "Fort",
+        "suffix": null
+    },
+    "27247": {
+        "name": "fff Jitterbug Card",
+        "prefix": "Fortissimo",
+        "suffix": null
+    },
+    "27248": {
+        "name": "Illusion Sara Card",
+        "prefix": "Phantom",
+        "suffix": null
+    },
+    "27249": {
+        "name": "Arhi Card",
+        "prefix": "Airi",
+        "suffix": null
+    },
+    "27250": {
+        "name": "Dio Anemos Card",
+        "prefix": "Anemos",
+        "suffix": null
+    },
+    "27251": {
+        "name": "Geffen Gangster Card",
+        "prefix": "Gangster",
+        "suffix": null
+    },
+    "27252": {
+        "name": "Geffen Bully Card",
+        "prefix": "Bully",
+        "suffix": null
+    },
+    "27253": {
+        "name": "Geffen Sneak Thief Card",
+        "prefix": "Shoplifter",
+        "suffix": null
+    },
+    "27254": {
+        "name": "Paiement Card",
+        "prefix": "Faymont",
+        "suffix": null
+    },
+    "27255": {
+        "name": "Ordre Card",
+        "prefix": "Ordre",
+        "suffix": null
+    },
+    "27256": {
+        "name": "Blut Haase Card",
+        "prefix": "Haase",
+        "suffix": null
+    },
+    "27257": {
+        "name": "Kuro Akuma Card",
+        "prefix": "Akuma",
+        "suffix": null
+    },
+    "27258": {
+        "name": "Ipodus Card",
+        "prefix": "Ifodes",
+        "suffix": null
+    },
+    "27259": {
+        "name": "Licheniyes Card",
+        "prefix": "Licheniyes",
+        "suffix": null
+    },
+    "27260": {
+        "name": "Odoric Card",
+        "prefix": "Odoric",
+        "suffix": null
+    },
+    "27261": {
+        "name": "Ju Card",
+        "prefix": "Ju",
+        "suffix": null
+    },
+    "27262": {
+        "name": "Dwigh Card",
+        "prefix": "Dwigh",
+        "suffix": null
+    },
+    "27263": {
+        "name": "Fei Kanavian Card",
+        "prefix": "Kanavian",
+        "suffix": null
+    },
+    "27264": {
+        "name": "Evil Shadow Card",
+        "prefix": null,
+        "suffix": "of Evil Shadow"
+    },
+    "27265": {
+        "name": "Evil Fanatic Card",
+        "prefix": "Evil Fanatic",
+        "suffix": null
+    },
+    "27286": {
+        "name": "Colorful Teddy Bear Card",
+        "prefix": "Romping",
+        "suffix": null
+    },
+    "27287": {
+        "name": "Shiny Teddy Bear Card",
+        "prefix": null,
+        "suffix": "of Liniment"
+    },
+    "27288": {
+        "name": "Miner Pitman Card",
+        "prefix": null,
+        "suffix": "of Worker"
+    },
+    "27289": {
+        "name": "Soul Fragment Card",
+        "prefix": "Proper",
+        "suffix": null
+    },
+    "27290": {
+        "name": "Vicious Enchanted Obsidian Card",
+        "prefix": null,
+        "suffix": "of Obsidian"
+    },
+    "29230": {
+        "name": "[ECO]Taini Alma Card",
+        "prefix": "Tainy Ale",
+        "suffix": null
+    },
+    "29363": {
+        "name": "Burning Fire",
+        "prefix": "Burning Fire",
+        "suffix": null
+    },
+    "31000": {
+        "name": "Rudo Card",
+        "prefix": null,
+        "suffix": "of Toilet"
+    },
+    "31001": {
+        "name": "Lola Card",
+        "prefix": "Morning Star",
+        "suffix": null
+    },
+    "31002": {
+        "name": "Elvira Card",
+        "prefix": "Psychic",
+        "suffix": null
+    },
+    "31003": {
+        "name": "Merciless Gioia Card",
+        "prefix": "Will",
+        "suffix": null
+    },
+    "31004": {
+        "name": "Soheon Card",
+        "prefix": "Twister",
+        "suffix": null
+    },
+    "31005": {
+        "name": "General Daehyon Card",
+        "prefix": "Sword Master",
+        "suffix": null
+    },
+    "31006": {
+        "name": "[LoVA] Hades Card",
+        "prefix": null,
+        "suffix": "of Praise Death Lord"
+    },
+    "31007": {
+        "name": "[LoVA] Realization Hades Card",
+        "prefix": null,
+        "suffix": "of Immortal Grudge"
+    },
+    "31008": {
+        "name": "[LoVA] Lulu Card",
+        "prefix": "Spirit Amulet",
+        "suffix": null
+    },
+    "31009": {
+        "name": "[LoVA] Realization Lulu Card",
+        "prefix": null,
+        "suffix": "of Wish Song"
+    },
+    "31010": {
+        "name": "[LoVA] Kima Card",
+        "prefix": "Shubha~~~n!",
+        "suffix": null
+    },
+    "31011": {
+        "name": "[LoVA] Realization Kima Card",
+        "prefix": "Kimakima Time",
+        "suffix": null
+    },
+    "31012": {
+        "name": "[LoVA] Bahamut Card",
+        "prefix": "Dragon Fear",
+        "suffix": null
+    },
+    "31013": {
+        "name": "[LoVA] Realization Bahamut Card",
+        "prefix": "Mega Flare",
+        "suffix": null
+    },
+    "31014": {
+        "name": "[LoVA] Ragnarok Card",
+        "prefix": null,
+        "suffix": "of Golden End"
+    },
+    "31015": {
+        "name": "[LoVA] Realization Ragnarok Card",
+        "prefix": null,
+        "suffix": "of God of Fate"
+    },
+    "31016": {
+        "name": "Decorated Evil Tree Card",
+        "prefix": null,
+        "suffix": "of Sorrow"
+    },
+    "31017": {
+        "name": "Vicious Cookie Card",
+        "prefix": null,
+        "suffix": "of Hatred"
+    },
+    "31018": {
+        "name": "Evil Dwelling Box Card",
+        "prefix": "Frustration",
+        "suffix": null
+    },
+    "31019": {
+        "name": "Creepy Demon Card",
+        "prefix": null,
+        "suffix": "of Chill"
+    },
+    "31020": {
+        "name": "Malicious Baby Ghost Card",
+        "prefix": null,
+        "suffix": "of Wrath"
+    },
+    "31021": {
+        "name": "Dancing Marionette Card",
+        "prefix": "Madness",
+        "suffix": null
+    },
+    "31022": {
+        "name": "Abandoned Teddy Bear Card",
+        "prefix": null,
+        "suffix": "of Despair"
+    },
+    "31023": {
+        "name": "Celine Kimi Card",
+        "prefix": "Maniac",
+        "suffix": null
+    },
+    "31024": {
+        "name": "Immortal Cursed Knight Card",
+        "prefix": "Volcanic Ball",
+        "suffix": null
+    },
+    "31025": {
+        "name": "Immortal Wind Ghost Card",
+        "prefix": "Deadly",
+        "suffix": null
+    },
+    "31026": {
+        "name": "Stephane Jack Earnest Wolf Card",
+        "prefix": "Auto Magic",
+        "suffix": null
+    },
+    "90000": {
+        "name": "Magmawhip Card",
+        "prefix": null,
+        "suffix": "of Endurance"
+    },
+    "90001": {
+        "name": "SCOUT Card",
+        "prefix": "Repulsing",
+        "suffix": null
+    },
+    "90002": {
+        "name": "Rekenber Soldier Card",
+        "prefix": "Far-reaching",
+        "suffix": null
+    },
+    "90003": {
+        "name": "WELDER Card",
+        "prefix": "Balanced",
+        "suffix": null
+    },
+    "90004": {
+        "name": "CORE card",
+        "prefix": "Fireproof",
+        "suffix": null
+    },
+    "90005": {
+        "name": "DRILL Card",
+        "prefix": "Overclocked",
+        "suffix": null
+    },
+    "90006": {
+        "name": "Living Magma Card",
+        "prefix": "Perilous",
+        "suffix": null
+    },
+    "90007": {
+        "name": "FUEL Card",
+        "prefix": null,
+        "suffix": "of Pyromania"
+    },
+    "90008": {
+        "name": "Rekenber Guard Card",
+        "prefix": null,
+        "suffix": "of Relocating"
+    },
+    "90009": {
+        "name": "Rekenber Mercenary Card",
+        "prefix": "Subduing",
+        "suffix": null
+    },
+    "90010": {
+        "name": "Magma Familiar Card",
+        "prefix": "Spry",
+        "suffix": null
+    },
+    "90011": {
+        "name": "MAID Card",
+        "prefix": "Menacing",
+        "suffix": null
+    },
+    "90012": {
+        "name": "Rekenber General Card",
+        "prefix": "Immovable",
+        "suffix": null
+    },
+    "90013": {
+        "name": "Ignis Card",
+        "prefix": null,
+        "suffix": "of Arson"
+    },
+    "90014": {
+        "name": "Pill Bug Card",
+        "prefix": null,
+        "suffix": "of Crawling"
+    },
+    "90015": {
+        "name": "Great Snake Card",
+        "prefix": null,
+        "suffix": "of Slithering"
+    },
+    "90016": {
+        "name": "Elite Punk Card",
+        "prefix": "Craven's",
+        "suffix": null
+    },
+    "90017": {
+        "name": "Spurus Card",
+        "prefix": null,
+        "suffix": "of Simpleton"
+    }
+}

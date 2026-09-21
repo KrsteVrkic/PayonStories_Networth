@@ -1,0 +1,6017 @@
+Poring Card (ID: 4001)
+
+Lucky
+
+—
+
+Fabre Card (ID: 4002)
+
+Vital
+
+—
+
+Pupa Card (ID: 4003)
+
+Hard
+
+—
+
+Drops Card (ID: 4004)
+
+Dexterous
+
+—
+
+Santa Poring Card (ID: 4005)
+
+Hallowed
+
+—
+
+Lunatic Card (ID: 4006)
+
+Lucky
+
+—
+
+Pecopeco Egg Card (ID: 4007)
+
+Beholder
+
+—
+
+Picky Card (ID: 4008)
+
+Extra
+
+—
+
+Chonchon Card (ID: 4009)
+
+Light
+
+—
+
+Willow Card (ID: 4010)
+
+Wise
+
+—
+
+Picky Egg Card (ID: 4011)
+
+Dynamic
+
+—
+
+Thiefbug Egg Card (ID: 4012)
+
+Rigid
+
+—
+
+Andre Egg Card (ID: 4013)
+
+Excellent
+
+—
+
+Roda Frog Card (ID: 4014)
+
+—
+
+of Champion
+
+Condor Card (ID: 4015)
+
+Quick
+
+—
+
+Thief Bug Card (ID: 4016)
+
+Speedy
+
+—
+
+Savage Bebe Card (ID: 4017)
+
+Stun
+
+—
+
+Andre Larva Card (ID: 4018)
+
+Smart
+
+—
+
+Hornet Card (ID: 4019)
+
+Martyr
+
+—
+
+Familiar Card (ID: 4020)
+
+Blink
+
+—
+
+Rocker Card (ID: 4021)
+
+Skillful
+
+—
+
+Spore Card (ID: 4022)
+
+—
+
+of Spore
+
+Baby Desert Wolf Card (ID: 4023)
+
+—
+
+of Desert
+
+Plankton Card (ID: 4024)
+
+Drowsy
+
+—
+
+Skeleton Card (ID: 4025)
+
+Keen
+
+—
+
+Female Thiefbug Card (ID: 4026)
+
+Shrewd
+
+—
+
+Kukre Card (ID: 4027)
+
+Athletic
+
+—
+
+Tarou Card (ID: 4028)
+
+Double-forced
+
+—
+
+Wolf Card (ID: 4029)
+
+Wolverine
+
+—
+
+Mandragora Card (ID: 4030)
+
+Windy
+
+—
+
+Pecopeco Card (ID: 4031)
+
+—
+
+of Mars
+
+Ambernite Card (ID: 4032)
+
+—
+
+of Athena
+
+Poporing Card (ID: 4033)
+
+Detoxication
+
+—
+
+Wormtail Card (ID: 4034)
+
+Clever
+
+—
+
+Hydra Card (ID: 4035)
+
+Bloody
+
+—
+
+Muka Card (ID: 4036)
+
+Robust
+
+—
+
+Snake Card (ID: 4037)
+
+Untouchable
+
+—
+
+Zombie Card (ID: 4038)
+
+Healthy
+
+—
+
+Stainer Card (ID: 4039)
+
+—
+
+of Aristotle
+
+Creamy Card (ID: 4040)
+
+Teleport
+
+—
+
+Coco Card (ID: 4041)
+
+—
+
+of Sandman
+
+Steel Chonchon Card (ID: 4042)
+
+—
+
+of Heman
+
+Andre Card (ID: 4043)
+
+Hurricane
+
+—
+
+Smokie Card (ID: 4044)
+
+Hiding
+
+—
+
+Horn Card (ID: 4045)
+
+Heavy
+
+—
+
+Martin Card (ID: 4046)
+
+—
+
+of Cleric
+
+Ghostring Card (ID: 4047)
+
+Ghost
+
+—
+
+Poison Spore Card (ID: 4048)
+
+Poison
+
+—
+
+Vadon Card (ID: 4049)
+
+Flammable
+
+—
+
+Male Thiefbug Card (ID: 4050)
+
+—
+
+of Hermes
+
+Yoyo Card (ID: 4051)
+
+—
+
+of Flash
+
+Elder Willow Card (ID: 4052)
+
+Erudite
+
+—
+
+Vitata Card (ID: 4053)
+
+Healing
+
+—
+
+Angelring Card (ID: 4054)
+
+Holy
+
+—
+
+Marina Card (ID: 4055)
+
+Ice
+
+—
+
+Dustiness Card (ID: 4056)
+
+—
+
+of Warmth
+
+Metaller Card (ID: 4057)
+
+Silence
+
+—
+
+Thara Frog Card (ID: 4058)
+
+Cranial
+
+—
+
+Soldier Andre Card (ID: 4059)
+
+—
+
+of Cadi
+
+Goblin Card (ID: 4060)
+
+Clamorous
+
+—
+
+Cornutus Card (ID: 4061)
+
+Immortal
+
+—
+
+Anacondaq Card (ID: 4062)
+
+Envenom
+
+—
+
+Caramel Card (ID: 4063)
+
+Insecticide
+
+—
+
+Zerom Card (ID: 4064)
+
+Nimble
+
+—
+
+Kaho Card (ID: 4065)
+
+Underneath
+
+—
+
+Orc Warrior Card (ID: 4066)
+
+Brutal
+
+—
+
+Megalodon Card (ID: 4067)
+
+Atomic
+
+—
+
+Scorpion Card (ID: 4068)
+
+Chemical
+
+—
+
+Drainliar Card (ID: 4069)
+
+Saharic
+
+—
+
+Eggyra Card (ID: 4070)
+
+—
+
+of Witch
+
+Orc Zombie Card (ID: 4071)
+
+Angelic
+
+—
+
+Golem Card (ID: 4072)
+
+Solid
+
+—
+
+Pirate Skel Card (ID: 4073)
+
+Discount
+
+—
+
+Bigfoot Card (ID: 4074)
+
+—
+
+of Gargantua
+
+Argos Card (ID: 4075)
+
+Hypnotic
+
+—
+
+Magnolia Card (ID: 4076)
+
+Cursing
+
+—
+
+Phen Card (ID: 4077)
+
+—
+
+Under a Cast
+
+Savage Card (ID: 4078)
+
+—
+
+of Recovery
+
+Mantis Card (ID: 4079)
+
+—
+
+of Mustle
+
+Flora Card (ID: 4080)
+
+Fisher
+
+—
+
+Hode Card (ID: 4081)
+
+Glorious
+
+—
+
+Desert Wolf Card (ID: 4082)
+
+Gigantic
+
+—
+
+Rafflesia Card (ID: 4083)
+
+Homer's
+
+—
+
+Marine Sphere Card (ID: 4084)
+
+Blast
+
+—
+
+Orc Skeleton Card (ID: 4085)
+
+Damned
+
+—
+
+Soldier Skeleton Card (ID: 4086)
+
+Critical
+
+—
+
+Giearth Card (ID: 4087)
+
+Order
+
+—
+
+Frilldora Card (ID: 4088)
+
+Guard
+
+—
+
+Swordfish Card (ID: 4089)
+
+Aqua
+
+—
+
+Munak Card (ID: 4090)
+
+Amulet
+
+—
+
+Kobold Card (ID: 4091)
+
+—
+
+of Counter
+
+Skel Worker Card (ID: 4092)
+
+Boned
+
+—
+
+Obeaune Card (ID: 4093)
+
+Cure
+
+—
+
+Archer Skeleton Card (ID: 4094)
+
+Kingbird
+
+—
+
+Marse Card (ID: 4095)
+
+Genie's
+
+—
+
+Zenorc Card (ID: 4096)
+
+Venomer's
+
+—
+
+Matyr Card (ID: 4097)
+
+Green
+
+—
+
+Dokebi Card (ID: 4098)
+
+—
+
+of Zephyrus
+
+Pasana Card (ID: 4099)
+
+—
+
+of Ifrit
+
+Sohee Card (ID: 4100)
+
+Soul-Enchanted
+
+—
+
+Sandman Card (ID: 4101)
+
+—
+
+of Gnome
+
+Whisper Card (ID: 4102)
+
+Mocking
+
+—
+
+Horong Card (ID: 4103)
+
+Clairvoyant
+
+—
+
+Requiem Card (ID: 4104)
+
+Chaos
+
+—
+
+Marc Card (ID: 4105)
+
+Unfrozen
+
+—
+
+Mummy Card (ID: 4106)
+
+Ancient
+
+—
+
+Verit Card (ID: 4107)
+
+Fledged
+
+—
+
+Myst Card (ID: 4108)
+
+Innoxious
+
+—
+
+Jakk Card (ID: 4109)
+
+Flameguard
+
+—
+
+Ghoul Card (ID: 4110)
+
+Viper's
+
+—
+
+Strouf Card (ID: 4111)
+
+Decussate
+
+—
+
+Marduk Card (ID: 4112)
+
+Peerless
+
+—
+
+Marionette Card (ID: 4113)
+
+—
+
+of Ghost
+
+Argiope Card (ID: 4114)
+
+Poisoning
+
+—
+
+Hunter Fly Card (ID: 4115)
+
+Malicious
+
+—
+
+Isis Card (ID: 4116)
+
+Divine
+
+—
+
+Sidewinder Card (ID: 4117)
+
+Hybrid
+
+—
+
+Earth Petite Card (ID: 4118)
+
+Dragoon
+
+—
+
+Bathory Card (ID: 4119)
+
+Evil
+
+—
+
+Sky Petite Card (ID: 4120)
+
+—
+
+of Dragoon
+
+Phreeoni Card (ID: 4121)
+
+Perfect
+
+—
+
+Deviruchi Card (ID: 4122)
+
+Adurate
+
+—
+
+Eddga Card (ID: 4123)
+
+Bearer's
+
+—
+
+Medusa Card (ID: 4124)
+
+Plasterer's
+
+—
+
+Deviace Card (ID: 4125)
+
+Aqua
+
+—
+
+Minorous Card (ID: 4126)
+
+Titan
+
+—
+
+Nightmare Card (ID: 4127)
+
+Insomniac
+
+—
+
+Golden Thiefbug Card (ID: 4128)
+
+—
+
+of Deaf
+
+Baphomet Junior Card (ID: 4129)
+
+—
+
+of Rogue
+
+Scorpion King Card (ID: 4130)
+
+Divine
+
+—
+
+Moonlight Flower Card (ID: 4131)
+
+Hasty
+
+—
+
+Mistress Card (ID: 4132)
+
+—
+
+of Gemstone
+
+Raydric Card (ID: 4133)
+
+Immune
+
+—
+
+Dracula Card (ID: 4134)
+
+Spiritual
+
+—
+
+Orc Lord Card (ID: 4135)
+
+Mirror
+
+—
+
+Khalitzburg Card (ID: 4136)
+
+—
+
+from Hell
+
+Drake Card (ID: 4137)
+
+—
+
+of Infinity
+
+Anubis Card (ID: 4138)
+
+Satanic
+
+—
+
+Joker Card (ID: 4139)
+
+—
+
+of Moonlight
+
+Abysmal Knight Card (ID: 4140)
+
+Liberation
+
+—
+
+Evil Druid Card (ID: 4141)
+
+Deadly
+
+—
+
+Doppelganger Card (ID: 4142)
+
+—
+
+of Berserk
+
+Orc Hero Card (ID: 4143)
+
+Neutral
+
+—
+
+Osiris Card (ID: 4144)
+
+—
+
+of Eternity
+
+Berzebub Card (ID: 4145)
+
+—
+
+of Bigmouth
+
+Maya Card (ID: 4146)
+
+Reflect
+
+—
+
+Baphomet Card (ID: 4147)
+
+Scythelike
+
+—
+
+Pharaoh Card (ID: 4148)
+
+—
+
+of Kirin
+
+Gargoyle Card (ID: 4149)
+
+—
+
+of Clear Sky
+
+Goat Card (ID: 4150)
+
+—
+
+of Resist Spell Power
+
+Gajomart Card (ID: 4151)
+
+—
+
+of Nature Destroyer
+
+Galapago Card (ID: 4152)
+
+Juicy
+
+—
+
+Crab Card (ID: 4153)
+
+Cancer
+
+—
+
+Dumpling Kid Card (ID: 4154)
+
+—
+
+of Candy Smell
+
+Goblin Leader Card (ID: 4155)
+
+Fatal Goblin
+
+—
+
+Goblin Steamrider Card (ID: 4156)
+
+Fatal Frame
+
+—
+
+Goblin Archer Card (ID: 4157)
+
+Hard Hit
+
+—
+
+Sky Deleter Card (ID: 4158)
+
+—
+
+of Slaughter
+
+Nine Tail Card (ID: 4159)
+
+High Level
+
+—
+
+Firelock Soldier Card (ID: 4160)
+
+High Level
+
+—
+
+Grand Peco Card (ID: 4161)
+
+Anti-Magic
+
+—
+
+Grizzly Card (ID: 4162)
+
+—
+
+of Blind
+
+Gryphon Card (ID: 4163)
+
+Wild
+
+—
+
+Gullinbursti Card (ID: 4164)
+
+Fisherman's
+
+—
+
+Gig Card (ID: 4165)
+
+Insect Soul Gain
+
+—
+
+Nightmare Terror Card (ID: 4166)
+
+—
+
+of Jinx
+
+Nereid Card (ID: 4167)
+
+Beast Soul Gain
+
+—
+
+Dark Lord Card (ID: 4168)
+
+—
+
+of Doom
+
+Dark Illusion Card (ID: 4169)
+
+—
+
+of Spell Master
+
+Dark Frame Card (ID: 4170)
+
+—
+
+of Hardening
+
+Dark Priest Card (ID: 4171)
+
+Soul Drain
+
+—
+
+The Paper Card (ID: 4172)
+
+Slash
+
+—
+
+Demon Fungus Card (ID: 4173)
+
+—
+
+of Hypnotism
+
+Devilring Card (ID: 4174)
+
+Deviant
+
+—
+
+Poisonous Toad Card (ID: 4175)
+
+Pushing
+
+—
+
+Dullahan Card (ID: 4176)
+
+Fatal Serpent
+
+—
+
+Dryad Card (ID: 4177)
+
+—
+
+of Green Stone
+
+Dragon Tail Card (ID: 4178)
+
+—
+
+of Bow Master
+
+Dragonfly Card (ID: 4179)
+
+—
+
+of Highlight
+
+Driller Card (ID: 4180)
+
+Dragonic Soul Gain
+
+—
+
+Disguise Card (ID: 4181)
+
+—
+
+of Silence
+
+Diabolic Card (ID: 4182)
+
+Demonic Soul Gain
+
+—
+
+Wandering Wolf Card (ID: 4183)
+
+Werewolf
+
+—
+
+Lava Golem Card (ID: 4184)
+
+Break
+
+—
+
+Rideword Card (ID: 4185)
+
+—
+
+of Wisdom
+
+Raggler Card (ID: 4186)
+
+Strenuous
+
+—
+
+Raydric Archer Card (ID: 4187)
+
+—
+
+of Gloomy Night
+
+Leib Olmai Card (ID: 4188)
+
+—
+
+of Red Stone
+
+Wraith Dead Card (ID: 4189)
+
+of Misfortune
+
+—
+
+Wraith Card (ID: 4190)
+
+—
+
+of Laugh Maker
+
+Loli Ruri Card (ID: 4191)
+
+—
+
+of Life Stream
+
+Rotar Zairo Card (ID: 4192)
+
+Fatal Pisces
+
+—
+
+Lude Card (ID: 4193)
+
+—
+
+of Patience
+
+Rybio Card (ID: 4194)
+
+—
+
+of Stun
+
+Leaf Cat Card (ID: 4195)
+
+—
+
+of Blue Stone
+
+Marin Card (ID: 4196)
+
+—
+
+of Jellopy
+
+Mastering Card (ID: 4197)
+
+High Luck
+
+—
+
+Maya Purple Card (ID: 4198)
+
+—
+
+of True Sight
+
+Merman Card (ID: 4199)
+
+—
+
+of Dash
+
+Megalith Card (ID: 4200)
+
+—
+
+of Resist Spell Power
+
+Majoruros Card (ID: 4201)
+
+Binding Stun
+
+—
+
+Mao Guai Card (ID: 4202)
+
+Exorcism
+
+—
+
+Mutant Dragonoid Card (ID: 4203)
+
+Burning
+
+—
+
+Mini Demon Card (ID: 4204)
+
+Poacher's
+
+—
+
+Mimic Card (ID: 4205)
+
+—
+
+of Blue Cubic
+
+Myst Case Card (ID: 4206)
+
+Cubic
+
+—
+
+Mysteltainn Card (ID: 4207)
+
+Anti-Small
+
+—
+
+Miyabi Doll Card (ID: 4208)
+
+—
+
+of Full-energy
+
+Violy Card (ID: 4209)
+
+—
+
+of Crack
+
+Wanderer Card (ID: 4210)
+
+Pressure
+
+—
+
+Vocal Card (ID: 4211)
+
+Expert
+
+—
+
+Bongun Card (ID: 4212)
+
+Knock-Back
+
+—
+
+Brilight Card (ID: 4213)
+
+of Silence
+
+—
+
+Bloody Murderer Card (ID: 4214)
+
+Man Eater
+
+—
+
+Blazzer Card (ID: 4215)
+
+—
+
+of Food
+
+Sasquatch Card (ID: 4216)
+
+—
+
+of Freeze
+
+Enchanted Peach Tree Card (ID: 4217)
+
+Auto Healing
+
+—
+
+Succubus Card (ID: 4218)
+
+Nightmare
+
+—
+
+Sage Worm Card (ID: 4219)
+
+—
+
+of Magic Stone
+
+Solider Card (ID: 4220)
+
+Faithful
+
+—
+
+Skeleton General Card (ID: 4221)
+
+Insect Collector's
+
+—
+
+Skel Prisoner Card (ID: 4222)
+
+—
+
+of Sleep
+
+Stalactic Golem Card (ID: 4223)
+
+—
+
+of Sturdiness
+
+Stem Worm Card (ID: 4224)
+
+—
+
+of Rainy Day
+
+Stone Shooter Card (ID: 4225)
+
+Shooting
+
+—
+
+Sting Card (ID: 4226)
+
+High Level
+
+—
+
+Spring Rabbit Card (ID: 4227)
+
+—
+
+of Meat Smell
+
+Sleeper Card (ID: 4228)
+
+—
+
+of Siesta
+
+Tower Keeper Card (ID: 4229)
+
+Faster
+
+—
+
+Shinobi Card (ID: 4230)
+
+—
+
+of Coward
+
+Mi Gao Card (ID: 4231)
+
+Charging
+
+—
+
+Hermit Plant Card (ID: 4232)
+
+Refresh
+
+—
+
+Baby Leopard Card (ID: 4233)
+
+Petit Luck
+
+—
+
+Anolian Card (ID: 4234)
+
+—
+
+of Stainless Mirror
+
+Christmas Cookie Card (ID: 4235)
+
+Fallen Angel's
+
+—
+
+Amon Ra Card (ID: 4236)
+
+—
+
+of Protection
+
+Owl Duke Card (ID: 4237)
+
+—
+
+of God's Wrath
+
+Owl Baron Card (ID: 4238)
+
+—
+
+of Double Power
+
+Iron Fist Card (ID: 4239)
+
+Veteran Hunter's
+
+—
+
+Arclouze Card (ID: 4240)
+
+—
+
+of Resist Spell Power
+
+Arc Angelring Card (ID: 4241)
+
+Two Lucky Seven
+
+—
+
+Apocalipse Card (ID: 4242)
+
+High Level
+
+—
+
+Antonio Card (ID: 4243)
+
+—
+
+of Escape
+
+Alarm Card (ID: 4244)
+
+—
+
+of Seeker
+
+Am Mut Card (ID: 4245)
+
+Assassin's
+
+—
+
+Assaulter Card (ID: 4246)
+
+Kill
+
+—
+
+Aster Card (ID: 4247)
+
+Starfish
+
+—
+
+Ancient Mummy Card (ID: 4248)
+
+Shining Cross
+
+—
+
+Ancient Worm Card (ID: 4249)
+
+Exorcist's
+
+—
+
+Executioner Card (ID: 4250)
+
+Anti-Large
+
+—
+
+Elder Card (ID: 4251)
+
+Invade
+
+—
+
+Alligator Card (ID: 4252)
+
+—
+
+of Four Leaf Clover
+
+Alice Card (ID: 4253)
+
+—
+
+of Royal Guard
+
+Ogretooth Card (ID: 4254)
+
+Anti-Medium
+
+—
+
+Orc Lady Card (ID: 4255)
+
+Smash
+
+—
+
+Orc Archer Card (ID: 4256)
+
+Desired
+
+—
+
+Wild Rose Card (ID: 4257)
+
+Wing
+
+—
+
+Evil Nymph Card (ID: 4258)
+
+Prodigy
+
+—
+
+Wooden Golem Card (ID: 4259)
+
+—
+
+of Nature
+
+Wootan Shooter Card (ID: 4260)
+
+Confusion Guard
+
+—
+
+Wootan Fighter Card (ID: 4261)
+
+Smoldering
+
+—
+
+Cloud Hermit Card (ID: 4262)
+
+—
+
+of Cloudy Day
+
+Incantation Samurai Card (ID: 4263)
+
+Bloodlust
+
+—
+
+Wind Ghost Card (ID: 4264)
+
+Thunderbolt
+
+—
+
+Jing Guai Card (ID: 4265)
+
+—
+
+of Dawn
+
+Eclipse Card (ID: 4266)
+
+Resist Magic
+
+—
+
+Explosion Card (ID: 4267)
+
+Dragon Slayer's
+
+—
+
+Injustice Card (ID: 4268)
+
+Extending
+
+—
+
+Incubus Card (ID: 4269)
+
+—
+
+of Nightmare
+
+Giant Spider Card (ID: 4270)
+
+—
+
+of Venom
+
+Giant Hornet Card (ID: 4271)
+
+—
+
+of Yellow Stone
+
+Zhu Po Long Card (ID: 4272)
+
+Swift
+
+—
+
+Shell Fish Card (ID: 4273)
+
+Shell
+
+—
+
+Zombie Master Card (ID: 4274)
+
+Undead Soul Gain
+
+—
+
+Zombie Prisoner Card (ID: 4275)
+
+Undead Slayer's
+
+—
+
+Lord of The Dead Card (ID: 4276)
+
+Crisis
+
+—
+
+Zealotus Card (ID: 4277)
+
+—
+
+of Shooting Master
+
+Gibbet Card (ID: 4278)
+
+—
+
+of Resist Spell Power
+
+Earth Deleter Card (ID: 4279)
+
+—
+
+of Soul Collector
+
+Geographer Card (ID: 4280)
+
+of Great Blessing
+
+—
+
+Zipper Bear Card (ID: 4281)
+
+Hard Working
+
+—
+
+Tengu Card (ID: 4282)
+
+—
+
+of Potion
+
+Greatest General Card (ID: 4283)
+
+Mana Sphere
+
+—
+
+Chepet Card (ID: 4284)
+
+Gentle Touch
+
+—
+
+Choco Card (ID: 4285)
+
+Casted by Elf
+
+—
+
+Karakasa Card (ID: 4286)
+
+—
+
+of Panic
+
+Kapha Card (ID: 4287)
+
+—
+
+of Resist Spell Power
+
+Carat Card (ID: 4288)
+
+High Level
+
+—
+
+Caterpillar Card (ID: 4289)
+
+Plant Soul Gain
+
+—
+
+Cat O' Nine Tails Card (ID: 4290)
+
+Reflect
+
+—
+
+Kobold Leader Card (ID: 4291)
+
+Fatal Kobold
+
+—
+
+Kobold Archer Card (ID: 4292)
+
+Fatal Plant
+
+—
+
+Cookie Card (ID: 4293)
+
+Chance
+
+—
+
+Quve Card (ID: 4294)
+
+Sneaky
+
+—
+
+Kraben Card (ID: 4295)
+
+—
+
+of Blackout
+
+Cramp Card (ID: 4296)
+
+Greed
+
+—
+
+Cruiser Card (ID: 4297)
+
+Poaching
+
+—
+
+Creamy Fear Card (ID: 4298)
+
+—
+
+of Chaos
+
+Clock Card (ID: 4299)
+
+Guardian
+
+—
+
+Chimera Card (ID: 4300)
+
+—
+
+of Poison Charge
+
+Killer Mantis Card (ID: 4301)
+
+—
+
+of Bleeding
+
+Tao Gunka Card (ID: 4302)
+
+—
+
+of High Risk
+
+Giant Whisper Card (ID: 4303)
+
+Mystic
+
+—
+
+Tamruan Card (ID: 4304)
+
+—
+
+of Shield Master
+
+Turtle General Card (ID: 4305)
+
+Explosive
+
+—
+
+Toad Card (ID: 4306)
+
+—
+
+of King
+
+Beetle King Card (ID: 4307)
+
+Seaforce Soul Gain
+
+—
+
+Tri Joint Card (ID: 4308)
+
+Force Drain
+
+—
+
+Parasite Card (ID: 4309)
+
+Hard Covering
+
+—
+
+Panzer Goblin Card (ID: 4310)
+
+Fatal Evil
+
+—
+
+Permeter Card (ID: 4311)
+
+Anti Evil Power
+
+—
+
+Fur Seal Card (ID: 4312)
+
+Spirit
+
+—
+
+Punk Card (ID: 4313)
+
+—
+
+of Bog
+
+Penomena Card (ID: 4314)
+
+Frame Guard
+
+—
+
+Pest Card (ID: 4315)
+
+—
+
+of Stone Curse
+
+False Angel Card (ID: 4316)
+
+Angelic Soul Gain
+
+—
+
+Mobster Card (ID: 4317)
+
+Aural
+
+—
+
+Stormy Knight Card (ID: 4318)
+
+Storm-Bringer
+
+—
+
+Freezer Card (ID: 4319)
+
+—
+
+of Sword Master
+
+Bloody Knight Card (ID: 4320)
+
+Meteoric
+
+—
+
+Hylozoist Card (ID: 4321)
+
+—
+
+of Polymorph
+
+High Orc Card (ID: 4322)
+
+—
+
+of Retaliation
+
+Hatii Bebe Card (ID: 4323)
+
+Frost
+
+—
+
+Hatii Card (ID: 4324)
+
+Arctic
+
+—
+
+Harpy Card (ID: 4325)
+
+Vicious
+
+—
+
+Sea-Otter Card (ID: 4326)
+
+—
+
+of Fish Smell
+
+Bloody Butterfly Card (ID: 4327)
+
+Spell Flow
+
+—
+
+Yao Jun Card (ID: 4328)
+
+Hyper
+
+—
+
+Phendark Card (ID: 4329)
+
+Soul Gain
+
+—
+
+Dark Snake Lord Card (ID: 4330)
+
+Curse Lift
+
+—
+
+Heater Card (ID: 4331)
+
+—
+
+of Evade
+
+Waste Stove Card (ID: 4332)
+
+—
+
+of Talent
+
+Venomous Card (ID: 4333)
+
+—
+
+of Chaotic Venom
+
+Noxious Card (ID: 4334)
+
+Anti-Sniping
+
+—
+
+Pitman Card (ID: 4335)
+
+Gnome
+
+—
+
+Ungoliant Card (ID: 4336)
+
+Cracking
+
+—
+
+Porcellio Card (ID: 4337)
+
+—
+
+of Wild Cat
+
+Obsidian Card (ID: 4338)
+
+—
+
+of Vital Switching
+
+Mineral Card (ID: 4339)
+
+—
+
+of Stone Wall
+
+Teddy Bear Card (ID: 4340)
+
+—
+
+of Requiem
+
+Metaling Card (ID: 4341)
+
+Disarm
+
+—
+
+RSX-0806 Card (ID: 4342)
+
+Mammoth
+
+—
+
+Holden Card (ID: 4343)
+
+—
+
+of Creator
+
+Anopheles Card (ID: 4344)
+
+—
+
+of Value
+
+Hill Wind Card (ID: 4345)
+
+Sylph
+
+—
+
+Egnigem Cenia Card (ID: 4346)
+
+—
+
+of Power Switching
+
+Armeyer Dinze Card (ID: 4347)
+
+Stamina
+
+—
+
+Wickebine Tres Card (ID: 4348)
+
+Gangster
+
+—
+
+Errende Ebecee Card (ID: 4349)
+
+Anti Arrow
+
+—
+
+Laurell Weinder Card (ID: 4350)
+
+Undine
+
+—
+
+Kavach Icarus Card (ID: 4351)
+
+Low Level
+
+—
+
+Boss Egnigem Card (ID: 4352)
+
+—
+
+of Regeneration
+
+Remover Card (ID: 4353)
+
+—
+
+of Rejuvenation
+
+Gemini-S58 Card (ID: 4354)
+
+—
+
+of Stability
+
+Gremlin Card (ID: 4355)
+
+Healthy
+
+—
+
+Beholder Card (ID: 4356)
+
+Magic Cancel
+
+—
+
+Lord Knight Card (ID: 4357)
+
+—
+
+of Fury
+
+Seyren Windsor Card (ID: 4358)
+
+Lost-Power
+
+—
+
+Assassin Cross Card (ID: 4359)
+
+—
+
+of Shadow
+
+Eremes Guile Card (ID: 4360)
+
+Assassin
+
+—
+
+Mastersmith Card (ID: 4361)
+
+—
+
+of Holgren
+
+Howard Alt-Eisen Card (ID: 4362)
+
+Hit
+
+—
+
+High Priest Card (ID: 4363)
+
+Protection
+
+—
+
+Margaretha Sorin Card (ID: 4364)
+
+—
+
+of Magic Sealing
+
+High Wizard Card (ID: 4365)
+
+—
+
+of Tempest
+
+Kathryne Keyron Card (ID: 4366)
+
+—
+
+of Caster
+
+Sniper Card (ID: 4367)
+
+—
+
+of Squeezing
+
+Cecil Damon Card (ID: 4368)
+
+Rapid
+
+—
+
+Venatu Card (ID: 4369)
+
+—
+
+of Luck Switching
+
+Dimik Card (ID: 4370)
+
+Weaken
+
+—
+
+Archdam Card (ID: 4371)
+
+—
+
+of Paladin
+
+White Lady Card (ID: 4372)
+
+Life Stream
+
+—
+
+Green Maiden Card (ID: 4373)
+
+Cursed
+
+—
+
+Vesper Card (ID: 4374)
+
+—
+
+of Vision
+
+Orc Baby Card (ID: 4375)
+
+Extra High Level
+
+—
+
+Lady Tanee Card (ID: 4376)
+
+Mana Pool
+
+—
+
+Grove Card (ID: 4377)
+
+—
+
+of Sweety
+
+Gold Acidus Card (ID: 4378)
+
+Low Level
+
+—
+
+Blue Acidus Card (ID: 4379)
+
+Low Level
+
+—
+
+Red Ferus Card (ID: 4380)
+
+Salamander
+
+—
+
+Green Ferus Card (ID: 4381)
+
+—
+
+of Wanderer
+
+Yellow Novus Card (ID: 4382)
+
+—
+
+of Scholar
+
+Red Novus Card (ID: 4383)
+
+Chaotic
+
+—
+
+Hydrolancer Card (ID: 4384)
+
+Magic Eater
+
+—
+
+Dragon Egg Card (ID: 4385)
+
+Drink
+
+—
+
+Detardeurus Card (ID: 4386)
+
+—
+
+of Magic Shelter
+
+Ancient Mimic Card (ID: 4387)
+
+—
+
+of Agility Switching
+
+Death Word Card (ID: 4388)
+
+Soul
+
+—
+
+Plasma Card (ID: 4389)
+
+Elemental
+
+—
+
+Breeze Card (ID: 4390)
+
+Bleeding
+
+—
+
+Baroness of Retribution Card (ID: 4391)
+
+Snack
+
+—
+
+Dame of Sentinel Card (ID: 4392)
+
+—
+
+of Dexterity Switching
+
+Mistress of Shelter Card (ID: 4393)
+
+—
+
+of Intelligence Switching
+
+Lady Solace Card (ID: 4394)
+
+Divine Cross
+
+—
+
+Maero of Thanatos Card (ID: 4395)
+
+Slug
+
+—
+
+Odium of Thanatos Card (ID: 4396)
+
+Dull
+
+—
+
+Despero of Thanatos Card (ID: 4397)
+
+Thickheaded
+
+—
+
+Dolor of Thanatos Card (ID: 4398)
+
+Darkness
+
+—
+
+Memory of Thanatos Card (ID: 4399)
+
+Penetration
+
+—
+
+Aliza Card (ID: 4400)
+
+—
+
+of Temptation
+
+Alicel Card (ID: 4401)
+
+Swift
+
+—
+
+Aliot Card (ID: 4402)
+
+Strange
+
+—
+
+Kiel-D-01 Card (ID: 4403)
+
+—
+
+of Reload
+
+Skogul Card (ID: 4404)
+
+—
+
+of Chaotic Bleeding
+
+Frus Card (ID: 4405)
+
+—
+
+of Magic Mirror
+
+Skeggiold Card (ID: 4406)
+
+Twinkle
+
+—
+
+Randgris Card (ID: 4407)
+
+—
+
+of Elimination
+
+Gloom Under Night Card (ID: 4408)
+
+Abyss
+
+—
+
+Agav Card (ID: 4409)
+
+Panic
+
+—
+
+Echio Card (ID: 4410)
+
+Madness
+
+—
+
+Vanberk Card (ID: 4411)
+
+Arta's
+
+—
+
+Isilla Card (ID: 4412)
+
+Aria
+
+—
+
+Hodremlin Card (ID: 4413)
+
+Resistance
+
+—
+
+Seeker Card (ID: 4414)
+
+Gorgon's
+
+—
+
+Snowier Card (ID: 4415)
+
+Sweet
+
+—
+
+Siroma Card (ID: 4416)
+
+—
+
+of Yana
+
+Ice Titan Card (ID: 4417)
+
+—
+
+of Flow
+
+Gazeti Card (ID: 4418)
+
+—
+
+of Hail
+
+Ktullanux Card (ID: 4419)
+
+Jack Frost's
+
+—
+
+Muscipular Card (ID: 4420)
+
+—
+
+of Comfort
+
+Drosera Card (ID: 4421)
+
+Chain Hook
+
+—
+
+Roween Card (ID: 4422)
+
+Breeze
+
+—
+
+Galion Card (ID: 4423)
+
+—
+
+of Sharkia
+
+Stapo Card (ID: 4424)
+
+Stony
+
+—
+
+Atroce Card (ID: 4425)
+
+Beast
+
+—
+
+Byorgue Card (ID: 4426)
+
+Exceeding
+
+—
+
+Sword Guardian Card (ID: 4427)
+
+Force
+
+—
+
+Bow Guardian Card (ID: 4428)
+
+Shaft
+
+—
+
+Salamander Card (ID: 4429)
+
+Nessus
+
+—
+
+Ifrit Card (ID: 4430)
+
+—
+
+of Inferno
+
+Kasa Card (ID: 4431)
+
+Stygian
+
+—
+
+Magmaring Card (ID: 4432)
+
+Scorching
+
+—
+
+Imp Card (ID: 4433)
+
+—
+
+of Ignis
+
+Knocker Card (ID: 4434)
+
+Miner's
+
+—
+
+Zombie Slaughter Card (ID: 4435)
+
+Outrageous
+
+—
+
+Ragged Zombie Card (ID: 4436)
+
+Lunatic
+
+—
+
+Hell Poodle Card (ID: 4437)
+
+Rabid
+
+—
+
+Banshee Card (ID: 4438)
+
+Mental
+
+—
+
+Flame Skull Card (ID: 4439)
+
+—
+
+of Anathema
+
+Necromancer Card (ID: 4440)
+
+Ignore
+
+—
+
+Fallen Bishop Card (ID: 4441)
+
+Arrogant
+
+—
+
+Tatacho Card (ID: 4442)
+
+—
+
+of Basis
+
+Aqua Elemental Card (ID: 4443)
+
+—
+
+of Saharic
+
+Draco Card (ID: 4444)
+
+—
+
+of Underneath
+
+Luciola Vespa Card (ID: 4445)
+
+—
+
+of Windy
+
+Enhanced Skeleton Card (ID: 4446)
+
+Sharpen
+
+—
+
+Centipede Card (ID: 4447)
+
+—
+
+of Envenom
+
+Cornus Card (ID: 4448)
+
+—
+
+of Damned
+
+Dark Shadow Card (ID: 4449)
+
+—
+
+of Hallowed
+
+Banshee Master Card (ID: 4450)
+
+Surplus
+
+—
+
+Entweihen Crothen Card (ID: 4451)
+
+—
+
+of Excess
+
+Centipede Larva Card (ID: 4452)
+
+Magical
+
+—
+
+Hillslion Card (ID: 4453)
+
+Violent
+
+—
+
+Fake Valkyrie Card (ID: 4454)
+
+Sorry
+
+—
+
+Fake Valkyrie Card (ID: 4455)
+
+Love
+
+—
+
+Nidhoggur Shadow Card (ID: 4456)
+
+Spell Master
+
+—
+
+Naght Seiger Card (ID: 4457)
+
+Psychic
+
+—
+
+Duneyrr Card (ID: 4458)
+
+—
+
+of Illusion
+
+Rata Card (ID: 4459)
+
+—
+
+of Fast
+
+Rhyncho Card (ID: 4460)
+
+—
+
+of Healing
+
+Phylla Card (ID: 4461)
+
+—
+
+of Sharp
+
+Hardrock Mammoth Card (ID: 4462)
+
+Prime Defense
+
+—
+
+Tendrillion Card (ID: 4463)
+
+Prime Attack
+
+—
+
+Aunoe Card (ID: 4464)
+
+Fatal
+
+—
+
+Fanat Card (ID: 4465)
+
+Sweep
+
+—
+
+Beholder Master Card (ID: 4466)
+
+Straight Shooting
+
+—
+
+Heavy Metalring Card (ID: 4467)
+
+Heavy
+
+—
+
+Dark Pinguicula Card (ID: 4468)
+
+Pollution
+
+—
+
+Naga Card (ID: 4469)
+
+Marine
+
+—
+
+Nepenthes Card (ID: 4470)
+
+Botany
+
+—
+
+Draco Egg Card (ID: 4471)
+
+Draco
+
+—
+
+Bradium Golem Card (ID: 4472)
+
+Carnivore
+
+—
+
+Ancient Tree Card (ID: 4473)
+
+Undead
+
+—
+
+Zakudam Card (ID: 4474)
+
+Mortal
+
+—
+
+Cobalt Mineral Card (ID: 4475)
+
+Intangible
+
+—
+
+Pinguicula Card (ID: 4476)
+
+Entomic
+
+—
+
+Hell Apocalypse Card (ID: 4477)
+
+Demonic
+
+—
+
+Val'khiri Card (ID: 4478)
+
+Tell me
+
+—
+
+Val'khiri Card (ID: 4479)
+
+Why did you
+
+—
+
+Sealed Kiel Card (ID: 4480)
+
+of Half Reload
+
+—
+
+Sealed Ktullanux Card (ID: 4481)
+
+Half Jack Frost
+
+—
+
+Sealed B Ygnizem Card (ID: 4482)
+
+—
+
+of Half Regeneration
+
+Sealed Dracula Card (ID: 4483)
+
+Half Spiritual
+
+—
+
+Sealed Mistress Card (ID: 4484)
+
+—
+
+of Half Gemstone
+
+Sealed Gloom Card (ID: 4485)
+
+Half Abyss
+
+—
+
+Sealed Berzebub Card (ID: 4486)
+
+—
+
+of Half Bigmouth
+
+Sealed Ifrit Card (ID: 4487)
+
+Half Inferno
+
+—
+
+Sealed Dark Lord Card (ID: 4488)
+
+—
+
+of Half Doom
+
+Sealed Pharaoh Card (ID: 4489)
+
+—
+
+of Half Kirin
+
+Sealed Moonlight Flower Card (ID: 4490)
+
+Half Hasty
+
+—
+
+Sealed Sniper Card (ID: 4491)
+
+—
+
+of Half Squeezing
+
+Sealed Orc Hero Card (ID: 4492)
+
+Half Neutral
+
+—
+
+Sealed Tao Gunka Card (ID: 4493)
+
+Half High Risk
+
+—
+
+Sealed Turtle General Card (ID: 4494)
+
+Half Explosive
+
+—
+
+Sealed Amon Ra Card (ID: 4495)
+
+—
+
+of Half Protection
+
+Sealed Drake Card (ID: 4496)
+
+—
+
+of Half Infinity
+
+Sealed Stormy Knight Card (ID: 4497)
+
+Half Storm-Bringer
+
+—
+
+Sealed Lady Tanee Card (ID: 4498)
+
+Half Mana Pool
+
+—
+
+Sealed Incantation Samurai Card (ID: 4499)
+
+Half Bloodlust
+
+—
+
+Sealed Orc Lord Card (ID: 4500)
+
+Half Mirror
+
+—
+
+Sealed High Priest Card (ID: 4501)
+
+Half Protection
+
+—
+
+Sealed MasterSmith Card (ID: 4502)
+
+—
+
+Half Holgren
+
+Sealed Vesper Card (ID: 4503)
+
+—
+
+of Half Vision
+
+Sealed Eddga Card (ID: 4504)
+
+Half Bearer's
+
+—
+
+Scaraba Card (ID: 4505)
+
+—
+
+of Mad Witch
+
+Dolomedes Card (ID: 4506)
+
+—
+
+of Archer
+
+Queen Scaraba Card (ID: 4507)
+
+Scaraba
+
+—
+
+Gold Scaraba Card (ID: 4508)
+
+—
+
+of Mad Berserker
+
+Gold Queen Scaraba Card (ID: 4509)
+
+Insectproof
+
+—
+
+Miming Card (ID: 4510)
+
+Black-out
+
+—
+
+Little Fatum Card (ID: 4511)
+
+Silentium
+
+—
+
+Parus Card (ID: 4512)
+
+—
+
+of Acolyte
+
+Angra Mantis Card (ID: 4513)
+
+—
+
+of Thief
+
+Pom Spider Card (ID: 4514)
+
+Exorcism
+
+—
+
+Rafflesia Alnoldi Card (ID: 4515)
+
+Flora
+
+—
+
+Comodo Card (ID: 4516)
+
+—
+
+of Stone Wall
+
+Cendrawasih Card (ID: 4517)
+
+—
+
+of Magician
+
+Banaspaty Card (ID: 4518)
+
+Burning
+
+—
+
+Butoijo Card (ID: 4519)
+
+Seraphim
+
+—
+
+Leak Card (ID: 4520)
+
+Screaming
+
+—
+
+Sedora Card (ID: 4521)
+
+Mortal Blow
+
+—
+
+Sropho Card (ID: 4522)
+
+Cold
+
+—
+
+Pot Dofle Card (ID: 4523)
+
+Aquarius
+
+—
+
+King Dramoh Card (ID: 4524)
+
+—
+
+of Swordman
+
+Kraken Card (ID: 4525)
+
+Sweeping
+
+—
+
+Weird Coelacanth Card (ID: 4526)
+
+—
+
+of Magic Defense
+
+Dark Coelacanth Card (ID: 4527)
+
+—
+
+of Defense
+
+Mutant Coelacanth Card (ID: 4528)
+
+Mental Power
+
+—
+
+Violent Coelacanth Card (ID: 4529)
+
+Strength
+
+—
+
+Siorava Card (ID: 4530)
+
+—
+
+of Merchant
+
+Red Eruma Card (ID: 4531)
+
+Under Curse
+
+—
+
+Wild Rider Card (ID: 4532)
+
+Sprinting
+
+—
+
+Octopus Card (ID: 4533)
+
+Blinding
+
+—
+
+Giant Octopus Card (ID: 4534)
+
+Water Bomb
+
+—
+
+Sealed Atroce Card (ID: 4536)
+
+Half Beast
+
+—
+
+Sealed Phreeoni Card (ID: 4537)
+
+Half Perfect
+
+—
+
+Sealed White Lady Card (ID: 4538)
+
+Half Life Stream
+
+—
+
+Sealed Fallen Bishop Card (ID: 4539)
+
+Half Arrogant
+
+—
+
+Sealed Lord of The Death Card (ID: 4540)
+
+Half Crisis
+
+—
+
+Sealed High Wizard Card (ID: 4541)
+
+—
+
+of Half Tempest
+
+Sealed Detardeurus Card (ID: 4542)
+
+—
+
+of Half Magic Shelter
+
+Sealed Hatii Card (ID: 4543)
+
+Half Arctic
+
+—
+
+Sealed Dark Snake Lord Card (ID: 4544)
+
+Half Curse Lift
+
+—
+
+Novice Poring Card (ID: 4545)
+
+Novice
+
+—
+
+Val'khiri Card (ID: 4546)
+
+Screwed
+
+—
+
+Enhanced Byorgue Card (ID: 4547)
+
+Half Exceeding
+
+—
+
+Enhanced Salamander Card (ID: 4548)
+
+Half Nessus
+
+—
+
+Upgrade Maya Purple Card (ID: 4549)
+
+—
+
+of Half True Sight
+
+Upgrade Bow Guardian Card (ID: 4550)
+
+Half Shaft
+
+—
+
+Fenrir Card (ID: 4556)
+
+Power Ward
+
+—
+
+Weakened Fenrir Card (ID: 4557)
+
+—
+
+of Spell Power
+
+Lord Morocc Card (ID: 4559)
+
+Blitz
+
+—
+
+Clown Card (ID: 4560)
+
+—
+
+of Bragi
+
+Professor Card (ID: 4561)
+
+—
+
+of Magic Protection
+
+Champion Card (ID: 4562)
+
+—
+
+of Infiltration
+
+Creator Card (ID: 4563)
+
+—
+
+of Hydrochloric Acid
+
+Stalker Card (ID: 4564)
+
+—
+
+of Gentleman
+
+Paladin Card (ID: 4565)
+
+—
+
+of Grand Cross
+
+Gypsy Card (ID: 4566)
+
+—
+
+of Fortune
+
+Alphoccio Card (ID: 4567)
+
+—
+
+of Bard
+
+Celia Card (ID: 4568)
+
+—
+
+of Gnosis
+
+Chen Card (ID: 4569)
+
+—
+
+of Origin
+
+Flamel Card (ID: 4570)
+
+—
+
+of Fast Recovery
+
+Gertie Card (ID: 4571)
+
+—
+
+of Bind
+
+Randel Card (ID: 4572)
+
+—
+
+of Solidity
+
+Trentini Card (ID: 4573)
+
+—
+
+of Dancer
+
+Daehyon Card (ID: 4574)
+
+Sword Master
+
+—
+
+Soheon Card (ID: 4575)
+
+Shortcut
+
+—
+
+Gioia Card (ID: 4576)
+
+Educe
+
+—
+
+Elvira Card (ID: 4577)
+
+Psychic
+
+—
+
+Pyuriel Card (ID: 4578)
+
+Fear
+
+—
+
+Warrior Lola Card (ID: 4579)
+
+Morning Star
+
+—
+
+Guardian Kades Card (ID: 4580)
+
+—
+
+of Devilish
+
+Rudo Card (ID: 4581)
+
+Toilet
+
+—
+
+Bungisngis Card (ID: 4582)
+
+Stamina
+
+—
+
+Engkanto Card (ID: 4583)
+
+—
+
+of Poison Grass
+
+Manananggal Card (ID: 4584)
+
+Vampiric
+
+—
+
+Mangkukulam Card (ID: 4585)
+
+Cursed
+
+—
+
+Tikbalang Card (ID: 4586)
+
+—
+
+of Wind
+
+Tiyanak Card (ID: 4587)
+
+Slasher
+
+—
+
+Wakwak Card (ID: 4588)
+
+—
+
+of Power
+
+Jejeling Card (ID: 4589)
+
+—
+
+of Richness
+
+Bangungot Card (ID: 4590)
+
+—
+
+of Helpless
+
+Bakonawa Card (ID: 4591)
+
+—
+
+of Bloody
+
+Buwaya Card (ID: 4592)
+
+—
+
+of Stone Curse
+
+Menblatt Card (ID: 4593)
+
+—
+
+of Shooter
+
+Petal Card (ID: 4594)
+
+—
+
+of Death Blow
+
+Cenere Card (ID: 4595)
+
+—
+
+of Acid
+
+Antique Book Card (ID: 4596)
+
+—
+
+of Intellectual
+
+Lichtern Blue Card (ID: 4597)
+
+—
+
+of Water
+
+Lichtern Green Card (ID: 4598)
+
+—
+
+of Telekinesis
+
+Lichtern Red Card (ID: 4599)
+
+—
+
+of Fire
+
+Lichtern Yellow Card (ID: 4600)
+
+—
+
+of Earth
+
+Amdarais Card (ID: 4601)
+
+—
+
+of Explosion
+
+Realized Amdarais Card (ID: 4602)
+
+—
+
+of Fury
+
+Corruption Root Card (ID: 4603)
+
+Evil Spirit
+
+—
+
+Realized Corruption Root Card (ID: 4604)
+
+Evil God
+
+—
+
+Agony of Royal Knight Card (ID: 4605)
+
+—
+
+of Hunger
+
+Grudge of Royal Knight Card (ID: 4606)
+
+—
+
+of Revenge
+
+Faithful Manager Card (ID: 4607)
+
+Librarian
+
+—
+
+White Knight Card (ID: 4608)
+
+Knight's
+
+—
+
+Khalitzburg Knight Card (ID: 4609)
+
+Knight's
+
+—
+
+Sarah Card (ID: 4610)
+
+—
+
+of Bless
+
+11th Anniversary Card (ID: 4623)
+
+11th Anniversary
+
+—
+
+Timeholder Card (ID: 4625)
+
+Sage
+
+—
+
+Big Ben Card (ID: 4626)
+
+Echo
+
+—
+
+Big Bell Card (ID: 4627)
+
+Vibration
+
+—
+
+Neo Punk Card (ID: 4628)
+
+—
+
+of Invisible Horror
+
+Arc Elder Card (ID: 4629)
+
+Sterile
+
+—
+
+Time Keeper Card (ID: 4630)
+
+—
+
+of Time Keeper
+
+Owl Viscount Card (ID: 4631)
+
+Volant
+
+—
+
+Owl Marquees Card (ID: 4632)
+
+Current
+
+—
+
+Enhanced Archer Skeleton Card (ID: 4633)
+
+Queen Bird
+
+—
+
+Enhanced Soldier Skeleton Card (ID: 4634)
+
+Fatal
+
+—
+
+Enhanced Amdarais Card (ID: 4635)
+
+Solid
+
+—
+
+Bijou Card (ID: 4636)
+
+—
+
+of Legion
+
+Immortal Corps Card (ID: 4637)
+
+—
+
+of Drain
+
+Watcher Card (ID: 4638)
+
+Plaid
+
+—
+
+Taffy Card (ID: 4639)
+
+—
+
+of Force
+
+Frozen Wolf Card (ID: 4640)
+
+—
+
+of Intelligence
+
+Zombie Guard Card (ID: 4641)
+
+—
+
+of Soul Gathering
+
+Infinite Toad Card (ID: 4642)
+
+Side Step
+
+—
+
+Infinite Wandering Wolf Card (ID: 4643)
+
+Strike
+
+—
+
+Infinite Vocal Card (ID: 4644)
+
+Magic Shield
+
+—
+
+Infinite Eclipse Card (ID: 4645)
+
+Physical
+
+—
+
+Infinite Chimera Card (ID: 4646)
+
+Chimera
+
+—
+
+Infinite Osiris Card (ID: 4647)
+
+Immortal
+
+—
+
+Infinite Eddga Card (ID: 4648)
+
+Provocation
+
+—
+
+Infinite Phreeoni Card (ID: 4649)
+
+Fatal Blow
+
+—
+
+Infinite Orc Hero Card (ID: 4650)
+
+Magic Stun
+
+—
+
+Infinite Tao Gunka Card (ID: 4651)
+
+Monarch
+
+—
+
+Nightmare Amon Ra Card (ID: 4652)
+
+Punishment
+
+—
+
+Nightmare Arclouse Card (ID: 4653)
+
+Immortal Beast
+
+—
+
+Nightmare Mimic Card (ID: 4654)
+
+Tomb Raider
+
+—
+
+Nightmare Minotaur Card (ID: 4655)
+
+Grave Keeper
+
+—
+
+Nightmare Mummy Card (ID: 4656)
+
+Hypnotist
+
+—
+
+Nightmare Ancient Mummy Card (ID: 4657)
+
+Flaming
+
+—
+
+Nightmare Verit Card (ID: 4658)
+
+—
+
+of Magic
+
+Eggring Card (ID: 4659)
+
+Adventurer
+
+—
+
+Scout Basilisk Card (ID: 4660)
+
+—
+
+of Will
+
+Charge Basilisk Card (ID: 4661)
+
+—
+
+of Strength
+
+Big Eggring Card (ID: 4662)
+
+Trinity
+
+—
+
+Leaf Lunatic Card (ID: 4663)
+
+Pretty
+
+—
+
+Grass Fabre Card (ID: 4664)
+
+Pure
+
+—
+
+Wild Honet Card (ID: 4665)
+
+Honey
+
+—
+
+Sweet Roda Frog Card (ID: 4666)
+
+Sugar
+
+—
+
+Hunter Wolf Card (ID: 4667)
+
+Wake
+
+—
+
+Trance Spore Card (ID: 4668)
+
+Silky
+
+—
+
+Jungle Mandragora Card (ID: 4669)
+
+Gust
+
+—
+
+Fruit Pom Spider Card (ID: 4670)
+
+Blaze
+
+—
+
+Sorcerer Celia Card (ID: 4671)
+
+—
+
+Sorcerer's
+
+Sura Chen Card (ID: 4672)
+
+—
+
+Sura's
+
+Minstrel Alphoccio Card (ID: 4673)
+
+—
+
+Minstrel's
+
+Guillotine Cross Eremes Card (ID: 4674)
+
+—
+
+Guillotine Cross's
+
+Arcbishop Margaretha Card (ID: 4675)
+
+—
+
+Archbishop's
+
+Ranger Cecil Card (ID: 4676)
+
+—
+
+Ranger's
+
+Mechanic Howard Card (ID: 4677)
+
+—
+
+Mechanic's
+
+Warlock Kathryne Card (ID: 4678)
+
+—
+
+Warlock's
+
+Rune Knight Seyren Card (ID: 4679)
+
+—
+
+Rune Knight's
+
+Royal Guard Randel Card (ID: 4680)
+
+—
+
+Royal Guard's
+
+Geneticist Flamel Card (ID: 4681)
+
+—
+
+Geneticist's
+
+Shadow Chaser Gertie Card (ID: 4682)
+
+—
+
+Shadow Chaser's
+
+Wanderer Trentini Card (ID: 4683)
+
+—
+
+Wanderer's
+
+True Eremes Guile Card (ID: 4684)
+
+Cross
+
+—
+
+True Margaretha Sorin Card (ID: 4685)
+
+Adoramus
+
+—
+
+True Kathryne Keyron Card (ID: 4686)
+
+Crimson
+
+—
+
+True Cecil Damon Card (ID: 4687)
+
+Cluster
+
+—
+
+True Howard Alt-Eisen Card (ID: 4688)
+
+Power Storm
+
+—
+
+True Seyren Windsor Card (ID: 4689)
+
+Ignition
+
+—
+
+True Randel Lawrence Card (ID: 4690)
+
+Drive
+
+—
+
+True Flamel Emure Card (ID: 4691)
+
+Neo Storm
+
+—
+
+True Celia Aldea Card (ID: 4692)
+
+Varetyr
+
+—
+
+True Chen Liu Card (ID: 4693)
+
+Rampage Blaster
+
+—
+
+True Gertie Wi Card (ID: 4694)
+
+Decoy
+
+—
+
+True Trentini Card (ID: 4695)
+
+Rainstorm
+
+—
+
+True Alphoccio Basil Card (ID: 4696)
+
+Sound Shock
+
+—
+
+Charleston Card (ID: 4697)
+
+Overload
+
+—
+
+Step Card (ID: 4698)
+
+Boomerang
+
+—
+
+Lock Step Card (ID: 4699)
+
+Dual Cannon
+
+—
+
+Assassin Fly Card (ID: 8000)
+
+Sanguine
+
+—
+
+Cave Viper Card (ID: 8001)
+
+—
+
+of Premeditation
+
+Twinorc Card (ID: 8089)
+
+Antichemical
+
+—
+
+Indignant Soul Card (ID: 8090)
+
+Soulbreaking
+
+—
+
+Roper Card (ID: 8091)
+
+Herbicidal
+
+—
+
+Ghost Shroom Card (ID: 8092)
+
+Wraithguard
+
+—
+
+Miasmus Card (ID: 8093)
+
+—
+
+of Scourging
+
+Frigid Lich Card (ID: 8094)
+
+—
+
+of Rime
+
+Logi Card (ID: 8095)
+
+—
+
+of Abaddon
+
+Protoring Card (ID: 8211)
+
+—
+
+of Earthen Vitality
+
+Doughring Card (ID: 8212)
+
+Gluttonous
+
+—
+
+Jelring Card (ID: 8213)
+
+Bubble Bursting
+
+—
+
+Abomring Card (ID: 8214)
+
+—
+
+of Porings
+
+Spectring Card (ID: 8216)
+
+Quicksilver
+
+—
+
+Conductring Card (ID: 8217)
+
+—
+
+of Thor
+
+Corruptor Card (ID: 8218)
+
+—
+
+of Transfusion
+
+King Poring Card (ID: 8219)
+
+—
+
+of Greed
+
+Tomb Crawler Card (ID: 8233)
+
+—
+
+of Triage
+
+Ancient Guard Card (ID: 8234)
+
+—
+
+of Guards
+
+Kalec Card (ID: 8235)
+
+—
+
+of Magical Fortitude
+
+Yser Card (ID: 8236)
+
+—
+
+of Subterfuge
+
+Flame Beetle Card (ID: 8237)
+
+Deeply Discounted
+
+—
+
+Bonechewer Card (ID: 8238)
+
+—
+
+of Brutality
+
+Shade of Payon Card (ID: 8239)
+
+Magic Missile
+
+—
+
+Puck Card (ID: 8240)
+
+—
+
+of the Holy Dragon
+
+Dory Card (ID: 8241)
+
+Frostflare
+
+—
+
+Jabberwock Card (ID: 8242)
+
+Soul Tapping
+
+—
+
+Wolpertinger Card (ID: 8243)
+
+Earthen Gale
+
+—
+
+Moon Rabbit Card (ID: 8244)
+
+—
+
+of Sanctuary
+
+Kodama Card (ID: 8245)
+
+Second Chance
+
+—
+
+Gyokuto Card (ID: 8246)
+
+Exorcising
+
+—
+
+Onigiring Card (ID: 8247)
+
+Bento Box
+
+—
+
+Lady Huo Card (ID: 8248)
+
+Clearcasting
+
+—
+
+Strange Decoration Tree Card (ID: 27000)
+
+—
+
+of Sorrow
+
+Gift Wrapping Chief Card (ID: 27001)
+
+—
+
+of Hatred
+
+Wrapped Box Card (ID: 27002)
+
+—
+
+of Frustration
+
+Factory Security Guard Soul Card (ID: 27003)
+
+—
+
+of Chill
+
+Ghost without Present Card (ID: 27004)
+
+—
+
+of Wrath
+
+Unpacked Doll Card (ID: 27005)
+
+—
+
+of Madness
+
+Abandoned Bear Doll Card (ID: 27006)
+
+—
+
+of Despair
+
+Celine Kimi Card (ID: 27007)
+
+—
+
+of Laugh
+
+Evil Eye of Amdarais Card (ID: 27008)
+
+Rogue
+
+—
+
+Slaughter Evil Eye Card (ID: 27009)
+
+Evil God
+
+—
+
+Grudge of White Knight Card (ID: 27010)
+
+Knight
+
+—
+
+Grudge of Khalitzburg Card (ID: 27011)
+
+Knight's
+
+—
+
+Kick Step Card (ID: 27012)
+
+Active Protection
+
+—
+
+Kick & Kick Card (ID: 27013)
+
+Vulcan
+
+—
+
+Green Cenere Card (ID: 27014)
+
+Mirage
+
+—
+
+Repair Robot Turbo Card (ID: 27015)
+
+Restore
+
+—
+
+Exploration Rover Turbo Card (ID: 27016)
+
+All Scan
+
+—
+
+Scrap Robot Card (ID: 27017)
+
+Temporary
+
+—
+
+GC109 Card (ID: 27018)
+
+Overclock
+
+—
+
+DR815 Card (ID: 27019)
+
+Debug
+
+—
+
+T W O Card (ID: 27020)
+
+System Error
+
+—
+
+[ECO]Bricking RX1 Alma Card (ID: 27021)
+
+Brick King
+
+—
+
+[ECO]Salamander Alma Card (ID: 27022)
+
+—
+
+of Blaze Barrier
+
+[ECO]Momo Alma Card (ID: 27023)
+
+Milk Master
+
+—
+
+[ECO]Minnie Doe Alma Card (ID: 27024)
+
+Rabbit
+
+—
+
+Lord of The Dead Card (ID: 27025)
+
+Noble
+
+—
+
+Fire Condor Card (ID: 27026)
+
+Blazing
+
+—
+
+Fire Sandman Card (ID: 27027)
+
+Flaming
+
+—
+
+Fire Frilldora Card (ID: 27028)
+
+Searing
+
+—
+
+Fire Golem Card (ID: 27029)
+
+Flame Eater
+
+—
+
+Fulbuk Card (ID: 27030)
+
+Firebug
+
+—
+
+Labyrinth Baphomet card (ID: 27031)
+
+Extensive
+
+—
+
+Labyrinth Dracula Card (ID: 27032)
+
+Astral
+
+—
+
+Immortal Cursed Knight Card (ID: 27033)
+
+Madman's
+
+—
+
+Immortal Wind Ghost Card (ID: 27034)
+
+Gust
+
+—
+
+S.J Ernest Wolf Card (ID: 27035)
+
+Twisted
+
+—
+
+Powerful Skeleton Card (ID: 27036)
+
+Sharp
+
+—
+
+Powerful Archer Skeleton Card (ID: 27037)
+
+Queen Bird
+
+—
+
+Powerful Soldier Skeleton Card (ID: 27038)
+
+Spike
+
+—
+
+Powerful Amdarais Card (ID: 27039)
+
+—
+
+of Big Runaway
+
+Bijou Card (ID: 27040)
+
+Brinicle
+
+—
+
+Immortal Corps Card (ID: 27041)
+
+High Tension
+
+—
+
+Watcher Card (ID: 27042)
+
+—
+
+of Interrupt
+
+Tappy Card (ID: 27043)
+
+—
+
+of Mudd Candy
+
+Frozen Wolf Card (ID: 27044)
+
+—
+
+of Mudd Sherbet
+
+Zombie Guard Card (ID: 27045)
+
+—
+
+of Soul Gathering
+
+Sky Petite & Penomena Card (ID: 27050)
+
+Dual Mirage
+
+—
+
+Anubis & Teddy Bear Card (ID: 27051)
+
+Dual Spiritual
+
+—
+
+Orc Warrior & Rafflesia Card (ID: 27052)
+
+Dual Whale
+
+—
+
+Arnoldi & Bigfoot Card (ID: 27053)
+
+Dual Jungle
+
+—
+
+Khalitzburg & Thara Frog Card (ID: 27054)
+
+Dual Genie
+
+—
+
+Celia(MVP) Card (ID: 27055)
+
+of Sorcerer
+
+—
+
+Sura Chen(MVP) Card (ID: 27056)
+
+of Sura
+
+—
+
+Minstrel Alphociio(MVP) Card (ID: 27057)
+
+of Minstrel
+
+—
+
+Guillotine Cross Eremes(MVP) Card (ID: 27058)
+
+of Guillotine Cross
+
+—
+
+Archbishop Margaretha(MVP) Card (ID: 27059)
+
+of Arc Bishop
+
+—
+
+Ranger Shecil(MVP) Card (ID: 27060)
+
+of Ranger
+
+—
+
+Mechanic Harword(MVP) Card (ID: 27061)
+
+of Mechanic
+
+—
+
+Warlock Katrinn(MVP) Card (ID: 27062)
+
+of Warlock
+
+—
+
+Rune Knight Seyren(MVP) Card (ID: 27063)
+
+of Rune Knight
+
+—
+
+Royal Guard Randel(MVP) Card (ID: 27064)
+
+of Royal guard
+
+—
+
+Geneticist Flamel(MVP) Card (ID: 27065)
+
+of Geneticist
+
+—
+
+Shadow Chaser Gertie(MVP) Card (ID: 27066)
+
+of Shadow Chaser
+
+—
+
+Wanderer Trentini(MVP) Card (ID: 27067)
+
+of Wanderer
+
+—
+
+Guillotine Cross Eremes Card (ID: 27068)
+
+Venom Pressure
+
+—
+
+Archbishop Margaretha Card (ID: 27069)
+
+Judex
+
+—
+
+Warlock Katrinn Card (ID: 27070)
+
+Comet
+
+—
+
+Ranger Shecil Card (ID: 27071)
+
+Cluster
+
+—
+
+Mechanic Harword Card (ID: 27072)
+
+Magma
+
+—
+
+Rune Knight Seyren Card (ID: 27073)
+
+Ignition
+
+—
+
+Royal Guard Randel Card (ID: 27074)
+
+Drive
+
+—
+
+Geneticist Flamel Card (ID: 27075)
+
+Crazy
+
+—
+
+Sorcerer Celia Card (ID: 27076)
+
+Cloud Kill
+
+—
+
+Sura Chen Card (ID: 27077)
+
+Lion's
+
+—
+
+Shadow Chaser Gertie Card (ID: 27078)
+
+Triangle
+
+—
+
+Wanderer Trentini Card (ID: 27079)
+
+Reverberation
+
+—
+
+Minstrel Alphoccio Card (ID: 27080)
+
+Vibration
+
+—
+
+Furious Moonlight Flower Card (ID: 27081)
+
+Moonlight
+
+—
+
+Furious Nine Tails Card (ID: 27082)
+
+Foxtail
+
+—
+
+Hollow Bongun Card (ID: 27083)
+
+—
+
+of Growth
+
+Hollow Sohee Card (ID: 27084)
+
+Creepy
+
+—
+
+Hollow Munak Card (ID: 27085)
+
+Delicate
+
+—
+
+Hollow Archer Skeleton Card (ID: 27086)
+
+Shooter
+
+—
+
+Wizard of Veritas Card (ID: 27087)
+
+Truth
+
+—
+
+Furious Hero Card (ID: 27088)
+
+—
+
+of Agitation
+
+T W O Card (ID: 27089)
+
+System Boost
+
+—
+
+DR815 Card (ID: 27090)
+
+—
+
+of Mad Wizard
+
+GC109 Card (ID: 27091)
+
+—
+
+of Mad Warrior
+
+Charleston No.3 Card (ID: 27092)
+
+Overclocking
+
+—
+
+Kick Step Card (ID: 27093)
+
+—
+
+of Sniper
+
+Rock Step Card (ID: 27094)
+
+—
+
+of physical
+
+Step Card (ID: 27095)
+
+—
+
+of Mad Biscuit
+
+Kick and Kick Card (ID: 27096)
+
+—
+
+of Expert
+
+Green Cenere Card (ID: 27097)
+
+—
+
+of Angelman
+
+Repair Robot Turbo Card (ID: 27098)
+
+Punisher's
+
+—
+
+Exploration Rover Robot Card (ID: 27099)
+
+Judge's
+
+—
+
+Scrap Robot Card (ID: 27100)
+
+—
+
+of Clap
+
+Sweet Nightmare Card (ID: 27101)
+
+Sorcery
+
+—
+
+Matt Drainliar Card (ID: 27102)
+
+Fire Immune
+
+—
+
+Living Dead Card (ID: 27103)
+
+Vigor
+
+—
+
+Furious Dracula Card (ID: 27104)
+
+Compassion
+
+—
+
+Bomi Card (ID: 27105)
+
+Sorrow
+
+—
+
+Awaken Pere Card (ID: 27106)
+
+Musician's
+
+—
+
+Playing Pere Card (ID: 27107)
+
+Dancing
+
+—
+
+Singing Pere Card (ID: 27108)
+
+Singing
+
+—
+
+Jitterbug Card (ID: 27109)
+
+—
+
+of Jitterbug
+
+Furious Gazeti Card (ID: 27110)
+
+Quick
+
+—
+
+Furious Snowier Card (ID: 27111)
+
+Refreshing
+
+—
+
+Furious Ice Titan Card (ID: 27112)
+
+Sturdy
+
+—
+
+Awaken Ktullanux Card (ID: 27113)
+
+Frozen
+
+—
+
+Ominous Solider Card (ID: 27114)
+
+Solid
+
+—
+
+Ominous Permeter Card (ID: 27115)
+
+Wise
+
+—
+
+Ominous Heater Card (ID: 27116)
+
+Dual Critical
+
+—
+
+Ominous Assaulter Card (ID: 27117)
+
+Reduce
+
+—
+
+Ominous Freezer Card (ID: 27118)
+
+—
+
+of Pierce
+
+Ominous Turtle General Card (ID: 27119)
+
+—
+
+of Turtle Shell
+
+Iara Card (ID: 27120)
+
+Recovery
+
+—
+
+Piranha Card (ID: 27121)
+
+Serrasalmus
+
+—
+
+Curupira Card (ID: 27122)
+
+Tidal wave
+
+—
+
+Toucan Card (ID: 27123)
+
+Insect Collector's
+
+—
+
+Jaguar Card (ID: 27124)
+
+Hunter's
+
+—
+
+Headless Mule Card (ID: 27125)
+
+Aqua Benedict
+
+—
+
+Boitata Card (ID: 27126)
+
+Python
+
+—
+
+Ancient King Groza Card (ID: 27127)
+
+—
+
+of Abyss
+
+Deep Ancient King Groza Card (ID: 27128)
+
+Ancient Blood
+
+—
+
+Justice Card (ID: 27129)
+
+Hundred
+
+—
+
+The Star Card (ID: 27130)
+
+Expansion
+
+—
+
+Temperance Card (ID: 27131)
+
+Arrow Storm
+
+—
+
+The Chariot Card (ID: 27132)
+
+Cannon
+
+—
+
+Death Card (ID: 27133)
+
+Rolling
+
+—
+
+The Hermit Card (ID: 27134)
+
+Adoramus
+
+—
+
+The Emperor Card (ID: 27135)
+
+Over Brand
+
+—
+
+The Moon Card (ID: 27136)
+
+Diamond Dust
+
+—
+
+The Lovers Card (ID: 27137)
+
+Rainstorm
+
+—
+
+The Hierophant Card (ID: 27138)
+
+Tornado
+
+—
+
+The Devil Card (ID: 27139)
+
+Bomb
+
+—
+
+Strength Card (ID: 27140)
+
+—
+
+of heaven and earth
+
+Evil Card (ID: 27141)
+
+Volcanic
+
+—
+
+Heart Hunter Card (ID: 27142)
+
+Assault
+
+—
+
+Venom Kimera Card (ID: 27143)
+
+—
+
+of Death Valley
+
+Matter Kimera Card (ID: 27144)
+
+Elemental
+
+—
+
+Human Kimera Card (ID: 27145)
+
+—
+
+of Deep Impact
+
+Cutie Card (ID: 27146)
+
+Cutie
+
+—
+
+Humanoid Chimera Card (ID: 27147)
+
+Intensive
+
+—
+
+Material Chimera Card (ID: 27148)
+
+Deft
+
+—
+
+Heart Hunter Card (ID: 27149)
+
+Sniper
+
+—
+
+Venom Enchanted Chimera Card (ID: 27150)
+
+—
+
+of High Level
+
+Evil Card (ID: 27151)
+
+of Freezing
+
+—
+
+Cutie Card (ID: 27152)
+
+Prompt
+
+—
+
+Wood Goblin Card (ID: 27157)
+
+—
+
+of Aqua Wood
+
+Les Card (ID: 27158)
+
+—
+
+of Windiness
+
+Uzhas Card (ID: 27159)
+
+Demon Hunter's
+
+—
+
+Vavayaga Card (ID: 27160)
+
+Dodge
+
+—
+
+Mavka Card (ID: 27161)
+
+Land Blast
+
+—
+
+Gopinich Card (ID: 27162)
+
+Soul Steal
+
+—
+
+Faceworm Card (ID: 27163)
+
+—
+
+of Abranchia
+
+Faceworm Queen Card (ID: 27164)
+
+Koya
+
+—
+
+Dark Faceworm Card (ID: 27165)
+
+—
+
+of Albion
+
+Faceworm Egg Card (ID: 27166)
+
+Prio
+
+—
+
+Faceworm Larva Card (ID: 27167)
+
+Glacial
+
+—
+
+Elder Irene Card (ID: 27168)
+
+—
+
+of Padre
+
+Payon Soldier Card (ID: 27169)
+
+Infantry
+
+—
+
+Shotgun Buffalo Bandit Card (ID: 27170)
+
+—
+
+of Dust
+
+Revolver Buffalo Bandit Card (ID: 27171)
+
+—
+
+of Sunset
+
+Scimitar Buffalo Bandit Card (ID: 27172)
+
+Sharp Sword
+
+—
+
+Elite Shotgun Buffalo Bandit Card (ID: 27173)
+
+Dusty
+
+—
+
+Elite Revolver Buffalo Bandit Card (ID: 27174)
+
+Sunset
+
+—
+
+Elite Scimitar Buffalo Bandit Card (ID: 27175)
+
+Small Hunter
+
+—
+
+Brown Rat Card (ID: 27176)
+
+—
+
+of Dirty
+
+Marsh Arclouse Card (ID: 27177)
+
+—
+
+of Marsh
+
+Gaster Card (ID: 27178)
+
+—
+
+of Zero Guard
+
+Coyote Card (ID: 27179)
+
+—
+
+of Wild Fang
+
+Spider Tank Card (ID: 27180)
+
+Power Brake
+
+—
+
+Airship Raid Card (ID: 27181)
+
+Bane Band
+
+—
+
+Captain Ferlock Card (ID: 27182)
+
+Hammer Shooter
+
+—
+
+Gigantes Card (ID: 27183)
+
+Onslaught
+
+—
+
+Knight Sakray Card (ID: 27184)
+
+Salvation
+
+—
+
+Round Rider Card (ID: 27185)
+
+Funnel
+
+—
+
+Side Rider Card (ID: 27186)
+
+—
+
+of Bluff
+
+Blade Rider Card (ID: 27187)
+
+—
+
+of frame
+
+Top Round Rider Card (ID: 27188)
+
+Trigger Happy
+
+—
+
+Top Side Rider Card (ID: 27189)
+
+Speedster
+
+—
+
+Coyote Card (ID: 27190)
+
+—
+
+of Ice Barrier
+
+Gaster card (ID: 27191)
+
+—
+
+of Mist Guard
+
+Top Blade Rider Card (ID: 27192)
+
+Force of Mind
+
+—
+
+Canibaclouse Card (ID: 27194)
+
+Magic Boost
+
+—
+
+Plasma Rat Card (ID: 27195)
+
+Power Boost
+
+—
+
+Nihil M. Heine Card (ID: 27196)
+
+Heine
+
+—
+
+Agnes Lugenburg Card (ID: 27197)
+
+Lugenburg
+
+—
+
+Juergen Wigner Card (ID: 27198)
+
+Wigner
+
+—
+
+Spica Nerius Card (ID: 27199)
+
+Nerius
+
+—
+
+Nihil Card (ID: 27200)
+
+Nihil
+
+—
+
+Agnes Card (ID: 27201)
+
+Agnes
+
+—
+
+Juergen Card (ID: 27202)
+
+Jurgen
+
+—
+
+Spica Card (ID: 27203)
+
+Spica
+
+—
+
+Sealed Queen Scaraba Card (ID: 27209)
+
+Half Scaraba
+
+—
+
+Sealed Baphomet Card (ID: 27211)
+
+Half Scythelike
+
+—
+
+Sealed Maya Card (ID: 27212)
+
+Half Reflect
+
+—
+
+Sealed Clown Card (ID: 27213)
+
+—
+
+of Half Bragi
+
+Sealed Professor Card (ID: 27214)
+
+—
+
+of Half Magic Protection
+
+Sealed Champion Card (ID: 27215)
+
+—
+
+of Half Infiltration
+
+Sealed Creator Card (ID: 27216)
+
+—
+
+of Half Hydrochloric Acid
+
+Sealed Stalker Card (ID: 27217)
+
+—
+
+of Half Gentleman
+
+Sealed Paladin Card (ID: 27218)
+
+—
+
+of Half Grand Cross
+
+Sealed Gypsy Card (ID: 27219)
+
+—
+
+of Half Fortune
+
+Sealed General Daehyon Card (ID: 27220)
+
+Half Sword Master
+
+—
+
+Sealed Gioia Card (ID: 27221)
+
+Half Educe
+
+—
+
+Sealed Fallen Pyuriel Card (ID: 27222)
+
+Half Fear
+
+—
+
+Sealed Guardian Kades Card (ID: 27224)
+
+—
+
+of Half Devilish
+
+Sealed Time Holder Card (ID: 27225)
+
+Half Sage
+
+—
+
+Face Worm Queen Card (ID: 27237)
+
+Transformation
+
+—
+
+Face Worm Card (ID: 27238)
+
+Unpetrified
+
+—
+
+Dark Face Worm Card (ID: 27239)
+
+—
+
+of Wind Barrier
+
+Face Worm Egg Card (ID: 27240)
+
+Habitation
+
+—
+
+Face Worm Larva Card (ID: 27241)
+
+Jet
+
+—
+
+Great Elder Irene Card (ID: 27242)
+
+—
+
+of Elder
+
+Payon Soldier & Payon Patrol Card (ID: 27243)
+
+—
+
+of Soldier
+
+Pere & Kiss Me Pere Card (ID: 27244)
+
+Sing
+
+—
+
+Sing Pere & Swing Pere Card (ID: 27245)
+
+Perform
+
+—
+
+Jitterbug Card (ID: 27246)
+
+Fort
+
+—
+
+fff Jitterbug Card (ID: 27247)
+
+Fortissimo
+
+—
+
+Illusion Sara Card (ID: 27248)
+
+Phantom
+
+—
+
+Arhi Card (ID: 27249)
+
+Airi
+
+—
+
+Dio Anemos Card (ID: 27250)
+
+Anemos
+
+—
+
+Geffen Gangster Card (ID: 27251)
+
+Gangster
+
+—
+
+Geffen Bully Card (ID: 27252)
+
+Bully
+
+—
+
+Geffen Sneak Thief Card (ID: 27253)
+
+Shoplifter
+
+—
+
+Paiement Card (ID: 27254)
+
+Faymont
+
+—
+
+Ordre Card (ID: 27255)
+
+Ordre
+
+—
+
+Blut Haase Card (ID: 27256)
+
+Haase
+
+—
+
+Kuro Akuma Card (ID: 27257)
+
+Akuma
+
+—
+
+Ipodus Card (ID: 27258)
+
+Ifodes
+
+—
+
+Licheniyes Card (ID: 27259)
+
+Licheniyes
+
+—
+
+Odoric Card (ID: 27260)
+
+Odoric
+
+—
+
+Ju Card (ID: 27261)
+
+Ju
+
+—
+
+Dwigh Card (ID: 27262)
+
+Dwigh
+
+—
+
+Fei Kanavian Card (ID: 27263)
+
+Kanavian
+
+—
+
+Evil Shadow Card (ID: 27264)
+
+—
+
+of Evil Shadow
+
+Evil Fanatic Card (ID: 27265)
+
+Evil Fanatic
+
+—
+
+Colorful Teddy Bear Card (ID: 27286)
+
+Romping
+
+—
+
+Shiny Teddy Bear Card (ID: 27287)
+
+—
+
+of Liniment
+
+Miner Pitman Card (ID: 27288)
+
+—
+
+of Worker
+
+Soul Fragment Card (ID: 27289)
+
+Proper
+
+—
+
+Vicious Enchanted Obsidian Card (ID: 27290)
+
+—
+
+of Obsidian
+
+[ECO]Taini Alma Card (ID: 29230)
+
+Tainy Ale
+
+—
+
+Burning Fire (ID: 29363)
+
+Burning Fire
+
+—
+
+Rudo Card (ID: 31000)
+
+—
+
+of Toilet
+
+Lola Card (ID: 31001)
+
+Morning Star
+
+—
+
+Elvira Card (ID: 31002)
+
+Psychic
+
+—
+
+Merciless Gioia Card (ID: 31003)
+
+Will
+
+—
+
+Soheon Card (ID: 31004)
+
+Twister
+
+—
+
+General Daehyon Card (ID: 31005)
+
+Sword Master
+
+—
+
+[LoVA] Hades Card (ID: 31006)
+
+—
+
+of Praise Death Lord
+
+[LoVA] Realization Hades Card (ID: 31007)
+
+—
+
+of Immortal Grudge
+
+[LoVA] Lulu Card (ID: 31008)
+
+Spirit Amulet
+
+—
+
+[LoVA] Realization Lulu Card (ID: 31009)
+
+—
+
+of Wish Song
+
+[LoVA] Kima Card (ID: 31010)
+
+Shubha~~~n!
+
+—
+
+[LoVA] Realization Kima Card (ID: 31011)
+
+Kimakima Time
+
+—
+
+[LoVA] Bahamut Card (ID: 31012)
+
+Dragon Fear
+
+—
+
+[LoVA] Realization Bahamut Card (ID: 31013)
+
+Mega Flare
+
+—
+
+[LoVA] Ragnarok Card (ID: 31014)
+
+—
+
+of Golden End
+
+[LoVA] Realization Ragnarok Card (ID: 31015)
+
+—
+
+of God of Fate
+
+Decorated Evil Tree Card (ID: 31016)
+
+—
+
+of Sorrow
+
+Vicious Cookie Card (ID: 31017)
+
+—
+
+of Hatred
+
+Evil Dwelling Box Card (ID: 31018)
+
+Frustration
+
+—
+
+Creepy Demon Card (ID: 31019)
+
+—
+
+of Chill
+
+Malicious Baby Ghost Card (ID: 31020)
+
+—
+
+of Wrath
+
+Dancing Marionette Card (ID: 31021)
+
+Madness
+
+—
+
+Abandoned Teddy Bear Card (ID: 31022)
+
+—
+
+of Despair
+
+Celine Kimi Card (ID: 31023)
+
+Maniac
+
+—
+
+Immortal Cursed Knight Card (ID: 31024)
+
+Volcanic Ball
+
+—
+
+Immortal Wind Ghost Card (ID: 31025)
+
+Deadly
+
+—
+
+Stephane Jack Earnest Wolf Card (ID: 31026)
+
+Auto Magic
+
+—
+
+Magmawhip Card (ID: 90000)
+
+—
+
+of Endurance
+
+SCOUT Card (ID: 90001)
+
+Repulsing
+
+—
+
+Rekenber Soldier Card (ID: 90002)
+
+Far-reaching
+
+—
+
+WELDER Card (ID: 90003)
+
+Balanced
+
+—
+
+CORE card (ID: 90004)
+
+Fireproof
+
+—
+
+DRILL Card (ID: 90005)
+
+Overclocked
+
+—
+
+Living Magma Card (ID: 90006)
+
+Perilous
+
+—
+
+FUEL Card (ID: 90007)
+
+—
+
+of Pyromania
+
+Rekenber Guard Card (ID: 90008)
+
+—
+
+of Relocating
+
+Rekenber Mercenary Card (ID: 90009)
+
+Subduing
+
+—
+
+Magma Familiar Card (ID: 90010)
+
+Spry
+
+—
+
+MAID Card (ID: 90011)
+
+Menacing
+
+—
+
+Rekenber General Card (ID: 90012)
+
+Immovable
+
+—
+
+Ignis Card (ID: 90013)
+
+—
+
+of Arson
+
+Pill Bug Card (ID: 90014)
+
+—
+
+of Crawling
+
+Great Snake Card (ID: 90015)
+
+—
+
+of Slithering
+
+Elite Punk Card (ID: 90016)
+
+Craven's
+
+—
+
+Spurus Card (ID: 90017)
+
+—
+
+of Simpleton
